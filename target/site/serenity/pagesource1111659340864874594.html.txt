@@ -1,0 +1,865 @@
+<html lang="pt-br"><head>
+<title>Cursos online - a qualquer hora, em qualquer lugar | Udemy</title>
+<meta name="description" content="A Udemy é o maior destino mundial para cursos online. Encontre um curso online na Udemy.com e comece a aprender uma nova habilidade hoje mesmo."><meta name="google-play-app" content="app-id=com.udemy.android"><meta name="apple-itunes-app" content="app-id=562413829, affiliate-data=ct=Safari_SmartBanner&amp;amp;pt=1240482"><meta name="robots" content="noindex,nofollow"><meta name="twitter:card" content="summary_large_image"><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"><meta name="medium" content="mult"><meta name="title" content="Cursos online - a qualquer hora, em qualquer lugar | Udemy"><meta property="fb:app_id" content="313137469260"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta property="og:title" content="Cursos online - a qualquer hora, em qualquer lugar | Udemy"><meta property="og:url" content="https://www.udemy.com/join/login-popup/"><meta property="og:description" content="A Udemy é o maior destino mundial para cursos online. Encontre um curso online na Udemy.com e comece a aprender uma nova habilidade hoje mesmo."><meta property="og:image" content="https://www.udemy.com/staticx/udemy/images/v6/default-meta-image.png"><meta property="og:type" content="video_lecture"><meta property="og:site_name" content="Udemy"><meta property="og:locale" content="pt_BR"><meta name="twitter:domain" content="www.udemy.com"><meta name="twitter:title" content="Cursos online - a qualquer hora, em qualquer lugar | Udemy"><meta name="twitter:url" content="https://www.udemy.com/join/login-popup/"><meta name="twitter:description" content="A Udemy é o maior destino mundial para cursos online. Encontre um curso online na Udemy.com e comece a aprender uma nova habilidade hoje mesmo."><meta name="twitter:image" content="https://www.udemy.com/staticx/udemy/images/v6/default-meta-image.png"><meta name="twitter:site" content="@udemy"><meta itemprop="name" content="Cursos online - a qualquer hora, em qualquer lugar | Udemy"><meta itemprop="url" content="https://www.udemy.com/join/login-popup/"><meta itemprop="description" content="A Udemy é o maior destino mundial para cursos online. Encontre um curso online na Udemy.com e comece a aprender uma nova habilidade hoje mesmo."><meta itemprop="image" content="https://www.udemy.com/staticx/udemy/images/v6/default-meta-image.png">
+<link rel="stylesheet" href="https://www.udemy.com/staticx/udemy/js/node_modules/webshim/js-webshim/minified/shims/styles/shim.css"><link type="text/css" href="/staticx/udemy/js/webpack/entry-main-legacy.2a4627eb9f4fe11b32d1.css" rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="/staticx/udemy/js/webpack/udlite-common-css.1c19cd86e7f60d5e6c10.css">
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cl.qualaroo.com/ki.js/34436/6GL.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script src="https://www.redditstatic.com/ads/pixel.js" async=""></script><script type="text/javascript" async="" src="https://intljs.rmtag.com/111655.ct.js"></script><script async="" src="//d.impactradius-event.com/A380319-1bcf-4b7b-9299-22e85825ceea1.js"></script><script src="https://connect.facebook.net/signals/config/399727027340013?v=2.9.24&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/1457291081167286?v=2.9.24&amp;r=stable" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-7BF3X"></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pt_BR.a6GHiIGXkgs.O/m=client/rt=j/sv=1/d=1/ed=1/am=wQE/rs=AGLTcCMvqysS0HA-iQRsFSpGmcsCQfBjnA/cb=gapi.loaded_0" async=""></script><script>(window.webpackJsonp=window.webpackJsonp||[]).push([["udlite-common-css"],[]]);</script>
+<link rel="preconnect" href="https://img-a.udemycdn.com/" crossorigin="">
+<link rel="dns-prefetch" href="https://img-a.udemycdn.com/" crossorigin="">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://www.udemy.com/staticx/udemy/images/v6/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.udemy.com/staticx/udemy/images/v6/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.udemy.com/staticx/udemy/images/v6/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.udemy.com/staticx/udemy/images/v6/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://www.udemy.com/staticx/udemy/images/v6/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.udemy.com/staticx/udemy/images/v6/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.udemy.com/staticx/udemy/images/v6/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.udemy.com/staticx/udemy/images/v6/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="https://www.udemy.com/staticx/udemy/images/v6/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="https://www.udemy.com/staticx/udemy/images/v6/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://www.udemy.com/staticx/udemy/images/v6/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://www.udemy.com/staticx/udemy/images/v6/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://www.udemy.com/staticx/udemy/images/v6/favicon-128.png" sizes="128x128">
+<meta name="application-name" content="Udemy">
+<meta name="msapplication-TileColor" content="#EDECE6">
+<meta name="msapplication-TileImage" content="https://www.udemy.com/staticx/udemy/images/v6/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="https://www.udemy.com/staticx/udemy/images/v6/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="https://www.udemy.com/staticx/udemy/images/v6/mstile-150x150.png">
+<meta name="msapplication-wide310x150logo" content="https://www.udemy.com/staticx/udemy/images/v6/mstile-310x150.png">
+<meta name="msapplication-square310x310logo" content="https://www.udemy.com/staticx/udemy/images/v6/mstile-310x310.png">
+<style>/* cyrillic-ext */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 300;
+    src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OX-hpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXOhv.woff) format('woff');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 300;
+    src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OVuhpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXOhv.woff) format('woff');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 300;
+    src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXuhpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXOhv.woff) format('woff');
+    unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 300;
+    src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OUehpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXOhv.woff) format('woff');
+    unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 300;
+    src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXehpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXOhv.woff) format('woff');
+    unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 300;
+    src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXOhpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXOhv.woff) format('woff');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 300;
+    src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OUuhpKKSTjw.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXOhv.woff) format('woff');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 400;
+    src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFWJ0bf8pkAp6a.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFW50d.woff) format('woff');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 400;
+    src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFUZ0bf8pkAp6a.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFW50d.woff) format('woff');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 400;
+    src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFWZ0bf8pkAp6a.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFW50d.woff) format('woff');
+    unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 400;
+    src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVp0bf8pkAp6a.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFW50d.woff) format('woff');
+    unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 400;
+    src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFWp0bf8pkAp6a.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFW50d.woff) format('woff');
+    unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 400;
+    src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFW50bf8pkAp6a.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFW50d.woff) format('woff');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 400;
+    src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0bf8pkAg.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFW50d.woff) format('woff');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 600;
+    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOX-hpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXOhv.woff) format('woff');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 600;
+    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOVuhpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXOhv.woff) format('woff');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 600;
+    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXuhpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXOhv.woff) format('woff');
+    unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 600;
+    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUehpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXOhv.woff) format('woff');
+    unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 600;
+    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXehpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXOhv.woff) format('woff');
+    unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 600;
+    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXOhpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXOhv.woff) format('woff');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 600;
+    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhpKKSTjw.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXOhv.woff) format('woff');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 700;
+    src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOX-hpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXOhv.woff) format('woff');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 700;
+    src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOVuhpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXOhv.woff) format('woff');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 700;
+    src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXuhpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXOhv.woff) format('woff');
+    unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 700;
+    src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOUehpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXOhv.woff) format('woff');
+    unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 700;
+    src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXehpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXOhv.woff) format('woff');
+    unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 700;
+    src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXOhpKKSTj5PW.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXOhv.woff) format('woff');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-display: fallback;
+    font-weight: 700;
+    src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOUuhpKKSTjw.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXOhv.woff) format('woff');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style>
+<style>
+    .org-logo {
+        background-image: url('https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg');
+    }
+
+    @media (min-resolution: 2dppx),
+    (min-resolution: 192dpi),
+    (-webkit-min-device-pixel-ratio: 2) {
+        @-ms-viewport { width:device-width; zoom:1.0; }
+        .org-logo {
+            /*retina display*/
+            background-image: url('https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg');
+        }
+    }
+</style>
+<script type="text/javascript">
+    (function () {
+        var head,
+            regExp = "",
+            version = -1,
+            userAgent = navigator.userAgent;
+
+        if (navigator.appName == 'Microsoft Internet Explorer') {
+            regExp = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+        } else if (navigator.appName == 'Netscape') {
+            regExp = new RegExp("Trident/.*rv:([0-9]{1,}[\.0-9]{0,})");
+        }
+        if (regExp && regExp.exec(userAgent) != null) {
+            version = parseFloat(RegExp.$1);
+        }
+
+        if (version > 9) {
+            head = document.getElementsByTagName("html")[0];
+            head.className = head.className + " ie";
+            if (version == 10) {
+                head.className = head.className + " ie10";
+            }
+        }
+    })();
+</script>
+<script>
+    var UD = UD || {};
+    UD.me = {"learning_languages":[],"qualaroo_survey_ids":[],"settings":{},"encrypted_affiliate_uid":"","encrypted_affiliate_email":""};
+    UD.Config = {"brand":{"is_team":false,"product_name":"Udemy","logo_url_2x":"https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg","is_user_profiles_public":true,"is_share_to_workplace_enabled":false,"is_government":false,"is_messaging_enabled":true,"is_social_sharing_enabled":true,"has_organization":false,"is_autoshow_cc_enabled":true,"is_discussions_enabled":true,"title":"Udemy","is_profile_functions_enabled":true,"is_third_party_marketing_enabled":true,"organization":false,"is_teaching_enabled":true,"_class":"brand","is_import_courses_enabled":true,"is_external_sources_enabled":true,"product_logo":"https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg","is_feed_commenting_enabled":true,"product_logo_light":"https://www.udemy.com/staticx/udemy/images/v6/logo-coral-light.svg","identifier":"br","is_add_reviews_enabled":true,"is_share_on_slack_enabled":false,"is_sso_enabled":false,"link_bar_nav_list_id":"ud-link-bar"},"price_country":{"currency":"brl","id":"BR","usd_currency_formatter":{"currency":"usd","locale":"pt_BR","scale":2,"symbol":"US$","group":".","pattern":"!#,##0.00","decimal":","},"currency_charm_amount":-0.01,"_class":"country","currency_symbol":"R$","currency_decimal_places":2,"currency_formatter":{"currency":"brl","locale":"pt_BR","scale":2,"symbol":"R$","group":".","pattern":"!#,##0.00","decimal":","}},"graphql_federation_endpoint":"https://www.udemy.com/graphql/","version":"16e8fc32bd50569c6a6c47e4f52e1bc915cc9050","env":"PROD","url":{"to_page_events":"https://page-events-ustats.udemy.com/","to_app":"https://www.udemy.com/","to_js":"https://www.udemy.com/staticx/udemy/js/","to_root":"https://www.udemy.com/","to_images":"https://www.udemy.com/staticx/udemy/images/"},"third_party":{"uft_stripe_publishable_key":"pk_live_dCyHJcZsk8NaNwx1PiRSpqqq","raven_dsn":"https://369c830fbf534485a068ab919d71b80d@sentry.io/38617","intercom":{"app_id":"sehj53dd"},"filestack":{"presentation_extensions":[".pdf"],"source_code_extensions":[".rb",".py"],"filepicker_misc_extensions":[".gif",".jpg",".jpeg",".png",".rar",".zip",".pdf"],"key":"A0EHlHYkEQbCTpDvxEwAYz","s3_fineuploader_misc_extensions":[".pack",".scm",".webp",".jar",".sit",".etx",".wma",".sdo",".uvvt",".nnd",".pwn",".ftc",".zip",".m15",".wk4",".xltm",".kne",".fxpl",".u8msg",".oxps",".m4u",".ggt",".xo",".sl",".cpkg",".mesh",".tao",".btif",".json-patch",".imp",".cmc",".ice",".pbm",".s1e",".wsdl",".uvvf",".apr",".oprc",".xdm",".mp3",".xop",".gac",".nws",".tcu",".rp9",".xpr",".wps",".sms",".sti",".smht",".portpkg",".kpt",".pcl",".sppt",".slaz",".tfx",".st",".ns4",".mgz",".dcf",".ait",".jpg2",".h",".odp",".nb",".g2w",".xhtm",".chrt",".wk3",".or3",".uri",".qxl",".pdb",".cxx",".otp",".xpm",".rdz",".pseg3820",".azs",".wbs",".pptx",".clkp",".paw",".sse",".atomsvc",".qcp",".seml",".nsh",".msf",".src",".stm",".smo",".msty",".wmlc",".hbci",".nsf",".wml",".xpx",".mpd",".skd",".gif",".dd",".ez2",".cmp",".jad",".xps",".evc",".mbox",".tnf",".smi",".tree",".skp",".669",".opus",".relo",".xyze",".vcg",".gqf",".mjp2",".dor",".kfo",".ifb",".distz",".ez3",".dxp",".cst",".cuc",".vcx",".iota",".rnc",".dotm",".tlclient",".sgml",".ksh",".ecelp4800",".gsm",".twds",".ent",".seed",".dna",".drc",".tpl",".pyv",".umj",".iges",".uvg",".s1j",".stif",".u8mdn",".mmf",".rtx",".xfdf",".json",".gsheet",".jisp",".sdoc",".cl",".nds",".x3d",".aa3",".xel",".ghf",".evw",".qwd",".ep",".afp",".pps",".dis",".3gp",".vsd",".bh2",".enw",".ppsx",".pyo",".mj2",".ttl",".sjp",".stf",".stw",".uvd",".mcd",".swf",".jp2",".link66",".ustar",".cdf",".dms",".xlam",".fxm",".crx",".txf",".ras",".tcl",".btf",".ram",".msm",".xcs",".xpi",".zmm",".grv",".c11amz",".sgi",".or2",".geo",".lostsyncxml",".vcf",".scs",".u8hdr",".et3",".ic8",".quox",".smp",".woff",".msl",".dls",".mgp",".xmt_txt",".fdf",".provn",".s1w",".uoml",".sig",".appcache",".dwf",".qcall",".ivp",".hdr",".wmx",".mts",".nnw",".tar",".cif",".mseed",".jpx",".jpe",".dpkg",".qxb",".apxml",".emm",".css",".ppsm",".pfr",".uvvu",".uvvv",".oxt",".wmc",".rgbe",".crl",".lwp",".irp",".txt",".mht",".fst",".uvt",".m1v",".igx",".stk",".shf",".wrl",".cml",".pgb",".nc",".vwx",".ors",".sxl",".cab",".5",".man",".model-inter",".esa",".uvi",".bmml",".odt",".gtar",".djv",".kom",".aal",".oa3",".texinfo",".fly",".uvvg",".mods",".cdmiq",".svc",".skt",".rpst",".ic1",".amr",".igs",".3",".dd2",".es",".py",".ipk",".sieve",".acu",".uvvh",".acn",".dfac",".n-gage",".zir",".m4a",".roa",".c11amc",".ic7",".zirz",".fcdt",".sql",".bkm",".potx",".1905.1",".smp3",".sc",".ttf",".tgz",".wqd",".cdkey",".uvm",".mus",".emma",".rip",".cnd",".pil",".x_b",".kia",".s3m",".xav",".js",".yang",".c4p",".s1m",".sdkd",".viv",".jnlp",".tcap",".utz",".xsd",".mov",".see",".aif",".ccxml",".spx",".bed",".t",".frm",".lzh",".bar",".pgm",".xyz",".mft",".sswf",".mpp",".xdp",".xfdl",".tiff",".psb",".csp",".uris",".lvp",".m21",".notebook",".vcd",".jpeg",".uvvp",".vsf",".mpg4",".mpc",".qxt",".mxi",".pqa",".docx",".svg",".sdp",".mod",".s1g",".ief",".soc",".gtm",".wpl",".orq",".wdb",".jlt",".726",".123",".s1n",".art",".qxd",".sh",".oa2",".uvf",".sid",".tsd",".cpl",".nitf",".fm",".meta4",".mmr",".text",".swi",".mxs",".xpw",".wiz",".jpgm",".sus",".ppa",".rtf",".slt",".vsw",".ssw",".mwc",".gex",".at3",".moml",".ic5",".odf",".xwd",".esf",".bmp",".tex",".xca",".xdw",".pya",".gtw",".ggb",".prz",".xhvml",".wav",".igm",".kcm",".otc",".xsf",".kil",".gim",".pml",".mpg",".sxc",".sxls",".mrcx",".au",".wgt",".gph",".karbon",".ivu",".spn",".vss",".sv4cpio",".uvv",".ps",".slc",".mpy",".ssml",".daf",".mpa",".vbox",".fvt",".pkd",".dataless",".jpg",".o4v",".vcard",".sla",".fnc",".7",".ddf",".fsc",".mfm",".xmt_bin",".rep",".htm",".rpss",".qam",".listafp",".ns2",".uvvz",".lrm",".wmls",".semd",".ppam",".mp2",".fe_launch",".xlt",".ic6",".dir",".cellml",".obj",".tur",".fcs",".aiff",".potm",".sml",".cdmid",".xdf",".awb",".s3df",".fla",".mwf",".ott",".nml",".joda",".cw",".flx",".uvp",".finf",".evb",".pod",".m3u8",".wspolicy",".bcpio",".cpio",".xns",".torrent",".3dm",".sxw",".spng",".t38",".plb",".rdf",".edx",".ac",".sfd-hdstx",".bpd",".cdmia",".wcm",".fti",".sm",".3dml",".tpt",".std",".list3820",".ktz",".quiz",".mxf",".wmv",".mrc",".fxp",".xvml",".uvvi",".wadl",".hvs",".dwg",".ipfix",".xslt",".cdbcmsg",".pre",".spd",".rq",".cdmic",".mlp",".xsm",".sema",".eps",".c",".omg",".pyc",".class",".xer",".cgm",".html",".mp4",".stc",".asx",".lasxml",".spl",".icm",".metalink",".mqy",".ami",".p7c",".spq",".kwt",".opf",".ufd",".img",".cdy",".cryptonote",".odb",".hvd",".ics",".kmz",".iif",".c4d",".xbd",".ngdat",".clkt",".ei6",".axa",".gqs",".rif",".oga",".midi",".ppm",".xhtml",".stml",".ic2",".zaz",".wtb",".dcm",".mbk",".xlc",".gram",".txd",".exe",".mseq",".sjpg",".pgp",".mads",".pl",".smv",".sxd",".sac",".cla",".s1q",".tsq",".clkx",".rng",".pnm",".azv",".xlw",".a",".pdf",".spot",".texi",".dist",".ifm",".ico",".vew",".6",".f90",".pgn",".snd",".p7s",".cc",".tif",".pcap",".fbs",".p8",".mxml",".qwt",".rm",".ptid",".tra",".ult",".lha",".pkipath",".unityweb",".mpga",".dpg",".odg",".dcr",".kpr",".box",".cww",".flv",".latex",".roff",".wmlsc",".semf",".saf",".flac",".bmi",".tsa",".flw",".doc",".dll",".dpgraph",".tga",".pptm",".oda",".copyright",".ez",".aep",".rct",".s11",".avi",".lmp",".mpn",".efif",".uo",".dtd",".clkk",".pbd",".odc",".med",".gdl",".vst",".hdf",".ccc",".l16",".vis",".iso",".xltx",".mp21",".uvh",".cer",".inkml",".3g2",".ppkg",".mdi",".dsc",".xpdl",".gmx",".ts",".nsg",".mid",".lbd",".p12",".pki",".rdf-crypt",".8",".mdc",".smh",".o",".tfi",".hvp",".wpd",".cil",".ims",".tuc",".uvz",".g3w",".kar",".xif",".mmd",".qps",".pm",".dvb",".vxml",".taglet",".rl",".icc",".fts",".rss",".hal",".rs",".pkg",".str",".clkw",".eol",".silo",".siv",".bin",".xfd",".ecelp7470",".soa",".ter",".sgif",".provx",".cii",".rsm",".ots",".sgm",".fo",".sldx",".sdkm",".wvx",".mxl",".ic0",".so",".mpeg",".dtshd",".upa",".zfo",".i2g",".vpm",".atomdeleted",".ppt",".xbm",".dotx",".xz",".u8dsn",".yin",".rnd",".vtu",".s1p",".gre",".mif",".cap",".atom",".wif",".mxu",".rlc",".edm",".curl",".s1a",".gbr",".wks",".manifest",".ahead",".fg5",".ns3",".otf",".uni",".csh",".wlnk",".ext",".cdmio",".wbxml",".ai",".xlb",".mpf",".gz",".azf",".mb",".es3",".smov",".skm",".org",".icf",".acutc",".ic3",".xml",".hh",".psd",".nim",".rgb",".dart",".pti",".study-inter",".lbe",".tmo",".sem",".pfx",".scd",".sdf",".mms",".jam",".aifc",".mpt",".ogv",".m",".wbmp",".dr",".wsc",".o4a",".chm",".ndc",".webm",".oti",".g3",".p10",".s14",".ac3",".ica",".rsheet",".gxt",".sic",".irm",".wax",".spp",".3gpp2",".jpm",".shar",".sfd",".sub",".el",".dxr",".auc",".mxmf",".mpm",".docm",".ic4",".hpgl",".sis",".tnef",".sisx",".pskcxml",".cdxml",".hps",".zone",".uric",".c4u",".nbp",".vsc",".xla",".osf",".dssc",".spdf",".g\u00b3",".eot",".si",".epub",".uvva",".acc",".map",".twd",".susp",".xspf",".ecelp9600",".rst",".asf",".dmp",".odm",".p7m",".tag",".nlu",".exi",".atomcat",".eml",".teiCorpus",".grxml",".qfx",".hbc",".tsr",".fzs",".m3u",".xlim",".hpi",".xls",".atc",".fits",".qt",".mpe",".uvvd",".apk",".lostxml",".scq",".ppd",".me",".smpg",".2",".png",".vrml",".xdssc",".davmount",".prc",".wm",".mail",".xlm",".preminet",".bat",".jtd",".sxm",".fit",".dae",".mc1",".hpid",".xar",".bz2",".plc",".sxi",".ms",".sru",".dm",".uvx",".rcprofile",".xlsx",".sldm",".ltf",".qca",".ktr",".ktx",".odi",".4",".xlsb",".flo",".3gpp",".sfs",".asc",".mag",".aso",".hqx",".c4g",".wg",".scsf",".icd",".svgz",".spf",".sxg",".dp",".x_t",".ma",".dsm",".mhtml",".1",".n3",".miz",".tau",".mml",".ogx",".m2v",".fdt",".ksp",".jpf",".smzip",".dot",".movie",".les",".mpkg",".koz",".mtm",".wk1",".lbc",".kml",".dts",".dxf",".ink",".tsv",".uvs",".uvvs",".sam",".itp",".ogg",".ccmp",".abc",".csv",".nns",".ufdl",".xvm",".pls",".msd",".qbo",".axv",".uvvm",".m4v",".ods",".uvvx",".bdm",".s1h",".cpt",".ra",".smil",".conf",".xmls",".oth",".hxx",".ntf",".pot",".anx",".mets",".wv",".kon",".plf",".srx",".sv4crc",".uva",".rld",".win",".crtr",".mp1",".package",".ndl",".gv",".dvi",".spo",".uvu",".igl",".rms",".teacher",".rpm",".c4f",".jfif",".xht",".xul",".ism",".knp",".djvu",".thmx",".kwd",".odd",".log",".sandboxed",".atx",".entity",".xsl",".dvc",".pvb",".msh",".psid",".fpx",".xlsm",".vbk",".td",".otg",".tei",".tr",".oas",".pwz",".ddd",".ssf",".plj",".request",".htke"],"audio_extensions":[".mp3",".wav"],"video_extensions":[".avi",".mpg",".mpeg",".flv",".mov",".m2v",".m4v",".mp4",".rm",".ram",".vob",".ogv",".webm",".wmv"]},"google_tag_manager_id":"GTM-7BF3X","s3":{"image_asset":{"key":"AKIAIOTLFW3HMG563JEA","bucket_url":"https://udemy-image-web-upload.s3.amazonaws.com"},"asset":{"key":"AKIAIOTLFW3HMG563JEA","bucket_url":"https://udemy-web-upload-transitional.s3.amazonaws.com"},"images":{"base_url":"https://i.udemycdn.com/"}},"google_analytics_id_for_ufb_only":"UA-12366301-47","google_analytics_id_for_course_taking":"UA-12366301-45","facebook_app_id":"313137469260","pusher":{"coding_exercise_event":"coding-exercise-evaluated","key":"825910825f8199bd5b21"},"sift_account":"78b4b13f0a","user_stripe_publishable_key":"pk_live_xOuIgZiF7hb3wSwFSAOz3dRm","stripe_publishable_key":"pk_live_xOuIgZiF7hb3wSwFSAOz3dRm","branch_metrics":{"ios_ufb_download_url":"http://ude.my/ios-ufb","android_download_url":"http://ude.my/android","ios_download_url":"http://ude.my/ios","android_ufb_download_url":"http://ude.my/android-ufb"},"zendesk":{"refund_form_id":406368},"google_analytics_id":"UA-12366301-1","paypal":{"authend":"live","returnurl":"https://www.udemy.com/user/paypal-login-return","appid":"ASRJrkbBfTwvxWNTn-QRakeimIbsjmBuK5hWj4zq3QJL46CKIYNb-RiKjrTSe-2iZ-EFrCCuXGZTxHjY"}},"js_bundle":"modern","supported_languages":[{"name":"English","locale":"en_US","lang":"en"},{"name":"Deutsch","locale":"de_DE","lang":"de"},{"name":"Espa\u00f1ol","locale":"es_ES","lang":"es"},{"name":"Fran\u00e7ais","locale":"fr_FR","lang":"fr"},{"name":"Bahasa Indonesia","locale":"id_ID","lang":"id"},{"name":"Italiano","locale":"it_IT","lang":"it"},{"name":"\u65e5\u672c\u8a9e","locale":"ja_JP","lang":"ja"},{"name":"\ud55c\uad6d\uc5b4","locale":"ko_KR","lang":"ko"},{"name":"Nederlands","locale":"nl_NL","lang":"nl"},{"name":"Polski","locale":"pl_PL","lang":"pl"},{"name":"Portugu\u00eas","locale":"pt_BR","lang":"pt"},{"name":"Rom\u00e2n\u0103","locale":"ro_RO","lang":"ro"},{"name":"\u0420\u0443\u0441\u0441\u043a\u0438\u0439","locale":"ru_RU","lang":"ru"},{"name":"\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22","locale":"th_TH","lang":"th"},{"name":"T\u00fcrk\u00e7e","locale":"tr_TR","lang":"tr"},{"name":"\u4e2d\u6587(\u7b80\u4f53)","locale":"zh_CN","lang":"zh-cn"},{"name":"\u4e2d\u6587(\u7e41\u9ad4)","locale":"zh_TW","lang":"zh-tw"}],"app_name":"join","marketplace_country":{"currency":"brl","id":"BR","iso_code":"BRA","_class":"country","title":"Brazil"},"features":{"bundle":{"instructor_bio":{"social_links":true}},"course_landing_page":{"instructor_bio":{"social_links":true,"stats":true,"image":true},"deal_badge":true,"incentives":{"access_tv":true,"lifetime_access":true},"money_back_guarantee":true},"course":{"refundable":true,"announcements":{"comments":{"view":true}},"students":{"unenroll":false},"discussions":{"view":true}},"intercom_chat":false,"social_share":{"email":true,"welcome_popup":true},"notice":{"ufb_smart_bar":false,"instructor_bar":false,"smart_bar":false},"wishlist":true,"reviews":{"show_user_avatar":true},"notifications":true,"flyout":true,"home":{"signup_cta":true,"my_courses":{"privacy":true,"free_label":true,"revenue":true}},"referral_program_enabled":true,"ufb_notices":true,"logged_in_home":{"ufb_ad":false,"linkbar_level_2":true},"zendesk_chat":false,"ufb_notices_footer":{"top_com":true},"course_badge":true,"discount":{"change_alerts":true},"report_abuse":true,"hello_bar":{"pricing":true,"instructor":false,"terms":true},"organization":{"aws_labs_enabled":false,"group_admin_permissions_enabled":true,"auth":{"scim_api_enabled":false,"scim_integration_component_enabled":true,"sso_self_serve_enabled":false},"learning_path":{"copy_learning_path_item":false,"collaboration":false,"enabled":false},"lms_self_serve_enabled":false,"course_taking":{"student_assignment_submissions_enabled":true},"manage_satisfaction":{"satisfaction":false},"enterprise":{"onboarding_enabled":true},"manage_insights":{"path_insights_v2":false},"mobile":{"mobile_activity_widget_enabled":false}},"course_review":{"clp_review_search":true,"leave_feedback":true},"shopping_cart":true,"invite":{"alert":true}}};
+    UD.site_stats = {"default":{"num_instructors":35000,"num_students":24,"num_topics":2000,"num_courses":150000},"organizations":{"num_courses":4000}};
+    UD.visiting = {"is_first_time_visitor":true,"visitor_uuid":"1c9dfbb5871042cd91567f3077e9e2de","first_visit_time":"2020-09-02T00:07:20.210Z"};
+    UD.userAgnosticTrackingParams = {"page_key":"login","collector_url":"https://www.udemy.com/api-2.0/ecl"};
+    UD.userSpecificTrackingParams = {"tracking_enabled":true};
+    UD.request = {"language_simple_english_title":"Portuguese","isTablet":false,"termsBarType":"","locale":"pt_BR","isPC":true,"isMobile":false,"language":"pt","serverTimestamp":"2020-09-02T00:07:20.265962+00:00","third_party_location":"https://www.udemy.com/join/login-popup/?locale=pt_BR\u0026next=https%3A%2F%2Fwww.udemy.com%2Fmobile%2Fipad%2F\u0026response_type=html\u0026skip_suggest=1","navigation_locale":"en_US","termsBarUrls":""};
+    UD.request.clientTimestamp = new Date().toISOString();
+    UD.experiment = {"sw":{"2690":{"variant":6780,"state":"recorded","values":{"cookielessHLSForAndroid":true}},"2250":{"variant":5672,"state":"recorded","values":{"price_engine_variant":1,"update_list_price":true}},"2578":{"variant":6530,"state":"recorded","values":{"arabic_language_source":"browser"}},"2598":{"variant":6568,"state":"recorded","values":{"nearest_99_adjustment":true}}}};
+</script>
+<script>
+    if (window.performance && typeof window.performance.mark === 'function'
+            && typeof window.performance.measure === 'function') {
+        UD.performance = {
+            _trackedResources: [],
+            _eventNamePrefix: 'UD-',
+            trackResourceTiming: function (resourceName, resourceUrl) {
+                this._trackedResources.push({ name: resourceName, url: resourceUrl });
+            },
+            mark: function (name) {
+                window.performance.mark(this._eventNamePrefix + name);
+            },
+            start: function (name) {
+                window.performance.mark(this._eventNamePrefix + '_' + name + '-start');
+            },
+            end: function (name) {
+                var endMark = this._eventNamePrefix + '_' + name + '-end';
+                var startMark = this._eventNamePrefix + '_' + name + '-start';
+                window.performance.mark(endMark);
+                
+                if (window.performance.getEntriesByName(startMark).length > 0) {
+                    window.performance.measure(this._eventNamePrefix + name, startMark, endMark);
+                }
+            },
+            sync: function() {
+                
+                window.dispatchEvent(new CustomEvent('syncPerf',
+                    { detail: { trackedResources: this._trackedResources } }
+                ));
+            }
+        };
+    } else {
+        UD.performance = {
+            trackResourceTiming: Function.prototype,
+            mark: Function.prototype,
+            start: Function.prototype,
+            end: Function.prototype,
+            sync: Function.prototype
+        };
+    }
+</script>
+<script>
+            UD.browse = {
+                navigation_categories: [{"type":"category","absolute_url":"/courses/development/","title":"Desenvolvimento","title_cleaned":"development","icon_name":"development","id":288,"children":[{"type":"subcategory","absolute_url":"/courses/development/web-development/","title":"Desenvolvimento web","title_cleaned":"web-development","icon_name":"web-development","id":8,"children":null},{"type":"subcategory","absolute_url":"/courses/development/data-science/","title":"Data Science","title_cleaned":"data-science","icon_name":"analytics-and-automation","id":558,"children":null},{"type":"subcategory","absolute_url":"/courses/development/mobile-apps/","title":"Aplicativos M\u00f3veis","title_cleaned":"mobile-apps","icon_name":"mobile-apps","id":10,"children":null},{"type":"subcategory","absolute_url":"/courses/development/programming-languages/","title":"Linguagens de programa\u00e7\u00e3o","title_cleaned":"programming-languages","icon_name":"programming-languages","id":12,"children":null},{"type":"subcategory","absolute_url":"/courses/development/game-development/","title":"Desenvolvimento de games","title_cleaned":"game-development","icon_name":"game-development","id":14,"children":null},{"type":"subcategory","absolute_url":"/courses/development/databases/","title":"Bancos de dados","title_cleaned":"databases","icon_name":"databases","id":16,"children":null},{"type":"subcategory","absolute_url":"/courses/development/software-testing/","title":"Teste de software","title_cleaned":"software-testing","icon_name":"software-testing","id":18,"children":null},{"type":"subcategory","absolute_url":"/courses/development/software-engineering/","title":"Engenharia de software","title_cleaned":"software-engineering","icon_name":"software-engineering","id":20,"children":null},{"type":"subcategory","absolute_url":"/courses/development/development-tools/","title":"Ferramentas de desenvolvimento","title_cleaned":"development-tools","icon_name":"development-tools","id":362,"children":null},{"type":"subcategory","absolute_url":"/courses/development/e-commerce/","title":"e-Commerce","title_cleaned":"e-commerce","icon_name":"e-commerce","id":354,"children":null}]},{"type":"category","absolute_url":"/courses/business/","title":"Neg\u00f3cios","title_cleaned":"business","icon_name":"business","id":268,"children":[{"type":"subcategory","absolute_url":"/courses/business/finance-courses/","title":"Finan\u00e7as","title_cleaned":"finance-courses","icon_name":"finance","id":24,"children":null},{"type":"subcategory","absolute_url":"/courses/business/entrepreneurship/","title":"Empreendedorismo","title_cleaned":"entrepreneurship","icon_name":"entrepreneurship","id":26,"children":null},{"type":"subcategory","absolute_url":"/courses/business/communications/","title":"Comunica\u00e7\u00f5es","title_cleaned":"communications","icon_name":"communications","id":28,"children":null},{"type":"subcategory","absolute_url":"/courses/business/management/","title":"Administra\u00e7\u00e3o","title_cleaned":"management","icon_name":"management","id":30,"children":null},{"type":"subcategory","absolute_url":"/courses/business/sales/","title":"Vendas","title_cleaned":"sales","icon_name":"sales","id":32,"children":null},{"type":"subcategory","absolute_url":"/courses/business/strategy/","title":"Estrat\u00e9gia","title_cleaned":"strategy","icon_name":"strategy","id":34,"children":null},{"type":"subcategory","absolute_url":"/courses/business/operations/","title":"Opera\u00e7\u00f5es","title_cleaned":"operations","icon_name":"operations","id":36,"children":null},{"type":"subcategory","absolute_url":"/courses/business/project-management/","title":"Gest\u00e3o de projetos","title_cleaned":"project-management","icon_name":"project-management","id":38,"children":null},{"type":"subcategory","absolute_url":"/courses/business/business-law/","title":"Direito comercial","title_cleaned":"business-law","icon_name":"business-law","id":40,"children":null},{"type":"subcategory","absolute_url":"/courses/business/data-and-analytics/","title":"Dados e an\u00e1lises","title_cleaned":"data-and-analytics","icon_name":"data-and-analytics","id":44,"children":null},{"type":"subcategory","absolute_url":"/courses/business/home-business/","title":"Neg\u00f3cio em casa","title_cleaned":"home-business","icon_name":"home-business","id":46,"children":null},{"type":"subcategory","absolute_url":"/courses/business/human-resources/","title":"Recursos humanos","title_cleaned":"human-resources","icon_name":"human-resources","id":48,"children":null},{"type":"subcategory","absolute_url":"/courses/business/industry/","title":"Ind\u00fastria","title_cleaned":"industry","icon_name":"industry","id":50,"children":null},{"type":"subcategory","absolute_url":"/courses/business/media/","title":"M\u00eddia","title_cleaned":"media","icon_name":"media","id":52,"children":null},{"type":"subcategory","absolute_url":"/courses/business/real-estate/","title":"Im\u00f3veis","title_cleaned":"real-estate","icon_name":"real-estate","id":58,"children":null},{"type":"subcategory","absolute_url":"/courses/business/other-business/","title":"Outros","title_cleaned":"other-business","icon_name":"line-star","id":60,"children":null}]},{"type":"category","absolute_url":"/courses/finance-and-accounting/","title":"Finan\u00e7as e contabilidade","title_cleaned":"finance-and-accounting","icon_name":"finance","id":328,"children":[{"type":"subcategory","absolute_url":"/courses/finance-and-accounting/accounting-bookkeeping/","title":"Contabilidade e escritura\u00e7\u00e3o cont\u00e1bil","title_cleaned":"accounting-bookkeeping","icon_name":"sales","id":530,"children":null},{"type":"subcategory","absolute_url":"/courses/finance-and-accounting/compliance/","title":"Conformidade","title_cleaned":"compliance","icon_name":"it-certification","id":532,"children":null},{"type":"subcategory","absolute_url":"/courses/finance-and-accounting/cryptocurrency-and-blockchain/","title":"Criptomoeda e blockchain","title_cleaned":"cryptocurrency-and-blockchain","icon_name":"cryptocurrency-and-blockchain","id":534,"children":null},{"type":"subcategory","absolute_url":"/courses/finance-and-accounting/economics/","title":"Economia","title_cleaned":"economics","icon_name":"productivity","id":536,"children":null},{"type":"subcategory","absolute_url":"/courses/finance-and-accounting/finance-management/","title":"Finan\u00e7as","title_cleaned":"finance-management","icon_name":"personal-finance","id":540,"children":null},{"type":"subcategory","absolute_url":"/courses/finance-and-accounting/finance-certification-and-exam-prep/","title":"Prepara\u00e7\u00e3o para exame e certifica\u00e7\u00e3o financeira","title_cleaned":"finance-certification-and-exam-prep","icon_name":"test-prep","id":542,"children":null},{"type":"subcategory","absolute_url":"/courses/finance-and-accounting/financial-modeling-and-analysis/","title":"Modelagem e an\u00e1lise financeira","title_cleaned":"financial-modeling-and-analysis","icon_name":"analytics-and-automation","id":544,"children":null},{"type":"subcategory","absolute_url":"/courses/finance-and-accounting/investing-and-trading/","title":"Investimentos e trading","title_cleaned":"investing-and-trading","icon_name":"investing-and-trading","id":546,"children":null},{"type":"subcategory","absolute_url":"/courses/finance-and-accounting/money-management-tools/","title":"Ferramentas de gerenciamento de dinheiro","title_cleaned":"money-management-tools","icon_name":"money-management-tools","id":548,"children":null},{"type":"subcategory","absolute_url":"/courses/finance-and-accounting/taxes/","title":"Impostos","title_cleaned":"taxes","icon_name":"office-productivity","id":550,"children":null},{"type":"subcategory","absolute_url":"/courses/finance-and-accounting/other-finance-and-accounting/","title":"Outras finan\u00e7as e economia","title_cleaned":"other-finance-and-accounting","icon_name":"finance","id":552,"children":null}]},{"type":"category","absolute_url":"/courses/it-and-software/","title":"TI e software","title_cleaned":"it-and-software","icon_name":"it-and-software","id":294,"children":[{"type":"subcategory","absolute_url":"/courses/it-and-software/it-certification/","title":"Certifica\u00e7\u00e3o em TI","title_cleaned":"it-certification","icon_name":"it-certification","id":132,"children":null},{"type":"subcategory","absolute_url":"/courses/it-and-software/network-and-security/","title":"Rede e seguran\u00e7a","title_cleaned":"network-and-security","icon_name":"network-and-security","id":134,"children":null},{"type":"subcategory","absolute_url":"/courses/it-and-software/hardware/","title":"Hardware","title_cleaned":"hardware","icon_name":"hardware","id":136,"children":null},{"type":"subcategory","absolute_url":"/courses/it-and-software/operating-systems/","title":"Sistemas operacionais","title_cleaned":"operating-systems","icon_name":"operating-systems","id":138,"children":null},{"type":"subcategory","absolute_url":"/courses/it-and-software/other-it-and-software/","title":"Outros","title_cleaned":"other-it-and-software","icon_name":"line-star","id":140,"children":null}]},{"type":"category","absolute_url":"/courses/office-productivity/","title":"Produtividade no escrit\u00f3rio","title_cleaned":"office-productivity","icon_name":"office-productivity","id":292,"children":[{"type":"subcategory","absolute_url":"/courses/office-productivity/microsoft/","title":"Microsoft","title_cleaned":"microsoft","icon_name":"microsoft","id":96,"children":null},{"type":"subcategory","absolute_url":"/courses/office-productivity/apple/","title":"Apple","title_cleaned":"apple","icon_name":"apple","id":98,"children":null},{"type":"subcategory","absolute_url":"/courses/office-productivity/google/","title":"Google","title_cleaned":"google","icon_name":"google","id":100,"children":null},{"type":"subcategory","absolute_url":"/courses/office-productivity/sap/","title":"SAP","title_cleaned":"sap","icon_name":"sap","id":102,"children":null},{"type":"subcategory","absolute_url":"/courses/office-productivity/oracle/","title":"Oracle","title_cleaned":"oracle","icon_name":"oracle","id":106,"children":null},{"type":"subcategory","absolute_url":"/courses/office-productivity/other-productivity/","title":"Outros","title_cleaned":"other-productivity","icon_name":"line-star","id":108,"children":null}]},{"type":"category","absolute_url":"/courses/personal-development/","title":"Desenvolvimento Pessoal","title_cleaned":"personal-development","icon_name":"personal-development","id":296,"children":[{"type":"subcategory","absolute_url":"/courses/personal-development/personal-transformation/","title":"Transforma\u00e7\u00e3o pessoal","title_cleaned":"personal-transformation","icon_name":"personal-transformation","id":142,"children":null},{"type":"subcategory","absolute_url":"/courses/personal-development/productivity/","title":"Produtividade","title_cleaned":"productivity","icon_name":"productivity","id":144,"children":null},{"type":"subcategory","absolute_url":"/courses/personal-development/leadership/","title":"Lideran\u00e7a","title_cleaned":"leadership","icon_name":"leadership","id":146,"children":null},{"type":"subcategory","absolute_url":"/courses/personal-development/personal-finance/","title":"Finan\u00e7as pessoais","title_cleaned":"personal-finance","icon_name":"personal-finance","id":148,"children":null},{"type":"subcategory","absolute_url":"/courses/personal-development/career-development/","title":"Desenvolvimento de carreira","title_cleaned":"career-development","icon_name":"career-development","id":150,"children":null},{"type":"subcategory","absolute_url":"/courses/personal-development/parenting-and-relationships/","title":"Maternidade/paternidade e relacionamentos","title_cleaned":"parenting-and-relationships","icon_name":"parenting-and-relationships","id":152,"children":null},{"type":"subcategory","absolute_url":"/courses/personal-development/happiness/","title":"Felicidade","title_cleaned":"happiness","icon_name":"happiness","id":156,"children":null},{"type":"subcategory","absolute_url":"/courses/personal-development/religion-and-spirituality/","title":"Religi\u00e3o e espiritualidade","title_cleaned":"religion-and-spirituality","icon_name":"religion-and-spirituality","id":158,"children":null},{"type":"subcategory","absolute_url":"/courses/personal-development/personal-brand-building/","title":"Cria\u00e7\u00e3o de marketing pessoal","title_cleaned":"personal-brand-building","icon_name":"personal-brand-building","id":160,"children":null},{"type":"subcategory","absolute_url":"/courses/personal-development/creativity/","title":"Criatividade","title_cleaned":"creativity","icon_name":"creativity","id":164,"children":null},{"type":"subcategory","absolute_url":"/courses/personal-development/influence/","title":"Influ\u00eancia","title_cleaned":"influence","icon_name":"influence","id":166,"children":null},{"type":"subcategory","absolute_url":"/courses/personal-development/self-esteem/","title":"Autoestima","title_cleaned":"self-esteem","icon_name":"self-esteem","id":168,"children":null},{"type":"subcategory","absolute_url":"/courses/personal-development/stress-management/","title":"Gest\u00e3o de estresse","title_cleaned":"stress-management","icon_name":"stress-management","id":170,"children":null},{"type":"subcategory","absolute_url":"/courses/personal-development/memory/","title":"Habilidades de mem\u00f3ria e estudo","title_cleaned":"memory","icon_name":"memory","id":172,"children":null},{"type":"subcategory","absolute_url":"/courses/personal-development/motivation/","title":"Motiva\u00e7\u00e3o","title_cleaned":"motivation","icon_name":"motivation","id":176,"children":null},{"type":"subcategory","absolute_url":"/courses/personal-development/other-personal-development/","title":"Outros","title_cleaned":"other-personal-development","icon_name":"line-star","id":178,"children":null}]},{"type":"category","absolute_url":"/courses/design/","title":"Design","title_cleaned":"design","icon_name":"design","id":269,"children":[{"type":"subcategory","absolute_url":"/courses/design/web-design/","title":"Web design","title_cleaned":"web-design","icon_name":"web-design","id":6,"children":null},{"type":"subcategory","absolute_url":"/courses/design/graphic-design/","title":"Design gr\u00e1fico","title_cleaned":"graphic-design","icon_name":"graphic-design","id":110,"children":null},{"type":"subcategory","absolute_url":"/courses/design/design-tools/","title":"Ferramentas de design","title_cleaned":"design-tools","icon_name":"design-tools","id":112,"children":null},{"type":"subcategory","absolute_url":"/courses/design/user-experience/","title":"Experi\u00eancia de usu\u00e1rio","title_cleaned":"user-experience","icon_name":"user-experience","id":114,"children":null},{"type":"subcategory","absolute_url":"/courses/design/game-design/","title":"Design de games","title_cleaned":"game-design","icon_name":"game-design","id":116,"children":null},{"type":"subcategory","absolute_url":"/courses/design/design-thinking/","title":"Criatividade em design","title_cleaned":"design-thinking","icon_name":"design-thinking","id":118,"children":null},{"type":"subcategory","absolute_url":"/courses/design/3d-and-animation/","title":"3D e anima\u00e7\u00e3o","title_cleaned":"3d-and-animation","icon_name":"3d-and-animation","id":120,"children":null},{"type":"subcategory","absolute_url":"/courses/design/fashion/","title":"Moda","title_cleaned":"fashion","icon_name":"fashion","id":122,"children":null},{"type":"subcategory","absolute_url":"/courses/design/architectural-design/","title":"Design arquitet\u00f4nico","title_cleaned":"architectural-design","icon_name":"architectural-design","id":124,"children":null},{"type":"subcategory","absolute_url":"/courses/design/interior-design/","title":"Design de interiores","title_cleaned":"interior-design","icon_name":"interior-design","id":128,"children":null},{"type":"subcategory","absolute_url":"/courses/design/other-design/","title":"Outros","title_cleaned":"other-design","icon_name":"line-star","id":130,"children":null}]},{"type":"category","absolute_url":"/courses/marketing/","title":"Marketing","title_cleaned":"marketing","icon_name":"marketing","id":290,"children":[{"type":"subcategory","absolute_url":"/courses/marketing/digital-marketing/","title":"Marketing digital","title_cleaned":"digital-marketing","icon_name":"digital-marketing","id":62,"children":null},{"type":"subcategory","absolute_url":"/courses/marketing/search-engine-optimization/","title":"Otimiza\u00e7\u00e3o de mecanismos de busca (SEO)","title_cleaned":"search-engine-optimization","icon_name":"search-engine-optimization","id":64,"children":null},{"type":"subcategory","absolute_url":"/courses/marketing/social-media-marketing/","title":"Marketing de redes sociais","title_cleaned":"social-media-marketing","icon_name":"social-media-marketing","id":66,"children":null},{"type":"subcategory","absolute_url":"/courses/marketing/branding/","title":"Branding","title_cleaned":"branding","icon_name":"branding","id":68,"children":null},{"type":"subcategory","absolute_url":"/courses/marketing/marketing-fundamentals/","title":"Fundamentos de marketing","title_cleaned":"marketing-fundamentals","icon_name":"marketing-fundamentals","id":70,"children":null},{"type":"subcategory","absolute_url":"/courses/marketing/analytics-and-automation/","title":"An\u00e1lise e automa\u00e7\u00e3o","title_cleaned":"analytics-and-automation","icon_name":"analytics-and-automation","id":72,"children":null},{"type":"subcategory","absolute_url":"/courses/marketing/public-relations/","title":"Rela\u00e7\u00f5es p\u00fablicas","title_cleaned":"public-relations","icon_name":"public-relations","id":74,"children":null},{"type":"subcategory","absolute_url":"/courses/marketing/advertising/","title":"Publicidade","title_cleaned":"advertising","icon_name":"advertising","id":76,"children":null},{"type":"subcategory","absolute_url":"/courses/marketing/video-and-mobile-marketing/","title":"Marketing m\u00f3vel e em v\u00eddeo","title_cleaned":"video-and-mobile-marketing","icon_name":"video-and-mobile-marketing","id":78,"children":null},{"type":"subcategory","absolute_url":"/courses/marketing/content-marketing/","title":"Marketing de conte\u00fado","title_cleaned":"content-marketing","icon_name":"content-marketing","id":80,"children":null},{"type":"subcategory","absolute_url":"/courses/marketing/growth-hacking/","title":"Aumento de usu\u00e1rios de produto/servi\u00e7o","title_cleaned":"growth-hacking","icon_name":"growth-hacking","id":86,"children":null},{"type":"subcategory","absolute_url":"/courses/marketing/affiliate-marketing/","title":"Marketing de afiliados","title_cleaned":"affiliate-marketing","icon_name":"affiliate-marketing","id":88,"children":null},{"type":"subcategory","absolute_url":"/courses/marketing/product-marketing/","title":"Marketing de produtos","title_cleaned":"product-marketing","icon_name":"product-marketing","id":90,"children":null},{"type":"subcategory","absolute_url":"/courses/marketing/other-marketing/","title":"Outros","title_cleaned":"other-marketing","icon_name":"line-star","id":94,"children":null}]},{"type":"category","absolute_url":"/courses/lifestyle/","title":"Estilo de vida","title_cleaned":"lifestyle","icon_name":"lifestyle","id":274,"children":[{"type":"subcategory","absolute_url":"/courses/lifestyle/arts-and-crafts/","title":"Artes e artesanato","title_cleaned":"arts-and-crafts","icon_name":"arts-and-crafts","id":180,"children":null},{"type":"subcategory","absolute_url":"/courses/lifestyle/food-and-beverage/","title":"Alimentos e bebidas","title_cleaned":"food-and-beverage","icon_name":"food-and-beverage","id":182,"children":null},{"type":"subcategory","absolute_url":"/courses/lifestyle/beauty-and-makeup/","title":"Beleza e maquiagem","title_cleaned":"beauty-and-makeup","icon_name":"beauty-and-makeup","id":184,"children":null},{"type":"subcategory","absolute_url":"/courses/lifestyle/travel/","title":"Viagem","title_cleaned":"travel","icon_name":"travel","id":186,"children":null},{"type":"subcategory","absolute_url":"/courses/lifestyle/gaming/","title":"Games","title_cleaned":"gaming","icon_name":"gaming","id":188,"children":null},{"type":"subcategory","absolute_url":"/courses/lifestyle/home-improvement/","title":"Reforma da casa","title_cleaned":"home-improvement","icon_name":"home-improvement","id":190,"children":null},{"type":"subcategory","absolute_url":"/courses/lifestyle/pet-care-and-training/","title":"Cuidados com animais e adestramento","title_cleaned":"pet-care-and-training","icon_name":"pet-care-and-training","id":192,"children":null},{"type":"subcategory","absolute_url":"/courses/lifestyle/other-lifestyle/","title":"Outros","title_cleaned":"other-lifestyle","icon_name":"line-star","id":194,"children":null}]},{"type":"category","absolute_url":"/courses/photography/","title":"Fotografia","title_cleaned":"photography","icon_name":"photography","id":273,"children":[{"type":"subcategory","absolute_url":"/courses/photography/digital-photography/","title":"Fotografia digital","title_cleaned":"digital-photography","icon_name":"digital-photography","id":370,"children":null},{"type":"subcategory","absolute_url":"/courses/photography/photography-fundamentals/","title":"Fundamentos da fotografia","title_cleaned":"photography-fundamentals","icon_name":"photography-fundamentals","id":196,"children":null},{"type":"subcategory","absolute_url":"/courses/photography/portraits/","title":"Retratos","title_cleaned":"portraits","icon_name":"portraits","id":204,"children":null},{"type":"subcategory","absolute_url":"/courses/photography/photography-tools/","title":"Ferramentas de fotografia","title_cleaned":"photography-tools","icon_name":"photography-tools","id":198,"children":null},{"type":"subcategory","absolute_url":"/courses/photography/commercial-photography/","title":"Fotografia comercial","title_cleaned":"commercial-photography","icon_name":"commercial-photography","id":208,"children":null},{"type":"subcategory","absolute_url":"/courses/photography/video-design/","title":"Design de v\u00eddeos","title_cleaned":"video-design","icon_name":"video-design","id":218,"children":null},{"type":"subcategory","absolute_url":"/courses/photography/other-photography/","title":"Outros","title_cleaned":"other-photography","icon_name":"line-star","id":220,"children":null}]},{"type":"category","absolute_url":"/courses/health-and-fitness/","title":"Sa\u00fade e fitness","title_cleaned":"health-and-fitness","icon_name":"health-and-fitness","id":276,"children":[{"type":"subcategory","absolute_url":"/courses/health-and-fitness/fitness/","title":"Fitness","title_cleaned":"fitness","icon_name":"fitness","id":222,"children":null},{"type":"subcategory","absolute_url":"/courses/health-and-fitness/general-health/","title":"Sa\u00fade geral","title_cleaned":"general-health","icon_name":"general-health","id":224,"children":null},{"type":"subcategory","absolute_url":"/courses/health-and-fitness/sports/","title":"Esportes","title_cleaned":"sports","icon_name":"sports","id":226,"children":null},{"type":"subcategory","absolute_url":"/courses/health-and-fitness/nutrition/","title":"Nutri\u00e7\u00e3o","title_cleaned":"nutrition","icon_name":"nutrition","id":228,"children":null},{"type":"subcategory","absolute_url":"/courses/health-and-fitness/yoga/","title":"Ioga","title_cleaned":"yoga","icon_name":"yoga","id":230,"children":null},{"type":"subcategory","absolute_url":"/courses/health-and-fitness/mental-health/","title":"Sa\u00fade geral","title_cleaned":"mental-health","icon_name":"mental-health","id":232,"children":null},{"type":"subcategory","absolute_url":"/courses/health-and-fitness/dieting/","title":"Dieta","title_cleaned":"dieting","icon_name":"dieting","id":234,"children":null},{"type":"subcategory","absolute_url":"/courses/health-and-fitness/self-defense/","title":"Autodefesa","title_cleaned":"self-defense","icon_name":"self-defense","id":236,"children":null},{"type":"subcategory","absolute_url":"/courses/health-and-fitness/safety-and-first-aid/","title":"Seguran\u00e7a e primeiros socorros","title_cleaned":"safety-and-first-aid","icon_name":"safety-and-first-aid","id":238,"children":null},{"type":"subcategory","absolute_url":"/courses/health-and-fitness/dance/","title":"Dan\u00e7a","title_cleaned":"dance","icon_name":"dance","id":240,"children":null},{"type":"subcategory","absolute_url":"/courses/health-and-fitness/meditation/","title":"Medita\u00e7\u00e3o","title_cleaned":"meditation","icon_name":"meditation","id":242,"children":null},{"type":"subcategory","absolute_url":"/courses/health-and-fitness/other-health-and-fitness/","title":"Outros","title_cleaned":"other-health-and-fitness","icon_name":"line-star","id":244,"children":null}]},{"type":"category","absolute_url":"/courses/music/","title":"M\u00fasica","title_cleaned":"music","icon_name":"music","id":278,"children":[{"type":"subcategory","absolute_url":"/courses/music/instruments/","title":"Instrumentos","title_cleaned":"instruments","icon_name":"instruments","id":296,"children":null},{"type":"subcategory","absolute_url":"/courses/music/production/","title":"Produ\u00e7\u00e3o","title_cleaned":"production","icon_name":"production","id":298,"children":null},{"type":"subcategory","absolute_url":"/courses/music/music-fundamentals/","title":"Fundamentos da m\u00fasica","title_cleaned":"music-fundamentals","icon_name":"music-fundamentals","id":300,"children":null},{"type":"subcategory","absolute_url":"/courses/music/vocal/","title":"Canto","title_cleaned":"vocal","icon_name":"vocal","id":302,"children":null},{"type":"subcategory","absolute_url":"/courses/music/music-techniques/","title":"T\u00e9cnicas de m\u00fasica","title_cleaned":"music-techniques","icon_name":"music-techniques","id":304,"children":null},{"type":"subcategory","absolute_url":"/courses/music/music-software/","title":"Software de m\u00fasica","title_cleaned":"music-software","icon_name":"music-software","id":306,"children":null},{"type":"subcategory","absolute_url":"/courses/music/other-music/","title":"Outros","title_cleaned":"other-music","icon_name":"line-star","id":308,"children":null}]},{"type":"category","absolute_url":"/courses/teaching-and-academics/","title":"Ensino e estudo acad\u00eamico","title_cleaned":"teaching-and-academics","icon_name":"academics","id":300,"children":[{"type":"subcategory","absolute_url":"/courses/teaching-and-academics/engineering/","title":"Engenharia","title_cleaned":"engineering","icon_name":"development-tools","id":366,"children":null},{"type":"subcategory","absolute_url":"/courses/teaching-and-academics/humanities/","title":"Ci\u00eancias humanas","title_cleaned":"humanities","icon_name":"humanities","id":380,"children":null},{"type":"subcategory","absolute_url":"/courses/teaching-and-academics/math/","title":"Matem\u00e1tica","title_cleaned":"math","icon_name":"educational-development","id":310,"children":null},{"type":"subcategory","absolute_url":"/courses/teaching-and-academics/science/","title":"Ci\u00eancia","title_cleaned":"science","icon_name":"math-and-science","id":312,"children":null},{"type":"subcategory","absolute_url":"/courses/teaching-and-academics/online-education/","title":"Educa\u00e7\u00e3o online","title_cleaned":"online-education","icon_name":"instructional-design","id":523,"children":null},{"type":"subcategory","absolute_url":"/courses/teaching-and-academics/social-science/","title":"Ci\u00eancias sociais","title_cleaned":"social-science","icon_name":"social-science","id":376,"children":null},{"type":"subcategory","absolute_url":"/courses/teaching-and-academics/language/","title":"Idioma","title_cleaned":"language","icon_name":"language","id":521,"children":null},{"type":"subcategory","absolute_url":"/courses/teaching-and-academics/teacher-training/","title":"Treinamento de professores","title_cleaned":"teacher-training","icon_name":"teacher-training","id":527,"children":null},{"type":"subcategory","absolute_url":"/courses/teaching-and-academics/test-prep/","title":"Prepara\u00e7\u00e3o Para Teste","title_cleaned":"test-prep","icon_name":"test-prep","id":529,"children":null},{"type":"subcategory","absolute_url":"/courses/teaching-and-academics/other-teaching-academics/","title":"Outros tipos de ensino e estudo acad\u00eamico","title_cleaned":"other-teaching-academics","icon_name":"academics","id":525,"children":null}]}],
+                popular_subcategory_topics: {"24":[{"absolute_url":"/topic/financial-analysis/","id":5800,"title":"An\u00e1lise financeira"},{"absolute_url":"/topic/stock-trading/","id":7900,"title":"Negocia\u00e7\u00e3o de a\u00e7\u00f5es"},{"absolute_url":"/topic/investing/","id":6282,"title":"Investimentos"},{"absolute_url":"/topic/finance/","id":5798,"title":"Fundamentos de finan\u00e7as"},{"absolute_url":"/topic/forex/","id":5868,"title":"Forex"},{"absolute_url":"/topic/financial-modeling/","id":5806,"title":"Modelagem financeira"},{"absolute_url":"/topic/accounting/","id":4328,"title":"Contabilidade"},{"absolute_url":"/topic/excel/","id":6730,"title":"Excel"},{"absolute_url":"/topic/options-trading/","id":7012,"title":"Negocia\u00e7\u00e3o de op\u00e7\u00f5es"}],"132":[{"absolute_url":"/topic/aws-certification/","id":4704,"title":"Certifica\u00e7\u00e3o em AWS"},{"absolute_url":"/topic/aws-certified-solutions-architect-associate/","id":24774,"title":"AWS Certified Solutions Architect \u2013 Associate"},{"absolute_url":"/topic/microsoft-certification/","id":6720,"title":"Certifica\u00e7\u00e3o Microsoft"},{"absolute_url":"/topic/comptia-a/","id":5166,"title":"CompTIA A+"},{"absolute_url":"/topic/cisco-ccna/","id":5044,"title":"Cisco CCNA"},{"absolute_url":"/topic/aws-certified-cloud-practitioner/","id":46868,"title":"AWS Certified Cloud Practitioner"},{"absolute_url":"/topic/comptia-security/","id":5176,"title":"CompTIA Security+"},{"absolute_url":"/topic/aws-certified-developer-associate/","id":43860,"title":"AWS Certified Developer \u2013 Associate"},{"absolute_url":"/topic/ccna-200-301/","id":155738,"title":"CCNA 200-301"}],"110":[{"absolute_url":"/topic/photoshop/","id":4402,"title":"Photoshop"},{"absolute_url":"/topic/graphic-design/","id":6020,"title":"Design gr\u00e1fico"},{"absolute_url":"/topic/adobe-illustrator/","id":4394,"title":"Adobe Illustrator"},{"absolute_url":"/topic/drawing/","id":5494,"title":"Desenho"},{"absolute_url":"/topic/digital-painting/","id":5434,"title":"Pintura digital"},{"absolute_url":"/topic/indesign/","id":4396,"title":"InDesign"},{"absolute_url":"/topic/character-design/","id":5002,"title":"Design de personagens"},{"absolute_url":"/topic/figure-drawing/","id":10470,"title":"Desenho de figuras"},{"absolute_url":"/topic/logo-design/","id":6570,"title":"Design de logotipos"}],"142":[{"absolute_url":"/topic/life-coaching/","id":10684,"title":"Treinamento de Life Coach"},{"absolute_url":"/topic/reiki/","id":7484,"title":"Reiki"},{"absolute_url":"/topic/neuro-linguistic-programming/","id":6910,"title":"Programa\u00e7\u00e3o neurolingu\u00edstica"},{"absolute_url":"/topic/energy-healing/","id":5618,"title":"Cura pela energia"},{"absolute_url":"/topic/mindfulness/","id":6770,"title":"Mindfulness"},{"absolute_url":"/topic/personal-development/","id":7138,"title":"Desenvolvimento Pessoal"},{"absolute_url":"/topic/personal-transformation/","id":15374,"title":"Transforma\u00e7\u00e3o pessoal"},{"absolute_url":"/topic/meditation/","id":6680,"title":"Medita\u00e7\u00e3o"},{"absolute_url":"/topic/neuroscience/","id":6916,"title":"Neuroci\u00eancia"}],"8":[{"absolute_url":"/topic/web-development/","id":8322,"title":"Desenvolvimento web"},{"absolute_url":"/topic/javascript/","id":6368,"title":"JavaScript"},{"absolute_url":"/topic/react/","id":7450,"title":"React"},{"absolute_url":"/topic/angular/","id":28016,"title":"Angular"},{"absolute_url":"/topic/css/","id":5306,"title":"CSS"},{"absolute_url":"/topic/php/","id":7176,"title":"PHP"},{"absolute_url":"/topic/nodejs/","id":6928,"title":"Node.Js"},{"absolute_url":"/topic/python/","id":7380,"title":"Python"},{"absolute_url":"/topic/wordpress/","id":8452,"title":"WordPress"}],"10":[{"absolute_url":"/topic/android-development/","id":4470,"title":"Desenvolvimento para Android"},{"absolute_url":"/topic/google-flutter/","id":52458,"title":"Google Flutter"},{"absolute_url":"/topic/ios-development/","id":6292,"title":"Desenvolvimento em iOS"},{"absolute_url":"/topic/swift/","id":7956,"title":"Swift"},{"absolute_url":"/topic/react-native/","id":9884,"title":"React Native"},{"absolute_url":"/topic/dart-programming-language/","id":37860,"title":"Linguagem de programa\u00e7\u00e3o Dart"},{"absolute_url":"/topic/mobile-development/","id":5402,"title":"Desenvolvimento m\u00f3vel"},{"absolute_url":"/topic/kotlin/","id":13554,"title":"Kotlin"},{"absolute_url":"/topic/redux-framework/","id":7474,"title":"Redux Framework"}],"62":[{"absolute_url":"/topic/digital-marketing/","id":5430,"title":"Marketing digital"},{"absolute_url":"/topic/google-ads/","id":73900,"title":"Google Ads (AdWords)"},{"absolute_url":"/topic/social-media-marketing/","id":7788,"title":"Marketing de redes sociais"},{"absolute_url":"/topic/google-ads-certification/","id":9838,"title":"Certifica\u00e7\u00e3o em Google Ads (AdWords)"},{"absolute_url":"/topic/marketing-strategy/","id":6630,"title":"Estrat\u00e9gia de marketing"},{"absolute_url":"/topic/internet-marketing/","id":6994,"title":"Marketing na Internet"},{"absolute_url":"/topic/email-marketing/","id":5586,"title":"Marketing por e-mail"},{"absolute_url":"/topic/google-analytics/","id":5980,"title":"Google Analytics"},{"absolute_url":"/topic/facebook-ads/","id":155572,"title":"An\u00fancios do Facebook"}],"44":[{"absolute_url":"/topic/sql/","id":7862,"title":"SQL"},{"absolute_url":"/topic/microsoft-power-bi/","id":6740,"title":"Microsoft Power BI"},{"absolute_url":"/topic/tableau/","id":7978,"title":"Tableau"},{"absolute_url":"/topic/business-analysis/","id":9000,"title":"An\u00e1lise de neg\u00f3cios"},{"absolute_url":"/topic/business-intelligence/","id":4886,"title":"Business Intelligence"},{"absolute_url":"/topic/data-analysis/","id":5328,"title":"An\u00e1lise de dados"},{"absolute_url":"/topic/mysql/","id":6866,"title":"MySQL"},{"absolute_url":"/topic/data-modeling/","id":5334,"title":"Modelagem de dados"},{"absolute_url":"/topic/big-data/","id":4770,"title":"Big Data"}],"26":[{"absolute_url":"/topic/business-fundamentals/","id":4882,"title":"Fundamentos dos neg\u00f3cios"},{"absolute_url":"/topic/amazon-fba/","id":4454,"title":"Amazon FBA"},{"absolute_url":"/topic/dropshipping/","id":5502,"title":"Dropshipping"},{"absolute_url":"/topic/entrepreneurship/","id":5654,"title":"Fundamentos do empreendedorismo"},{"absolute_url":"/topic/business-strategy/","id":4898,"title":"Estrat\u00e9gia de neg\u00f3cios"},{"absolute_url":"/topic/business-plan/","id":4894,"title":"Plano de neg\u00f3cios"},{"absolute_url":"/topic/startup/","id":7888,"title":"Startup"},{"absolute_url":"/topic/shopify/","id":7726,"title":"Shopify"},{"absolute_url":"/topic/blogging/","id":4796,"title":"Blogging"}],"14":[{"absolute_url":"/topic/unity/","id":8154,"title":"Unity"},{"absolute_url":"/topic/game-development/","id":5904,"title":"Fundamentos do desenvolvimento de games"},{"absolute_url":"/topic/unreal-engine/","id":8166,"title":"Unreal Engine"},{"absolute_url":"/topic/c-sharp/","id":4904,"title":"C#"},{"absolute_url":"/topic/3d-game-development/","id":4280,"title":"Desenvolvimento de games 3D"},{"absolute_url":"/topic/c-plus-plus/","id":4908,"title":"C++"},{"absolute_url":"/topic/2d-game-development/","id":25642,"title":"Desenvolvimento de games 2D"},{"absolute_url":"/topic/blender/","id":4790,"title":"Blender"},{"absolute_url":"/topic/unreal-engine-blueprints/","id":109866,"title":"Blueprints da Unreal Engine"}]},
+            };
+        </script>
+<script>
+    
+    window.GoogleAnalyticsObject = 'ga';
+    window.ga = function () {
+        (window.ga.q = window.ga.q || []).push(arguments);
+    };
+    window.ga.l = 1 * new Date();
+
+    UD.GoogleAnalytics = UD.GoogleAnalytics || {};
+    UD.GoogleAnalytics.createAccount = function (accountId, propertyName, domainName) {
+        if (accountId) {
+            if (propertyName) {
+                // Required for multiple trackers
+                window.ga('create', accountId, 'auto', {'name': propertyName, 'cookieDomain': domainName || 'none',
+                    'siteSpeedSampleRate': 10});
+            } else {
+                window.ga('create', accountId, 'auto', {'siteSpeedSampleRate': 10});
+                window.ga('require', 'displayfeatures'); // Enables retargeting
+            }
+            window.ga('set', {
+                'anonymizeIp': true,
+                'location' : ""
+            });
+        }
+    };
+    UD.GoogleAnalytics.createAccount(UD.Config.third_party.google_analytics_id);
+</script>
+<script>
+   (function activateMyQualaroos(surveyIds) {
+        window._kiq = window._kiq || [];
+        var i, property;
+        for (i = 0; i < surveyIds.length; i++) {
+            property = {};
+            property[surveyIds[i]] = true;
+            window._kiq.push(['set', property]);
+        }
+        window._kiq.push(['identify', UD.visiting.visitor_uuid || '']);
+    })(UD.me.qualaroo_survey_ids);
+</script>
+<link rel="canonical" href="https://www.udemy.com/join/login-popup/">
+<script async="" src="https://apis.google.com/js/client:platform.js?onload=udGoogleAuthLoaderCallback" gapi_processed="true"></script><script async="" src="https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js"></script><script async="" src="https://client.perimeterx.net/PXZHh9f9x0/main.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://cdn.sift.com/s.js"></script><a tabindex="-1" aria-hidden="true" href="/join/login-popup/?_pxhc=1599005241712" rel="nofollow" target="_blank" style="width: 0px; height: 0px; font-size: 0px; line-height: 0;"></a><script type="text/javascript" async="" defer="" src="https://ut.ra.linksynergy.com/jsp?cn=rmuid&amp;ro=0&amp;cb=___rmuid"></script><style type="text/css" id="qual_style-el2"></style><style type="text/css" id="qual_style-ey4"></style></head>
+<body id="br" class="udemy pageloaded">
+<div class="main-content-wrapper">
+<div class="udlite-in-udheavy udlite-header ud-app-loader ud-component--header-v6--udlite-header ud-app-loaded" data-module-id="header-v6" data-module-args="{&quot;udlite_header&quot;:{&quot;mobileAppLink&quot;:{&quot;url&quot;:&quot;/mobile/&quot;},&quot;isInstructorSignupEnabled&quot;:false,&quot;tryUFBPlacements&quot;:{&quot;mobile&quot;:&quot;ufb_header&quot;,&quot;bar&quot;:&quot;ufb_header&quot;,&quot;profile&quot;:&quot;account-menu&quot;},&quot;isLoggedIn&quot;:false,&quot;searchPhrase&quot;:null,&quot;productLink&quot;:{&quot;isEnabled&quot;:true,&quot;text&quot;:&quot;Udemy for Business&quot;,&quot;url&quot;:&quot;https://business.udemy.com/request-demo/?locale=pt_BR\u0026mx_pg=login-popup\u0026ref=ufb_header&quot;}}}" data-module-priority="-10" ng-non-bindable=""><div class="header--mobile-header--2E_HX"><div data-purpose="mobile-header-placeholder" class="header--mobile-header-placeholder--3-kbf"></div></div><div class="udlite-text-sm header--header--3sK1h header--flex-middle--2Xqjv" data-purpose="header"><div class="header--skip-to-content--2TkJB"><button type="button" class="udlite-btn udlite-btn-large udlite-btn-primary udlite-heading-md header--skip-to-content-btn--13XyF"><span aria-hidden="true" class="header--skip-to-content-shadow--1FrgD"></span><span style="margin:0">Pular até o conteúdo</span></button></div><a href="/" class="header--flex-middle--2Xqjv header--logo--bdAod"><img src="/staticx/udemy/images/v6/logo-coral.svg" alt="Udemy" width="110" height="32"></a><nav class="header--gap-button--3bIww popover--popover--t3rNO popover--popover-hover--14ngr"><button type="button" id="u112-popover-trigger--1" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="u112-popover-content--2" class="udlite-btn udlite-btn-large udlite-btn-ghost udlite-heading-md js-header-button header--dropdown-button--1BviY"><span class="udlite-text-sm header--dropdown-button-text--2jtIM">Categorias</span></button><div id="u112-popover-content--2" aria-labelledby="u112-popover-trigger--1" class="udlite-popover-position-bottom-start popover--popover-content--1Nnxz" style="top:100%;left:0"><div class="list-menu--list-menu--1IWp4 browse-nav--nav-container--2QiNy"><div class="js-browse-nav-level-one browse-nav--nav--1WzbY"><ul class="unstyled-list udlite-block-list list-menu--section--BZ3j9"><li><div class="list-menu--item--1crtM udlite-block-list-item udlite-block-list-item-small udlite-block-list-item-neutral udlite-text-sm"><span class="udlite-block-list-item-content udlite-block-list-item-content-loading">&nbsp;</span></div></li><li><div class="list-menu--item--1crtM udlite-block-list-item udlite-block-list-item-small udlite-block-list-item-neutral udlite-text-sm"><span class="udlite-block-list-item-content udlite-block-list-item-content-loading">&nbsp;</span></div></li><li><div class="list-menu--item--1crtM udlite-block-list-item udlite-block-list-item-small udlite-block-list-item-neutral udlite-text-sm"><span class="udlite-block-list-item-content udlite-block-list-item-content-loading">&nbsp;</span></div></li><li><div class="list-menu--item--1crtM udlite-block-list-item udlite-block-list-item-small udlite-block-list-item-neutral udlite-text-sm"><span class="udlite-block-list-item-content udlite-block-list-item-content-loading">&nbsp;</span></div></li><li><div class="list-menu--item--1crtM udlite-block-list-item udlite-block-list-item-small udlite-block-list-item-neutral udlite-text-sm"><span class="udlite-block-list-item-content udlite-block-list-item-content-loading">&nbsp;</span></div></li><li><div class="list-menu--item--1crtM udlite-block-list-item udlite-block-list-item-small udlite-block-list-item-neutral udlite-text-sm"><span class="udlite-block-list-item-content udlite-block-list-item-content-loading">&nbsp;</span></div></li><li><div class="list-menu--item--1crtM udlite-block-list-item udlite-block-list-item-small udlite-block-list-item-neutral udlite-text-sm"><span class="udlite-block-list-item-content udlite-block-list-item-content-loading">&nbsp;</span></div></li><li><div class="list-menu--item--1crtM udlite-block-list-item udlite-block-list-item-small udlite-block-list-item-neutral udlite-text-sm"><span class="udlite-block-list-item-content udlite-block-list-item-content-loading">&nbsp;</span></div></li><li><div class="list-menu--item--1crtM udlite-block-list-item udlite-block-list-item-small udlite-block-list-item-neutral udlite-text-sm"><span class="udlite-block-list-item-content udlite-block-list-item-content-loading">&nbsp;</span></div></li><li><div class="list-menu--item--1crtM udlite-block-list-item udlite-block-list-item-small udlite-block-list-item-neutral udlite-text-sm"><span class="udlite-block-list-item-content udlite-block-list-item-content-loading">&nbsp;</span></div></li><li><div class="list-menu--item--1crtM udlite-block-list-item udlite-block-list-item-small udlite-block-list-item-neutral udlite-text-sm"><span class="udlite-block-list-item-content udlite-block-list-item-content-loading">&nbsp;</span></div></li><li><div class="list-menu--item--1crtM udlite-block-list-item udlite-block-list-item-small udlite-block-list-item-neutral udlite-text-sm"><span class="udlite-block-list-item-content udlite-block-list-item-content-loading">&nbsp;</span></div></li><li><div class="list-menu--item--1crtM udlite-block-list-item udlite-block-list-item-small udlite-block-list-item-neutral udlite-text-sm"><span class="udlite-block-list-item-content udlite-block-list-item-content-loading">&nbsp;</span></div></li></ul></div><div id="header-browse-nav-level-two" class="js-browse-nav-level-two browse-nav--nav--1WzbY" style="display:none"></div><div id="header-browse-nav-level-three" class="js-browse-nav-level-three browse-nav--nav--1WzbY" style="display: none;"></div></div></div></nav><form action="/courses/search/" class="udlite-search-form-autocomplete header--search-bar--1_mS0"><div class="udlite-search-form-autocomplete-input-group udlite-search-form-autocomplete-input-group-reversed udlite-form-group"><label for="u112-search-form-autocomplete--3" class="udlite-sr-only udlite-form-label udlite-heading-sm">Pesquisar por qualquer coisa</label><input placeholder="Pesquisar por qualquer coisa" name="q" autocomplete="off" value="" id="u112-search-form-autocomplete--3" class="udlite-text-input udlite-text-input-small udlite-text-sm udlite-search-form-autocomplete-input js-header-search-field"><button type="submit" class="udlite-btn udlite-btn-large udlite-btn-ghost udlite-heading-md udlite-btn-icon udlite-btn-icon-large"><svg aria-label="Enviar pesquisa" focusable="false" class="udlite-icon udlite-icon-medium udlite-icon-color-neutral"><use xlink:href="#icon-search"></use></svg></button></div></form><div class="header--gap-button--3bIww header--group-a--2ZHik popover--popover--t3rNO popover--popover-hover--14ngr"><a href="https://business.udemy.com/request-demo/?locale=pt_BR&amp;mx_pg=login-popup&amp;ref=ufb_header" target="_blank" rel="noopener" id="u112-popover-trigger--6" tabindex="0" aria-describedby="u112-popover-content--7" class="udlite-btn udlite-btn-large udlite-btn-ghost udlite-heading-md js-header-button header--dropdown-button--1BviY"><span class="udlite-text-sm header--dropdown-button-text--2jtIM">Udemy Para Empresas</span></a><div id="u112-popover-content--7" class="udlite-popover-position-bottom-end popover--popover-content--1Nnxz" style="top: 100%; right: 0px;"><div class="header--menu--3jznE"><div class="panel-menu--panel--2bVgh"><div class="udlite-heading-lg panel-menu--gap-bottom--2CAzZ">Sua equipe pode ter acesso a mais de 4.000 cursos de destaque da Udemy a qualquer hora, em qualquer lugar.</div><a data-purpose="try-ufb-button" href="https://business.udemy.com/request-demo/?locale=pt_BR&amp;mx_pg=login-popup&amp;ref=ufb_header" class="udlite-btn udlite-btn-large udlite-btn-primary udlite-heading-md panel-menu--cta--3_5Yy" target="_blank" rel="noopener"><span>Testar Udemy for Business</span></a></div></div></div></div><div class="header--gap-button--3bIww header--group-b--2HJ8M popover--popover--t3rNO popover--popover-hover--14ngr"><a href="/teaching/?ref=teach_header" data-purpose="instructor-dropdown" id="u112-popover-trigger--8" tabindex="0" aria-describedby="u112-popover-content--9" class="udlite-btn udlite-btn-large udlite-btn-ghost udlite-heading-md js-header-button header--dropdown-button--1BviY"><span class="udlite-text-sm header--dropdown-button-text--2jtIM">Ensine na Udemy</span></a><div id="u112-popover-content--9" class="udlite-popover-position-bottom-end popover--popover-content--1Nnxz" style="top: 100%; right: 0px;"><div class="header--menu--3jznE"><div class="panel-menu--panel--2bVgh"><div class="udlite-heading-lg panel-menu--gap-bottom--2CAzZ">Transforme o que você sabe em oportunidade e alcance milhões de alunos do mundo todo.</div><a href="/teaching/?ref=teach_header" class="udlite-btn udlite-btn-large udlite-btn-primary udlite-heading-md panel-menu--cta--3_5Yy"><span>Saiba mais</span></a></div></div></div></div><div class="popover--popover--t3rNO popover--popover-hover--14ngr"><a class="udlite-btn udlite-btn-large udlite-btn-ghost udlite-heading-md udlite-btn-icon udlite-btn-icon-large js-header-button header--dropdown-button--1BviY" href="/cart/" data-purpose="cart-icon" id="u112-popover-trigger--10" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="u112-popover-content--11"><svg aria-label="Carrinho" focusable="false" class="udlite-icon udlite-icon-medium udlite-icon-color-neutral"><use xlink:href="#icon-cart"></use></svg></a><div id="u112-popover-content--11" aria-labelledby="u112-popover-trigger--10" class="udlite-popover-position-bottom-end popover--popover-content--1Nnxz" style="top: 100%; right: 0px;"><div class="header--menu--3jznE"><div class="panel-menu--panel--2bVgh"><div class="course-cards-skeleton--skeleton--2jKpO"><div class="course-cards-skeleton--row--3cMy_"><div data-purpose="course-card-skeleton" class="course-card-skeleton--skeleton-flexible--2sSvz course-card-skeleton--skeleton-small--10NZF skeleton--skeleton--3Gfod" style="width: 25.6rem; max-width: 25.6rem; min-width: 25.6rem;"><span class="course-card-skeleton--image--26S6X block--block--1E7bD" style="width: 6.4rem; height: 6.4rem;"></span><div style="flex: 1 1 0%;"><span class="course-card-skeleton--title--2d2fw block--block--1E7bD"></span><span class="course-card-skeleton--line--cObxZ block--block--1E7bD"></span><span class="course-card-skeleton--line--cObxZ block--block--1E7bD"></span><span class="course-card-skeleton--line--cObxZ block--block--1E7bD"></span></div><div class="skeleton--shine--233IO"></div></div></div><div class="course-cards-skeleton--row--3cMy_"><div data-purpose="course-card-skeleton" class="course-card-skeleton--skeleton-flexible--2sSvz course-card-skeleton--skeleton-small--10NZF skeleton--skeleton--3Gfod" style="width: 25.6rem; max-width: 25.6rem; min-width: 25.6rem;"><span class="course-card-skeleton--image--26S6X block--block--1E7bD" style="width: 6.4rem; height: 6.4rem;"></span><div style="flex: 1 1 0%;"><span class="course-card-skeleton--title--2d2fw block--block--1E7bD"></span><span class="course-card-skeleton--line--cObxZ block--block--1E7bD"></span><span class="course-card-skeleton--line--cObxZ block--block--1E7bD"></span><span class="course-card-skeleton--line--cObxZ block--block--1E7bD"></span></div><div class="skeleton--shine--233IO"></div></div></div></div></div></div></div></div><div class="header--gap-auth-button--7KoL0"><a data-purpose="header-login" href="https://www.udemy.com/join/login-popup/?locale=pt_BR&amp;response_type=html&amp;next=https%3A%2F%2Fwww.udemy.com%2Fjoin%2Flogin-popup%2F%3Fskip_suggest%3D1%26locale%3Dpt_BR%26next%3Dhttps%253A%252F%252Fwww.udemy.com%252Fmobile%252Fipad%252F%26response_type%3Dhtml" class="udlite-btn udlite-btn-small udlite-btn-secondary udlite-heading-sm"><span>Fazer login</span></a></div><div class="header--gap-auth-button--7KoL0"><a data-purpose="header-signup" href="https://www.udemy.com/join/signup-popup/?locale=pt_BR&amp;response_type=html&amp;next=https%3A%2F%2Fwww.udemy.com%2Fjoin%2Flogin-popup%2F%3Fskip_suggest%3D1%26locale%3Dpt_BR%26next%3Dhttps%253A%252F%252Fwww.udemy.com%252Fmobile%252Fipad%252F%26response_type%3Dhtml" class="udlite-btn udlite-btn-small udlite-btn-primary udlite-heading-sm"><span>Cadastre-se</span></a></div></div></div>
+<nav aria-hidden="true" style="position:fixed;top:0;left:-28rem;width:28rem;height:100%;">
+<a data-id="288" class="js-side-nav-cat" href="/courses/development/" tabindex="-1">Desenvolvimento</a>
+<div>
+<a data-id="8" class="js-side-nav-cat js-subcat" href="/courses/development/web-development/" tabindex="-1">Desenvolvimento web</a>
+<a data-id="558" class="js-side-nav-cat js-subcat" href="/courses/development/data-science/" tabindex="-1">Data Science</a>
+<a data-id="10" class="js-side-nav-cat js-subcat" href="/courses/development/mobile-apps/" tabindex="-1">Aplicativos Móveis</a>
+<a data-id="12" class="js-side-nav-cat js-subcat" href="/courses/development/programming-languages/" tabindex="-1">Linguagens de programação</a>
+<a data-id="14" class="js-side-nav-cat js-subcat" href="/courses/development/game-development/" tabindex="-1">Desenvolvimento de games</a>
+<a data-id="16" class="js-side-nav-cat js-subcat" href="/courses/development/databases/" tabindex="-1">Bancos de dados</a>
+<a data-id="18" class="js-side-nav-cat js-subcat" href="/courses/development/software-testing/" tabindex="-1">Teste de software</a>
+<a data-id="20" class="js-side-nav-cat js-subcat" href="/courses/development/software-engineering/" tabindex="-1">Engenharia de software</a>
+<a data-id="362" class="js-side-nav-cat js-subcat" href="/courses/development/development-tools/" tabindex="-1">Ferramentas de desenvolvimento</a>
+<a data-id="354" class="js-side-nav-cat js-subcat" href="/courses/development/e-commerce/" tabindex="-1">e-Commerce</a>
+</div>
+<a data-id="268" class="js-side-nav-cat" href="/courses/business/" tabindex="-1">Negócios</a>
+<div>
+<a data-id="24" class="js-side-nav-cat js-subcat" href="/courses/business/finance-courses/" tabindex="-1">Finanças</a>
+<a data-id="26" class="js-side-nav-cat js-subcat" href="/courses/business/entrepreneurship/" tabindex="-1">Empreendedorismo</a>
+<a data-id="28" class="js-side-nav-cat js-subcat" href="/courses/business/communications/" tabindex="-1">Comunicações</a>
+<a data-id="30" class="js-side-nav-cat js-subcat" href="/courses/business/management/" tabindex="-1">Administração</a>
+<a data-id="32" class="js-side-nav-cat js-subcat" href="/courses/business/sales/" tabindex="-1">Vendas</a>
+<a data-id="34" class="js-side-nav-cat js-subcat" href="/courses/business/strategy/" tabindex="-1">Estratégia</a>
+<a data-id="36" class="js-side-nav-cat js-subcat" href="/courses/business/operations/" tabindex="-1">Operações</a>
+<a data-id="38" class="js-side-nav-cat js-subcat" href="/courses/business/project-management/" tabindex="-1">Gestão de projetos</a>
+<a data-id="40" class="js-side-nav-cat js-subcat" href="/courses/business/business-law/" tabindex="-1">Direito comercial</a>
+<a data-id="44" class="js-side-nav-cat js-subcat" href="/courses/business/data-and-analytics/" tabindex="-1">Dados e análises</a>
+<a data-id="46" class="js-side-nav-cat js-subcat" href="/courses/business/home-business/" tabindex="-1">Negócio em casa</a>
+<a data-id="48" class="js-side-nav-cat js-subcat" href="/courses/business/human-resources/" tabindex="-1">Recursos humanos</a>
+<a data-id="50" class="js-side-nav-cat js-subcat" href="/courses/business/industry/" tabindex="-1">Indústria</a>
+<a data-id="52" class="js-side-nav-cat js-subcat" href="/courses/business/media/" tabindex="-1">Mídia</a>
+<a data-id="58" class="js-side-nav-cat js-subcat" href="/courses/business/real-estate/" tabindex="-1">Imóveis</a>
+<a data-id="60" class="js-side-nav-cat js-subcat" href="/courses/business/other-business/" tabindex="-1">Outros</a>
+</div>
+<a data-id="328" class="js-side-nav-cat" href="/courses/finance-and-accounting/" tabindex="-1">Finanças e contabilidade</a>
+<div>
+<a data-id="530" class="js-side-nav-cat js-subcat" href="/courses/finance-and-accounting/accounting-bookkeeping/" tabindex="-1">Contabilidade e escrituração contábil</a>
+<a data-id="532" class="js-side-nav-cat js-subcat" href="/courses/finance-and-accounting/compliance/" tabindex="-1">Conformidade</a>
+ <a data-id="534" class="js-side-nav-cat js-subcat" href="/courses/finance-and-accounting/cryptocurrency-and-blockchain/" tabindex="-1">Criptomoeda e blockchain</a>
+<a data-id="536" class="js-side-nav-cat js-subcat" href="/courses/finance-and-accounting/economics/" tabindex="-1">Economia</a>
+<a data-id="540" class="js-side-nav-cat js-subcat" href="/courses/finance-and-accounting/finance-management/" tabindex="-1">Finanças</a>
+<a data-id="542" class="js-side-nav-cat js-subcat" href="/courses/finance-and-accounting/finance-certification-and-exam-prep/" tabindex="-1">Preparação para exame e certificação financeira</a>
+<a data-id="544" class="js-side-nav-cat js-subcat" href="/courses/finance-and-accounting/financial-modeling-and-analysis/" tabindex="-1">Modelagem e análise financeira</a>
+<a data-id="546" class="js-side-nav-cat js-subcat" href="/courses/finance-and-accounting/investing-and-trading/" tabindex="-1">Investimentos e trading</a>
+<a data-id="548" class="js-side-nav-cat js-subcat" href="/courses/finance-and-accounting/money-management-tools/" tabindex="-1">Ferramentas de gerenciamento de dinheiro</a>
+<a data-id="550" class="js-side-nav-cat js-subcat" href="/courses/finance-and-accounting/taxes/" tabindex="-1">Impostos</a>
+<a data-id="552" class="js-side-nav-cat js-subcat" href="/courses/finance-and-accounting/other-finance-and-accounting/" tabindex="-1">Outras finanças e economia</a>
+</div>
+<a data-id="294" class="js-side-nav-cat" href="/courses/it-and-software/" tabindex="-1">TI e software</a>
+<div>
+<a data-id="132" class="js-side-nav-cat js-subcat" href="/courses/it-and-software/it-certification/" tabindex="-1">Certificação em TI</a>
+<a data-id="134" class="js-side-nav-cat js-subcat" href="/courses/it-and-software/network-and-security/" tabindex="-1">Rede e segurança</a>
+<a data-id="136" class="js-side-nav-cat js-subcat" href="/courses/it-and-software/hardware/" tabindex="-1">Hardware</a>
+<a data-id="138" class="js-side-nav-cat js-subcat" href="/courses/it-and-software/operating-systems/" tabindex="-1">Sistemas operacionais</a>
+<a data-id="140" class="js-side-nav-cat js-subcat" href="/courses/it-and-software/other-it-and-software/" tabindex="-1">Outros</a>
+</div>
+<a data-id="292" class="js-side-nav-cat" href="/courses/office-productivity/" tabindex="-1">Produtividade no escritório</a>
+<div>
+<a data-id="96" class="js-side-nav-cat js-subcat" href="/courses/office-productivity/microsoft/" tabindex="-1">Microsoft</a>
+<a data-id="98" class="js-side-nav-cat js-subcat" href="/courses/office-productivity/apple/" tabindex="-1">Apple</a>
+<a data-id="100" class="js-side-nav-cat js-subcat" href="/courses/office-productivity/google/" tabindex="-1">Google</a>
+<a data-id="102" class="js-side-nav-cat js-subcat" href="/courses/office-productivity/sap/" tabindex="-1">SAP</a>
+<a data-id="106" class="js-side-nav-cat js-subcat" href="/courses/office-productivity/oracle/" tabindex="-1">Oracle</a>
+<a data-id="108" class="js-side-nav-cat js-subcat" href="/courses/office-productivity/other-productivity/" tabindex="-1">Outros</a>
+</div>
+<a data-id="296" class="js-side-nav-cat" href="/courses/personal-development/" tabindex="-1">Desenvolvimento Pessoal</a>
+<div>
+<a data-id="142" class="js-side-nav-cat js-subcat" href="/courses/personal-development/personal-transformation/" tabindex="-1">Transformação pessoal</a>
+<a data-id="144" class="js-side-nav-cat js-subcat" href="/courses/personal-development/productivity/" tabindex="-1">Produtividade</a>
+<a data-id="146" class="js-side-nav-cat js-subcat" href="/courses/personal-development/leadership/" tabindex="-1">Liderança</a>
+<a data-id="148" class="js-side-nav-cat js-subcat" href="/courses/personal-development/personal-finance/" tabindex="-1">Finanças pessoais</a>
+<a data-id="150" class="js-side-nav-cat js-subcat" href="/courses/personal-development/career-development/" tabindex="-1">Desenvolvimento de carreira</a>
+<a data-id="152" class="js-side-nav-cat js-subcat" href="/courses/personal-development/parenting-and-relationships/" tabindex="-1">Maternidade/paternidade e relacionamentos</a>
+<a data-id="156" class="js-side-nav-cat js-subcat" href="/courses/personal-development/happiness/" tabindex="-1">Felicidade</a>
+<a data-id="158" class="js-side-nav-cat js-subcat" href="/courses/personal-development/religion-and-spirituality/" tabindex="-1">Religião e espiritualidade</a>
+<a data-id="160" class="js-side-nav-cat js-subcat" href="/courses/personal-development/personal-brand-building/" tabindex="-1">Criação de marketing pessoal</a>
+<a data-id="164" class="js-side-nav-cat js-subcat" href="/courses/personal-development/creativity/" tabindex="-1">Criatividade</a>
+<a data-id="166" class="js-side-nav-cat js-subcat" href="/courses/personal-development/influence/" tabindex="-1">Influência</a>
+<a data-id="168" class="js-side-nav-cat js-subcat" href="/courses/personal-development/self-esteem/" tabindex="-1">Autoestima</a>
+<a data-id="170" class="js-side-nav-cat js-subcat" href="/courses/personal-development/stress-management/" tabindex="-1">Gestão de estresse</a>
+<a data-id="172" class="js-side-nav-cat js-subcat" href="/courses/personal-development/memory/" tabindex="-1">Habilidades de memória e estudo</a>
+<a data-id="176" class="js-side-nav-cat js-subcat" href="/courses/personal-development/motivation/" tabindex="-1">Motivação</a>
+<a data-id="178" class="js-side-nav-cat js-subcat" href="/courses/personal-development/other-personal-development/" tabindex="-1">Outros</a>
+</div>
+<a data-id="269" class="js-side-nav-cat" href="/courses/design/" tabindex="-1">Design</a>
+<div>
+<a data-id="6" class="js-side-nav-cat js-subcat" href="/courses/design/web-design/" tabindex="-1">Web design</a>
+<a data-id="110" class="js-side-nav-cat js-subcat" href="/courses/design/graphic-design/" tabindex="-1">Design gráfico</a>
+<a data-id="112" class="js-side-nav-cat js-subcat" href="/courses/design/design-tools/" tabindex="-1">Ferramentas de design</a>
+<a data-id="114" class="js-side-nav-cat js-subcat" href="/courses/design/user-experience/" tabindex="-1">Experiência de usuário</a>
+<a data-id="116" class="js-side-nav-cat js-subcat" href="/courses/design/game-design/" tabindex="-1">Design de games</a>
+<a data-id="118" class="js-side-nav-cat js-subcat" href="/courses/design/design-thinking/" tabindex="-1">Criatividade em design</a>
+<a data-id="120" class="js-side-nav-cat js-subcat" href="/courses/design/3d-and-animation/" tabindex="-1">3D e animação</a>
+<a data-id="122" class="js-side-nav-cat js-subcat" href="/courses/design/fashion/" tabindex="-1">Moda</a>
+<a data-id="124" class="js-side-nav-cat js-subcat" href="/courses/design/architectural-design/" tabindex="-1">Design arquitetônico</a>
+<a data-id="128" class="js-side-nav-cat js-subcat" href="/courses/design/interior-design/" tabindex="-1">Design de interiores</a>
+<a data-id="130" class="js-side-nav-cat js-subcat" href="/courses/design/other-design/" tabindex="-1">Outros</a>
+</div>
+<a data-id="290" class="js-side-nav-cat" href="/courses/marketing/" tabindex="-1">Marketing</a>
+<div>
+<a data-id="62" class="js-side-nav-cat js-subcat" href="/courses/marketing/digital-marketing/" tabindex="-1">Marketing digital</a>
+<a data-id="64" class="js-side-nav-cat js-subcat" href="/courses/marketing/search-engine-optimization/" tabindex="-1">Otimização de mecanismos de busca (SEO)</a>
+<a data-id="66" class="js-side-nav-cat js-subcat" href="/courses/marketing/social-media-marketing/" tabindex="-1">Marketing de redes sociais</a>
+<a data-id="68" class="js-side-nav-cat js-subcat" href="/courses/marketing/branding/" tabindex="-1">Branding</a>
+<a data-id="70" class="js-side-nav-cat js-subcat" href="/courses/marketing/marketing-fundamentals/" tabindex="-1">Fundamentos de marketing</a>
+<a data-id="72" class="js-side-nav-cat js-subcat" href="/courses/marketing/analytics-and-automation/" tabindex="-1">Análise e automação</a>
+<a data-id="74" class="js-side-nav-cat js-subcat" href="/courses/marketing/public-relations/" tabindex="-1">Relações públicas</a>
+<a data-id="76" class="js-side-nav-cat js-subcat" href="/courses/marketing/advertising/" tabindex="-1">Publicidade</a>
+<a data-id="78" class="js-side-nav-cat js-subcat" href="/courses/marketing/video-and-mobile-marketing/" tabindex="-1">Marketing móvel e em vídeo</a>
+<a data-id="80" class="js-side-nav-cat js-subcat" href="/courses/marketing/content-marketing/" tabindex="-1">Marketing de conteúdo</a>
+<a data-id="86" class="js-side-nav-cat js-subcat" href="/courses/marketing/growth-hacking/" tabindex="-1">Aumento de usuários de produto/serviço</a>
+<a data-id="88" class="js-side-nav-cat js-subcat" href="/courses/marketing/affiliate-marketing/" tabindex="-1">Marketing de afiliados</a>
+<a data-id="90" class="js-side-nav-cat js-subcat" href="/courses/marketing/product-marketing/" tabindex="-1">Marketing de produtos</a>
+<a data-id="94" class="js-side-nav-cat js-subcat" href="/courses/marketing/other-marketing/" tabindex="-1">Outros</a>
+</div>
+<a data-id="274" class="js-side-nav-cat" href="/courses/lifestyle/" tabindex="-1">Estilo de vida</a>
+<div>
+<a data-id="180" class="js-side-nav-cat js-subcat" href="/courses/lifestyle/arts-and-crafts/" tabindex="-1">Artes e artesanato</a>
+<a data-id="182" class="js-side-nav-cat js-subcat" href="/courses/lifestyle/food-and-beverage/" tabindex="-1">Alimentos e bebidas</a>
+<a data-id="184" class="js-side-nav-cat js-subcat" href="/courses/lifestyle/beauty-and-makeup/" tabindex="-1">Beleza e maquiagem</a>
+<a data-id="186" class="js-side-nav-cat js-subcat" href="/courses/lifestyle/travel/" tabindex="-1">Viagem</a>
+<a data-id="188" class="js-side-nav-cat js-subcat" href="/courses/lifestyle/gaming/" tabindex="-1">Games</a>
+<a data-id="190" class="js-side-nav-cat js-subcat" href="/courses/lifestyle/home-improvement/" tabindex="-1">Reforma da casa</a>
+<a data-id="192" class="js-side-nav-cat js-subcat" href="/courses/lifestyle/pet-care-and-training/" tabindex="-1">Cuidados com animais e adestramento</a>
+<a data-id="194" class="js-side-nav-cat js-subcat" href="/courses/lifestyle/other-lifestyle/" tabindex="-1">Outros</a>
+</div>
+<a data-id="273" class="js-side-nav-cat" href="/courses/photography/" tabindex="-1">Fotografia</a>
+<div>
+<a data-id="370" class="js-side-nav-cat js-subcat" href="/courses/photography/digital-photography/" tabindex="-1">Fotografia digital</a>
+<a data-id="196" class="js-side-nav-cat js-subcat" href="/courses/photography/photography-fundamentals/" tabindex="-1">Fundamentos da fotografia</a>
+<a data-id="204" class="js-side-nav-cat js-subcat" href="/courses/photography/portraits/" tabindex="-1">Retratos</a>
+<a data-id="198" class="js-side-nav-cat js-subcat" href="/courses/photography/photography-tools/" tabindex="-1">Ferramentas de fotografia</a>
+<a data-id="208" class="js-side-nav-cat js-subcat" href="/courses/photography/commercial-photography/" tabindex="-1">Fotografia comercial</a>
+<a data-id="218" class="js-side-nav-cat js-subcat" href="/courses/photography/video-design/" tabindex="-1">Design de vídeos</a>
+<a data-id="220" class="js-side-nav-cat js-subcat" href="/courses/photography/other-photography/" tabindex="-1">Outros</a>
+</div>
+<a data-id="276" class="js-side-nav-cat" href="/courses/health-and-fitness/" tabindex="-1">Saúde e fitness</a>
+<div>
+<a data-id="222" class="js-side-nav-cat js-subcat" href="/courses/health-and-fitness/fitness/" tabindex="-1">Fitness</a>
+<a data-id="224" class="js-side-nav-cat js-subcat" href="/courses/health-and-fitness/general-health/" tabindex="-1">Saúde geral</a>
+<a data-id="226" class="js-side-nav-cat js-subcat" href="/courses/health-and-fitness/sports/" tabindex="-1">Esportes</a>
+<a data-id="228" class="js-side-nav-cat js-subcat" href="/courses/health-and-fitness/nutrition/" tabindex="-1">Nutrição</a>
+<a data-id="230" class="js-side-nav-cat js-subcat" href="/courses/health-and-fitness/yoga/" tabindex="-1">Ioga</a>
+<a data-id="232" class="js-side-nav-cat js-subcat" href="/courses/health-and-fitness/mental-health/" tabindex="-1">Saúde geral</a>
+<a data-id="234" class="js-side-nav-cat js-subcat" href="/courses/health-and-fitness/dieting/" tabindex="-1">Dieta</a>
+<a data-id="236" class="js-side-nav-cat js-subcat" href="/courses/health-and-fitness/self-defense/" tabindex="-1">Autodefesa</a>
+<a data-id="238" class="js-side-nav-cat js-subcat" href="/courses/health-and-fitness/safety-and-first-aid/" tabindex="-1">Segurança e primeiros socorros</a>
+<a data-id="240" class="js-side-nav-cat js-subcat" href="/courses/health-and-fitness/dance/" tabindex="-1">Dança</a>
+<a data-id="242" class="js-side-nav-cat js-subcat" href="/courses/health-and-fitness/meditation/" tabindex="-1">Meditação</a>
+<a data-id="244" class="js-side-nav-cat js-subcat" href="/courses/health-and-fitness/other-health-and-fitness/" tabindex="-1">Outros</a>
+</div>
+<a data-id="278" class="js-side-nav-cat" href="/courses/music/" tabindex="-1">Música</a>
+<div>
+<a data-id="296" class="js-side-nav-cat js-subcat" href="/courses/music/instruments/" tabindex="-1">Instrumentos</a>
+<a data-id="298" class="js-side-nav-cat js-subcat" href="/courses/music/production/" tabindex="-1">Produção</a>
+<a data-id="300" class="js-side-nav-cat js-subcat" href="/courses/music/music-fundamentals/" tabindex="-1">Fundamentos da música</a>
+<a data-id="302" class="js-side-nav-cat js-subcat" href="/courses/music/vocal/" tabindex="-1">Canto</a>
+<a data-id="304" class="js-side-nav-cat js-subcat" href="/courses/music/music-techniques/" tabindex="-1">Técnicas de música</a>
+<a data-id="306" class="js-side-nav-cat js-subcat" href="/courses/music/music-software/" tabindex="-1">Software de música</a>
+<a data-id="308" class="js-side-nav-cat js-subcat" href="/courses/music/other-music/" tabindex="-1">Outros</a>
+</div>
+<a data-id="300" class="js-side-nav-cat" href="/courses/teaching-and-academics/" tabindex="-1">Ensino e estudo acadêmico</a>
+<div>
+<a data-id="366" class="js-side-nav-cat js-subcat" href="/courses/teaching-and-academics/engineering/" tabindex="-1">Engenharia</a>
+<a data-id="380" class="js-side-nav-cat js-subcat" href="/courses/teaching-and-academics/humanities/" tabindex="-1">Ciências humanas</a>
+<a data-id="310" class="js-side-nav-cat js-subcat" href="/courses/teaching-and-academics/math/" tabindex="-1">Matemática</a>
+<a data-id="312" class="js-side-nav-cat js-subcat" href="/courses/teaching-and-academics/science/" tabindex="-1">Ciência</a>
+<a data-id="523" class="js-side-nav-cat js-subcat" href="/courses/teaching-and-academics/online-education/" tabindex="-1">Educação online</a>
+<a data-id="376" class="js-side-nav-cat js-subcat" href="/courses/teaching-and-academics/social-science/" tabindex="-1">Ciências sociais</a>
+<a data-id="521" class="js-side-nav-cat js-subcat" href="/courses/teaching-and-academics/language/" tabindex="-1">Idioma</a>
+<a data-id="527" class="js-side-nav-cat js-subcat" href="/courses/teaching-and-academics/teacher-training/" tabindex="-1">Treinamento de professores</a>
+<a data-id="529" class="js-side-nav-cat js-subcat" href="/courses/teaching-and-academics/test-prep/" tabindex="-1">Preparação Para Teste</a>
+<a data-id="525" class="js-side-nav-cat js-subcat" href="/courses/teaching-and-academics/other-teaching-academics/" tabindex="-1">Outros tipos de ensino e estudo acadêmico</a>
+</div>
+<div data-id="24" class="js-side-nav-popular-topics">
+<a data-id="5800" href="/topic/financial-analysis/" tabindex="-1">Análise financeira</a>
+<a data-id="7900" href="/topic/stock-trading/" tabindex="-1">Negociação de ações</a>
+<a data-id="6282" href="/topic/investing/" tabindex="-1">Investimentos</a>
+<a data-id="5798" href="/topic/finance/" tabindex="-1">Fundamentos de finanças</a>
+<a data-id="5868" href="/topic/forex/" tabindex="-1">Forex</a>
+<a data-id="5806" href="/topic/financial-modeling/" tabindex="-1">Modelagem financeira</a>
+<a data-id="4328" href="/topic/accounting/" tabindex="-1">Contabilidade</a>
+<a data-id="6730" href="/topic/excel/" tabindex="-1">Excel</a>
+<a data-id="7012" href="/topic/options-trading/" tabindex="-1">Negociação de opções</a>
+</div>
+<div data-id="132" class="js-side-nav-popular-topics">
+<a data-id="4704" href="/topic/aws-certification/" tabindex="-1">Certificação em AWS</a>
+<a data-id="24774" href="/topic/aws-certified-solutions-architect-associate/" tabindex="-1">AWS Certified Solutions Architect – Associate</a>
+<a data-id="6720" href="/topic/microsoft-certification/" tabindex="-1">Certificação Microsoft</a>
+<a data-id="5166" href="/topic/comptia-a/" tabindex="-1">CompTIA A+</a>
+<a data-id="5044" href="/topic/cisco-ccna/" tabindex="-1">Cisco CCNA</a>
+<a data-id="46868" href="/topic/aws-certified-cloud-practitioner/" tabindex="-1">AWS Certified Cloud Practitioner</a>
+<a data-id="5176" href="/topic/comptia-security/" tabindex="-1">CompTIA Security+</a>
+<a data-id="43860" href="/topic/aws-certified-developer-associate/" tabindex="-1">AWS Certified Developer – Associate</a>
+<a data-id="155738" href="/topic/ccna-200-301/" tabindex="-1">CCNA 200-301</a>
+</div>
+<div data-id="110" class="js-side-nav-popular-topics">
+<a data-id="4402" href="/topic/photoshop/" tabindex="-1">Photoshop</a>
+<a data-id="6020" href="/topic/graphic-design/" tabindex="-1">Design gráfico</a>
+<a data-id="4394" href="/topic/adobe-illustrator/" tabindex="-1">Adobe Illustrator</a>
+<a data-id="5494" href="/topic/drawing/" tabindex="-1">Desenho</a>
+<a data-id="5434" href="/topic/digital-painting/" tabindex="-1">Pintura digital</a>
+<a data-id="4396" href="/topic/indesign/" tabindex="-1">InDesign</a>
+<a data-id="5002" href="/topic/character-design/" tabindex="-1">Design de personagens</a>
+<a data-id="10470" href="/topic/figure-drawing/" tabindex="-1">Desenho de figuras</a>
+<a data-id="6570" href="/topic/logo-design/" tabindex="-1">Design de logotipos</a>
+</div>
+<div data-id="142" class="js-side-nav-popular-topics">
+<a data-id="10684" href="/topic/life-coaching/" tabindex="-1">Treinamento de Life Coach</a>
+<a data-id="7484" href="/topic/reiki/" tabindex="-1">Reiki</a>
+<a data-id="6910" href="/topic/neuro-linguistic-programming/" tabindex="-1">Programação neurolinguística</a>
+<a data-id="5618" href="/topic/energy-healing/" tabindex="-1">Cura pela energia</a>
+<a data-id="6770" href="/topic/mindfulness/" tabindex="-1">Mindfulness</a>
+<a data-id="7138" href="/topic/personal-development/" tabindex="-1">Desenvolvimento Pessoal</a>
+<a data-id="15374" href="/topic/personal-transformation/" tabindex="-1">Transformação pessoal</a>
+<a data-id="6680" href="/topic/meditation/" tabindex="-1">Meditação</a>
+<a data-id="6916" href="/topic/neuroscience/" tabindex="-1">Neurociência</a>
+</div>
+<div data-id="8" class="js-side-nav-popular-topics">
+<a data-id="8322" href="/topic/web-development/" tabindex="-1">Desenvolvimento web</a>
+<a data-id="6368" href="/topic/javascript/" tabindex="-1">JavaScript</a>
+<a data-id="7450" href="/topic/react/" tabindex="-1">React</a>
+<a data-id="28016" href="/topic/angular/" tabindex="-1">Angular</a>
+<a data-id="5306" href="/topic/css/" tabindex="-1">CSS</a>
+<a data-id="7176" href="/topic/php/" tabindex="-1">PHP</a>
+<a data-id="6928" href="/topic/nodejs/" tabindex="-1">Node.Js</a>
+<a data-id="7380" href="/topic/python/" tabindex="-1">Python</a>
+<a data-id="8452" href="/topic/wordpress/" tabindex="-1">WordPress</a>
+</div>
+<div data-id="10" class="js-side-nav-popular-topics">
+<a data-id="4470" href="/topic/android-development/" tabindex="-1">Desenvolvimento para Android</a>
+<a data-id="52458" href="/topic/google-flutter/" tabindex="-1">Google Flutter</a>
+<a data-id="6292" href="/topic/ios-development/" tabindex="-1">Desenvolvimento em iOS</a>
+<a data-id="7956" href="/topic/swift/" tabindex="-1">Swift</a>
+<a data-id="9884" href="/topic/react-native/" tabindex="-1">React Native</a>
+<a data-id="37860" href="/topic/dart-programming-language/" tabindex="-1">Linguagem de programação Dart</a>
+<a data-id="5402" href="/topic/mobile-development/" tabindex="-1">Desenvolvimento móvel</a>
+<a data-id="13554" href="/topic/kotlin/" tabindex="-1">Kotlin</a>
+<a data-id="7474" href="/topic/redux-framework/" tabindex="-1">Redux Framework</a>
+</div>
+<div data-id="62" class="js-side-nav-popular-topics">
+<a data-id="5430" href="/topic/digital-marketing/" tabindex="-1">Marketing digital</a>
+<a data-id="73900" href="/topic/google-ads/" tabindex="-1">Google Ads (AdWords)</a>
+<a data-id="7788" href="/topic/social-media-marketing/" tabindex="-1">Marketing de redes sociais</a>
+<a data-id="9838" href="/topic/google-ads-certification/" tabindex="-1">Certificação em Google Ads (AdWords)</a>
+<a data-id="6630" href="/topic/marketing-strategy/" tabindex="-1">Estratégia de marketing</a>
+<a data-id="6994" href="/topic/internet-marketing/" tabindex="-1">Marketing na Internet</a>
+<a data-id="5586" href="/topic/email-marketing/" tabindex="-1">Marketing por e-mail</a>
+<a data-id="5980" href="/topic/google-analytics/" tabindex="-1">Google Analytics</a>
+<a data-id="155572" href="/topic/facebook-ads/" tabindex="-1">Anúncios do Facebook</a>
+</div>
+<div data-id="44" class="js-side-nav-popular-topics">
+<a data-id="7862" href="/topic/sql/" tabindex="-1">SQL</a>
+<a data-id="6740" href="/topic/microsoft-power-bi/" tabindex="-1">Microsoft Power BI</a>
+<a data-id="7978" href="/topic/tableau/" tabindex="-1">Tableau</a>
+
+<a data-id="9000" href="/topic/business-analysis/" tabindex="-1">Análise de negócios</a>
+<a data-id="4886" href="/topic/business-intelligence/" tabindex="-1">Business Intelligence</a>
+<a data-id="5328" href="/topic/data-analysis/" tabindex="-1">Análise de dados</a>
+<a data-id="6866" href="/topic/mysql/" tabindex="-1">MySQL</a>
+<a data-id="5334" href="/topic/data-modeling/" tabindex="-1">Modelagem de dados</a>
+<a data-id="4770" href="/topic/big-data/" tabindex="-1">Big Data</a>
+</div>
+<div data-id="26" class="js-side-nav-popular-topics">
+<a data-id="4882" href="/topic/business-fundamentals/" tabindex="-1">Fundamentos dos negócios</a>
+<a data-id="4454" href="/topic/amazon-fba/" tabindex="-1">Amazon FBA</a>
+<a data-id="5502" href="/topic/dropshipping/" tabindex="-1">Dropshipping</a>
+<a data-id="5654" href="/topic/entrepreneurship/" tabindex="-1">Fundamentos do empreendedorismo</a>
+<a data-id="4898" href="/topic/business-strategy/" tabindex="-1">Estratégia de negócios</a>
+<a data-id="4894" href="/topic/business-plan/" tabindex="-1">Plano de negócios</a>
+<a data-id="7888" href="/topic/startup/" tabindex="-1">Startup</a>
+<a data-id="7726" href="/topic/shopify/" tabindex="-1">Shopify</a>
+<a data-id="4796" href="/topic/blogging/" tabindex="-1">Blogging</a>
+</div>
+<div data-id="14" class="js-side-nav-popular-topics">
+<a data-id="8154" href="/topic/unity/" tabindex="-1">Unity</a>
+<a data-id="5904" href="/topic/game-development/" tabindex="-1">Fundamentos do desenvolvimento de games</a>
+<a data-id="8166" href="/topic/unreal-engine/" tabindex="-1">Unreal Engine</a>
+<a data-id="4904" href="/topic/c-sharp/" tabindex="-1">C#</a>
+<a data-id="4280" href="/topic/3d-game-development/" tabindex="-1">Desenvolvimento de games 3D</a>
+<a data-id="4908" href="/topic/c-plus-plus/" tabindex="-1">C++</a>
+<a data-id="25642" href="/topic/2d-game-development/" tabindex="-1">Desenvolvimento de games 2D</a>
+<a data-id="4790" href="/topic/blender/" tabindex="-1">Blender</a>
+<a data-id="109866" href="/topic/unreal-engine-blueprints/" tabindex="-1">Blueprints da Unreal Engine</a>
+</div>
+</nav>
+<div class="main-content">
+<div class="loginbox-v4 modal-content-wrapper ud-app-loader ud-app-loaded" data-module-id="auth" data-module-args="{&quot;mode&quot;:&quot;LOGIN&quot;}" data-purpose="login-box">
+<div class="ud-component--social-auth--auth-seen-by-user-tracker" ng-non-bindable=""><span style="font-size: 0px;"></span></div>
+<div id="auth-to-udemy-title" class="loginbox-v4__header">
+Faça login em sua conta da Udemy!
+</div>
+<div class="loginbox-v4__content">
+<span class="ud-component--auth--app" data-component-props="{&quot;facebookRedirectUrl&quot;:&quot;/join/social-begin/facebook/?from=login&amp;locale=pt_BR&amp;next=https%3A%2F%2Fwww.udemy.com%2Fmobile%2Fipad%2F&amp;response_type=html&amp;skip_suggest=1&quot;,&quot;appleClientId&quot;:&quot;com.udemy.web&quot;,&quot;appleRedirectUri&quot;:&quot;https://www.udemy.com/join/social-complete/apple/login/&quot;,&quot;googleClientId&quot;:&quot;700206021005-bfren0qj1or8pp5spnn521hos9lm9ll9.apps.googleusercontent.com&quot;,&quot;actionType&quot;:&quot;login&quot;,&quot;googleRedirectUrl&quot;:&quot;/join/social-complete/google-plus/?locale=pt_BR&amp;next=https%3A%2F%2Fwww.udemy.com%2Fmobile%2Fipad%2F&amp;response_type=html&amp;skip_suggest=1&quot;,&quot;allowedSocialButtons&quot;:[&quot;facebook&quot;,&quot;google-plus&quot;,&quot;apple&quot;],&quot;appleState&quot;:&quot;dteutstkmlaspchr&quot;}" ng-non-bindable=""><div><div><a href="/" data-purpose="facebook-link" class="fxac social-buttons--social-btn--1JTo2 facebook-auth--social-btn--facebook--3SDC_"><span class="social-buttons--social-icon--3jP8h facebook-auth--social-icon--3wyy2 udi udi-facebook-f"></span>Continuar com o Facebook</a></div><div><a href="/" data-purpose="google-link" class="fxac social-buttons--social-btn--1JTo2 google-auth--social-btn--google--1H6_f"><span class="social-buttons--social-icon--3jP8h google-auth--social-icon--3uKst udi udi-google-plus"></span>Continuar com o Google</a><form id="google-plus-login-form" method="post" action="/join/social-complete/google-plus/?locale=pt_BR&amp;next=https%3A%2F%2Fwww.udemy.com%2Fmobile%2Fipad%2F&amp;response_type=html&amp;skip_suggest=1"><input type="hidden" name="access_token" value=""><input type="hidden" name="code" value=""><input type="hidden" name="from" value="login"><input type="hidden" name="instructor" value="false"></form></div><div><a href="/" data-purpose="apple-link" data-color="black" class="fxac social-buttons--social-btn--1JTo2 apple-auth--social-btn--apple--3Zv96"><span class="social-buttons--social-icon--3jP8h udi udi-apple-filled"></span>Continuar com Apple</a></div></div></span>
+<form action="https://www.udemy.com/join/login-popup/?locale=pt_BR&amp;next=https%3A%2F%2Fwww.udemy.com%2Fmobile%2Fipad%2F&amp;response_type=html&amp;skip_suggest=1" action-type="login" class="signin-form dj" id="login-form" name="login-form" method="post"> <input type="hidden" name="csrfmiddlewaretoken" value="VdxDKMxW5wUl6l7ljQ6BwQOoyTe2zHP3Wv57T55NTH7iARNxsk9AMGU8ZucyENeF"> <div class="manage-fields-wrapper"> <input type="hidden" name="locale" value="pt_BR"> <div class="form-field-container labeled ud-component--social-auth--django-email-field" id="form-item-email" ng-non-bindable=""><label for="email--1" class="sr-only">E-mail</label><div><input name="email" required="" maxlength="64" minlength="7" placeholder="E-mail" data-purpose="email" type="email" id="email--1" class="form-control user-error" value="" aria-invalid="true"></div></div> <div class="form-field-container labeled" id="form-item-password"> <label class="control-label " for="id_password">Senha</label> <div id="tooltip-reference-password" class="tooltip-reference pos-r "> <input type="password" name="password" maxlength="64" class="textinput textInput form-control" minlength="6" required="" id="id_password" data-purpose="password" placeholder="Senha"> </div>
+</div>
+</div>
+<div class="form-actions"> <div class="submit-row"> <input type="submit" name="submit" value="Login" class="btn btn-primary " id="submit-id-submit" data-purpose="do-login">
+<span>ou </span><a href="/user/forgot-password/?locale=pt_BR&amp;next=https%3A%2F%2Fwww.udemy.com%2Fmobile%2Fipad%2F&amp;response_type=html&amp;skip_suggest=1" class="forgot-password-link">Esqueci a Senha</a>
+</div>
+</div> </form>
+</div>
+<div class="loginbox-v4__footer">
+Não tem uma conta?
+<a class="sign-link" href="/join/signup-popup/?locale=pt_BR&amp;next=https%3A%2F%2Fwww.udemy.com%2Fmobile%2Fipad%2F&amp;response_type=html&amp;skip_suggest=1" data-purpose="sign-up">
+Inscreva-se
+</a>
+</div>
+</div>
+<div class="loginbox-v4-go-back__wrapper">
+</div>
+</div>
+<footer class="udlite-footer ud-app-loader udlite-in-udheavy ud-app-loaded" data-module-id="footer" data-module-args="{&quot;is_udlite_footer&quot;:true,&quot;localeSelect&quot;:{&quot;currentLanguageId&quot;:&quot;pt_BR&quot;},&quot;ufbNotice&quot;:{&quot;placement&quot;:&quot;footer-ad&quot;,&quot;link&quot;:&quot;https://business.udemy.com/request-demo/?locale=pt_BR\u0026ref=footer-ad&quot;}}" data-module-priority="-10">
+<div class="ud-component--footer--bai-banner" ng-non-bindable=""></div>
+<div class="footer-section ud-component--footer--ufb-notice" ng-non-bindable=""><div class="ufb-notice--notice-row--3tUOv"><div class="udlite-heading-lg ufb-notice--notice--12AAi"><span>As melhores empresas escolhem a plataforma <a data-purpose="ufb-link" href="https://business.udemy.com/request-demo/?locale=pt_BR&amp;ref=footer-ad" target="_blank" rel="noopener">Udemy for Business</a> para desenvolver as habilidades de carreira necessárias.</span></div><div class="ufb-notice--partner-logos--3HzrN"><img alt="Lyft" height="24" width="34" src="https://i.udemycdn.com/partner-logos/lyft-logo.svg"><img alt="adidas" height="24" width="36" src="https://i.udemycdn.com/partner-logos/adidas-logo.svg"><img alt="Eventbrite" height="18" width="99" src="https://i.udemycdn.com/partner-logos/eventbrite-logo.svg"><img alt="Surveymonkey" height="24" width="157" src="https://i.udemycdn.com/partner-logos/surveymonkey-logo.svg"><img alt="Booking" height="24" width="140" src="https://i.udemycdn.com/partner-logos/booking-logo.svg"></div></div></div>
+<div class="footer-section footer-section-main">
+<div class="links-and-locale">
+<div class="locale-select-container ud-component--footer--locale-select" ng-non-bindable=""><div class="udlite-form-group" style="display: inline-block;"><label for="u112-form-group--5" class="udlite-sr-only udlite-form-label udlite-heading-sm">Selecionar local</label><div class="udlite-select-container udlite-select-container-small"><div class="udlite-select-icon-container udlite-select-icon-left"><svg aria-hidden="true" focusable="false" class="udlite-icon udlite-icon-xsmall udlite-icon-color-neutral"><use xlink:href="#icon-language"></use></svg></div><select required="" id="u112-form-group--5" class="udlite-select udlite-text-sm udlite-select-with-icon"><option value="en_US">English</option><option value="de_DE">Deutsch</option><option value="es_ES">Español</option><option value="fr_FR">Français</option><option value="id_ID">Bahasa Indonesia</option><option value="it_IT">Italiano</option><option value="ja_JP">日本語</option><option value="ko_KR">한국어</option><option value="nl_NL">Nederlands</option><option value="pl_PL">Polski</option><option value="pt_BR">Português</option><option value="ro_RO">Română</option><option value="ru_RU">Русский</option><option value="th_TH">ภาษาไทย</option><option value="tr_TR">Türkçe</option><option value="zh_CN">中文(简体)</option><option value="zh_TW">中文(繁體)</option></select><div class="udlite-select-icon-container udlite-select-icon-right"><svg aria-hidden="true" focusable="false" class="udlite-icon udlite-icon-small udlite-icon-color-neutral"><use xlink:href="#icon-collapse"></use></svg></div></div></div></div>
+<ul class="unstyled-list link-column ">
+<li>
+<a class="link udlite-text-sm ud-ufb-notice-click-event" href="https://business.udemy.com/?locale=pt_BR&amp;mx_pg=login-popup&amp;ref=footer" target="_blank" rel="noopener noopener noreferrer" data-placement="footer">
+Udemy for Business
+</a>
+</li>
+<li>
+<a class="link udlite-text-sm" href="/teaching/?ref=teach_footer">
+Ensine no Udemy
+</a>
+</li>
+<li>
+<a class="link udlite-text-sm" href="/mobile/" target="_blank" rel="noopener noreferrer noopener noreferrer">
+Obtenha o aplicativo
+</a>
+</li>
+<li>
+<a class="link udlite-text-sm" href="https://about.udemy.com/?locale=pt-br">
+Quem somos
+</a>
+</li>
+<li>
+<a class="link udlite-text-sm" href="https://about.udemy.com/company?locale=pt-br#offices">
+Fale conosco
+</a>
+</li>
+</ul>
+<ul class="unstyled-list link-column ">
+<li>
+<a class="link udlite-text-sm" href="https://about.udemy.com/careers?locale=pt-br">
+Carreiras
+</a>
+</li>
+<li>
+<a class="link udlite-text-sm" href="https://blog.udemy.com/?ref=footer">
+Blog
+</a>
+</li>
+<li>
+<a class="link udlite-text-sm" href="/support/">
+Ajuda e suporte
+</a>
+</li>
+<li>
+<a class="link udlite-text-sm" href="/affiliate/">
+Filial
+</a>
+</li>
+</ul>
+<ul class="unstyled-list link-column ">
+<li>
+<a class="link udlite-text-sm" href="/terms/">
+Termos da Udemy
+</a>
+</li>
+<li>
+<a class="link udlite-text-sm" href="/terms/privacy/">
+Política de Privacidade e Cookies
+</a>
+</li>
+<li>
+<a class="link udlite-text-sm" href="/pt/sitemap/">
+Mapa do site
+</a>
+</li>
+<li>
+<a class="link udlite-text-sm" href="/pt/popular-courses/">
+Cursos em destaque
+</a>
+</li>
+</ul>
+</div>
+<div class="logo-and-copyright">
+<div class="logo-container">
+<a href="/" style="display:block">
+<img alt="Udemy" class="ufb-logo" src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" width="110" height="32">
+</a>
+</div>
+<div class="copyright-container udlite-text-xs">
+© 2020 Udemy, Inc.
+</div>
+</div>
+</div>
+<div class="ud-component--footer--eu-cookie-message" ng-non-bindable=""></div>
+</footer>
+</div>
+<script type="text/javascript" src="/staticx/udemy/js/webpack/entry-manifest.aee7b8ae1ade2c4cb12d.js" defer=""></script>
+<script type="text/javascript" src="/staticx/udemy/js/webpack/entry-main-modern-vendor.badbcb23cfba162170a1.js" defer=""></script>
+<script type="text/javascript" src="/staticx/udemy/js/webpack/jsi18n-pt-br.de5b9b8ac812e99b288c.js" defer=""></script>
+<script type="text/javascript" src="/staticx/udemy/js/webpack/entry-main-modern.245b33e7e835443903ff.js" defer=""></script>
+<script>
+    window.handleCSSToggleButtonClick = function (event) {
+        var target = event.currentTarget;
+        var cssToggleId = target && target.dataset && target.dataset.cssToggleId;
+        if (cssToggleId) {
+            var input = document.getElementById(cssToggleId);
+            if (input && input.dataset.type === 'checkbox') {
+                input.dataset.checked = input.dataset.checked ? '' : 'checked';
+            } else if (input && !input.dataset.checked) {
+                input.dataset.checked = true;
+                var radios = document.querySelectorAll('[name="' + input.dataset.name + '"]');
+                for (var i = 0; i < radios.length; i++) {
+                    radios[i].dataset.checked = radios[i] === input ? 'checked' : '';
+                }
+            }
+        }
+    };
+    (function () {
+        var cssToggleButtons = document.querySelectorAll('[data-css-toggle-id');
+        for (var i = 0; i < cssToggleButtons.length; i++) {
+            cssToggleButtons[i].addEventListener('click', window.handleCSSToggleButtonClick);
+        }
+    })();
+</script>
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="icon-add-circle-solid" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM17 13H13V17H11V13H7V11H11V7H13V11H17V13Z"></path></symbol><symbol id="icon-add-to-group" viewBox="0 0 24 24"><path d="M4 6H2V20C2 21.1 2.9 22 4 22H18V20H4V6ZM20 2H8C6.9 2 6 2.9 6 4V16C6 17.1 6.9 18 8 18H20C21.1 18 22 17.1 22 16V4C22 2.9 21.1 2 20 2ZM19 11H15V15H13V11H9V9H13V5H15V9H19V11Z"></path></symbol><symbol id="icon-add-to-list" viewBox="0 0 24 24"><path d="M14 10H2V12H14V10ZM14 6H2V8H14V6ZM18 14V10H16V14H12V16H16V20H18V16H22V14H18ZM2 16H10V14H2V16Z"></path></symbol><symbol id="icon-alarm" viewBox="0 0 24 24"><path d="M22 5.72l-4.6-3.86-1.29 1.53 4.6 3.86 1.29-1.53zM7.88 3.39l-1.28-1.53-4.6 3.85 1.29 1.53 4.59-3.85zM12.5 8h-1.5v6l4.75 2.85 0.75-1.23-4-2.37v-5.25zM12 4c-4.97 0-9 4.030-9 9s4.020 9 9 9c4.97 0 9-4.030 9-9s-4.030-9-9-9zM12 20c-3.87 0-7-3.13-7-7s3.13-7 7-7c3.87 0 7 3.13 7 7s-3.13 7-7 7z"></path></symbol><symbol id="icon-article" viewBox="0 0 24 24"><path d="M14 2h-8c-1.1 0-1.99 0.9-1.99 2l-0.010 16c0 1.1 0.89 2 1.99 2h12.010c1.1 0 2-0.9 2-2v-12l-6-6zM6 20v-16h7v5h5v11h-12z"></path></symbol><symbol id="icon-assignment" viewBox="0 0 24 24"><path d="M19 3h-4.18c-0.42-1.16-1.52-2-2.82-2s-2.4 0.84-2.82 2h-4.18c-1.1 0-2 0.9-2 2v14c0 1.1 0.9 2 2 2h14c1.1 0 2-0.9 2-2v-14c0-1.1-0.9-2-2-2zM12 3c0.55 0 1 0.45 1 1s-0.45 1-1 1c-0.55 0-1-0.45-1-1s0.45-1 1-1zM14 17h-7v-2h7v2zM17 13h-10v-2h10v2zM17 9h-10v-2h10v2z"></path></symbol><symbol id="icon-audio" viewBox="0 0 24 24"><path d="M12 14c1.66 0 2.99-1.34 2.99-3l0.010-6c0-1.66-1.34-3-3-3s-3 1.34-3 3v6c0 1.66 1.34 3 3 3zM17.3 11c0 3-2.54 5.1-5.3 5.1s-5.3-2.1-5.3-5.1h-1.7c0 3.41 2.72 6.23 6 6.72v3.28h2v-3.28c3.28-0.48 6-3.3 6-6.72h-1.7z"></path></symbol><symbol id="icon-bar-chart" viewBox="0 0 24 24"><path d="M5 9.2H8V19H5V9.2ZM10.6 5H13.4V19H10.6V5ZM16.2 13H19V19H16.2V13Z"></path></symbol><symbol id="icon-browse" viewBox="0 0 24 24"><path d="M4 4H8V8H4V4ZM10 4H14V8H10V4ZM20 4H16V8H20V4ZM4 10H8V14H4V10ZM14 10H10V14H14V10ZM16 10H20V14H16V10ZM8 16H4V20H8V16ZM10 16H14V20H10V16ZM20 16H16V20H20V16Z"></path></symbol><symbol id="icon-bullet" viewBox="0 0 24 24"><path d="M17 12c0 2.761-2.239 5-5 5s-5-2.239-5-5c0-2.761 2.239-5 5-5s5 2.239 5 5z"></path></symbol><symbol id="icon-calendar-30" viewBox="0 0 24 24"><path clip-rule="evenodd" d="M18 14.486C18 16.65 16.925 18 15.15 18s-2.854-1.341-2.854-3.51c0-2.162 1.09-3.49 2.854-3.49S18 12.323 18 14.486zm-4.204.005c0 1.522.514 2.386 1.354 2.386s1.35-.86 1.35-2.386c0-1.514-.514-2.368-1.35-2.368-.83 0-1.354.86-1.354 2.368z" fill-rule="evenodd"></path><path d="M8.698 14.927h-.87v-1.012h.855c.675 0 1.13-.38 1.13-.933 0-.543-.406-.9-1.14-.9-.684 0-1.138.385-1.177.97h-1.36c.055-1.24 1.071-2.047 2.601-2.047 1.467 0 2.469.714 2.469 1.787 0 .821-.592 1.416-1.457 1.564v.028c1.051.083 1.73.687 1.73 1.615 0 1.203-1.148 2.001-2.776 2.001C7.11 18 6.068 17.17 6 15.934h1.413c.044.567.532.938 1.31.938.738 0 1.256-.395 1.256-.96 0-.614-.484-.985-1.28-.985z"></path><path clip-rule="evenodd" d="M19 3h1c1.1 0 2 .9 2 2v16c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h1V1h2v2h10V1h2zM4 21h16V8H4z" fill-rule="evenodd"></path></symbol><symbol id="icon-cancel" viewBox="0 0 24 24"><path d="M12 2C6.47 2 2 6.47 2 12C2 17.53 6.47 22 12 22C17.53 22 22 17.53 22 12C22 6.47 17.53 2 12 2ZM17 15.59L15.59 17L12 13.41L8.41 17L7 15.59L10.59 12L7 8.41L8.41 7L12 10.59L15.59 7L17 8.41L13.41 12L17 15.59Z"></path></symbol><symbol id="icon-captions" viewBox="0 0 24 24"><path d="M20.4 2.4h-16.8c-1.332 0-2.4 1.080-2.4 2.4v14.4c0 1.32 1.068 2.4 2.4 2.4h16.8c1.32 0 2.4-1.080 2.4-2.4v-14.4c0-1.32-1.080-2.4-2.4-2.4zM10.8 10.8h-1.8v-0.6h-2.4v3.6h2.4v-0.6h1.8v1.2c0 0.66-0.54 1.2-1.2 1.2h-3.6c-0.66 0-1.2-0.54-1.2-1.2v-4.8c0-0.66 0.54-1.2 1.2-1.2h3.6c0.66 0 1.2 0.54 1.2 1.2v1.2zM19.2 10.8h-1.8v-0.6h-2.4v3.6h2.4v-0.6h1.8v1.2c0 0.66-0.54 1.2-1.2 1.2h-3.6c-0.66 0-1.2-0.54-1.2-1.2v-4.8c0-0.66 0.54-1.2 1.2-1.2h3.6c0.66 0 1.2 0.54 1.2 1.2v1.2z"></path></symbol><symbol id="icon-cart" viewBox="0 0 24 24"><path d="M15.55 13c0.75 0 1.41-0.41 1.75-1.030l3.58-6.49c0.37-0.66-0.11-1.48-0.87-1.48h-14.8l-0.94-2h-3.27v2h2l3.6 7.59-1.35 2.44c-0.73 1.34 0.23 2.97 1.75 2.97h12v-2h-12l1.1-2h7.45zM6.16 6h12.15l-2.76 5h-7.020l-2.37-5zM7 18c-1.1 0-1.99 0.9-1.99 2s0.89 2 1.99 2c1.1 0 2-0.9 2-2s-0.9-2-2-2zM17 18c-1.1 0-1.99 0.9-1.99 2s0.89 2 1.99 2c1.1 0 2-0.9 2-2s-0.9-2-2-2z"></path></symbol><symbol id="icon-certificate" viewBox="0 0 24 24"><path d="M20.39 19.37l-4.010-1.37-1.38 4-3.080-6-2.92 6-1.38-4-4.010 1.37 2.92-6c-0.96-1.2-1.53-2.72-1.53-4.37 0-1.857 0.737-3.637 2.050-4.95s3.093-2.050 4.95-2.050c1.857 0 3.637 0.738 4.95 2.050s2.050 3.093 2.050 4.95c0 1.65-0.57 3.17-1.53 4.37l2.92 6zM7 9l2.69 1.34-0.19 3 2.5-1.66 2.5 1.65-0.17-2.99 2.67-1.34-2.68-1.35 0.18-2.98-2.5 1.64-2.5-1.66 0.17 3.010-2.67 1.34z"></path></symbol><symbol id="icon-close" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59 5.59-5.59z"></path></symbol><symbol id="icon-cloud" viewBox="0 0 24 24"><path d="M19.35 10.040c-0.68-3.45-3.71-6.040-7.35-6.040-2.89 0-5.4 1.64-6.65 4.040-3.010 0.32-5.35 2.87-5.35 5.96 0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.050-4.78-4.65-4.96z"></path></symbol><symbol id="icon-code" viewBox="0 0 24 24"><path d="M8 3c-0.53 0-1.039 0.211-1.414 0.586s-0.586 0.884-0.586 1.414v4c0 0.53-0.211 1.039-0.586 1.414s-0.884 0.586-1.414 0.586h-1v2h1c0.53 0 1.039 0.211 1.414 0.586s0.586 0.884 0.586 1.414v4c0 0.53 0.211 1.039 0.586 1.414s0.884 0.586 1.414 0.586h2v-2h-2v-5c0-0.53-0.211-1.039-0.586-1.414s-0.884-0.586-1.414-0.586c0.53 0 1.039-0.211 1.414-0.586s0.586-0.884 0.586-1.414v-5h2v-2h-2zM16 3c0.53 0 1.039 0.211 1.414 0.586s0.586 0.884 0.586 1.414v4c0 0.53 0.211 1.039 0.586 1.414s0.884 0.586 1.414 0.586h1v2h-1c-0.53 0-1.039 0.211-1.414 0.586s-0.586 0.884-0.586 1.414v4c0 0.53-0.211 1.039-0.586 1.414s-0.884 0.586-1.414 0.586h-2v-2h2v-5c0-0.53 0.211-1.039 0.586-1.414s0.884-0.586 1.414-0.586c-0.53 0-1.039-0.211-1.414-0.586s-0.586-0.884-0.586-1.414v-5h-2v-2h2z"></path></symbol><symbol id="icon-collapse-minus" viewBox="0 0 24 24"><path d="M5 11v2h14v-2h-14z"></path></symbol><symbol id="icon-collapse" viewBox="0 0 24 24"><path d="M7.41 15.41l4.59-4.58 4.59 4.58 1.41-1.41-6-6-6 6 1.41 1.41z"></path></symbol><symbol id="icon-downloadable-resource" viewBox="0 0 24 24"><path d="M11.17 8l-2-2h-5.17v12h16v-10h-8.83zM4 4h6l2 2h8c1.1 0 2 0.9 2 2v10c0 1.1-0.9 2-2 2h-16c-1.1 0-2-0.9-2-2l0.010-12c0-1.1 0.89-2 1.99-2zM10.55 13v-3h2.9v3h2.55l-4 4-4-4h2.55z"></path></symbol><symbol id="icon-drag" viewBox="0 0 24 24"><rect x="11" y="5" width="2" height="2" rx="0.5"></rect><rect x="11" y="9" width="2" height="2" rx="0.5"></rect><rect x="11" y="13" width="2" height="2" rx="0.5"></rect><rect x="11" y="17" width="2" height="2" rx="0.5"></rect></symbol><symbol id="icon-duplicate" viewBox="0 0 24 24"><path d="M4 6H2V20C2 21.1 2.9 22 4 22H18V20H4V6ZM20 2H8C6.9 2 6 2.9 6 4V16C6 17.1 6.9 18 8 18H20C21.1 18 22 17.1 22 16V4C22 2.9 21.1 2 20 2Z"></path></symbol><symbol id="icon-edit" viewBox="0 0 24 24"><path d="M3 17.25V21H6.75L17.81 9.94L14.06 6.19L3 17.25ZM20.71 7.04C21.1 6.65 21.1 6.02 20.71 5.63L18.37 3.29C17.98 2.9 17.35 2.9 16.96 3.29L15.13 5.12L18.88 8.87L20.71 7.04Z"></path></symbol><symbol id="icon-email" viewBox="0 0 24 24"><path d="M20 4h-16c-1.1 0-1.99 0.9-1.99 2l-0.010 12c0 1.1 0.9 2 2 2h16c1.1 0 2-0.9 2-2v-12c0-1.1-0.9-2-2-2zM20 8l-8 5-8-5v-2l8 5 8-5v2z"></path></symbol><symbol id="icon-error" viewBox="0 0 24 24"><path d="M13 13h-2v-6h2v6zM12 17.3c-0.345 0-0.675-0.137-0.919-0.381s-0.381-0.574-0.381-0.919c0-0.345 0.137-0.675 0.381-0.919s0.574-0.381 0.919-0.381c0.345 0 0.675 0.137 0.919 0.381s0.381 0.574 0.381 0.919c0 0.345-0.137 0.675-0.381 0.919s-0.574 0.381-0.919 0.381zM15.73 3h-7.46l-5.27 5.27v7.46l5.27 5.27h7.46l5.27-5.27v-7.46l-5.27-5.27z"></path></symbol><symbol id="icon-expand-plus" viewBox="0 0 24 24"><path d="M19 13h-6v6h-2v-6h-6v-2h6v-6h2v6h6v2z"></path></symbol><symbol id="icon-expand" viewBox="0 0 24 24"><path d="M16.59 8.59l-4.59 4.58-4.59-4.58-1.41 1.41 6 6 6-6-1.41-1.41z"></path></symbol><symbol id="icon-facebook-messenger" viewBox="0 0 24 24"><path d="M12 2c-5.5 0-10 4.14-10 9.25 0 2.88 1.42 5.45 3.65 7.15l0.060 3.6 3.45-1.88-0.030-0.010c0.91 0.25 1.87 0.39 2.87 0.39 5.5 0 10-4.14 10-9.25s-4.5-9.25-10-9.25zM13.030 14.41l-2.49-2.63-5.040 2.63 5.38-5.63 2.58 2.47 4.85-2.47-5.28 5.63z"></path></symbol><symbol id="icon-facebook-workplace" viewBox="0 0 24 24"><path d="M20.7729 16.536C20.4829 16.8808 19.9533 17.4154 19.1178 17.4154C17.9378 17.4154 17.5571 16.5717 17.1992 15.6791L15.427 11.3461L13.6619 15.6791C13.3607 16.4183 13.0351 17.4174 11.7419 17.4174C10.4487 17.4174 10.1208 16.418 9.81962 15.6791L6.84285 8.3896H9.35282L11.7416 14.3891L13.5218 10.0159C13.8039 9.3235 14.1395 8.27868 15.425 8.27868C16.7108 8.27868 17.049 9.32436 17.3318 10.0159L19.2684 14.7506C20.0483 13.5795 20.5022 12.1748 20.5022 10.6646C20.5022 6.57314 17.1687 3.25618 13.0562 3.25618C10.709 3.25618 8.50248 4.16583 6.84285 5.81719C5.18294 7.46854 4.26958 9.66426 4.26958 11.9997C4.26958 14.3352 5.18522 16.5309 6.84513 18.1822C8.50504 19.8336 10.7147 20.7433 13.0622 20.7433C13.8677 20.7433 14.6673 20.6332 15.4373 20.4199V22.7431C14.6522 22.9127 13.8646 22.9997 13.0622 22.9997C11.5702 22.9997 10.1159 22.7089 8.75227 22.1348C7.4357 21.5808 6.25343 20.7877 5.23826 19.778C4.22338 18.7682 3.42636 17.592 2.86945 16.2819C2.29257 14.9252 2 13.4845 2 12C2 10.5155 2.29257 9.07484 2.86916 7.71806C3.42608 6.40804 4.2231 5.23176 5.23798 4.22201C6.25286 3.21226 7.43513 2.41924 8.75199 1.86517C10.1159 1.29086 11.5639 1 13.0559 1C18.4209 1 22.7698 5.32728 22.7698 10.6649C22.7698 12.8732 22.0256 14.9083 20.7729 16.536Z"></path></symbol><symbol id="icon-facebook" viewBox="0 0 24 24"><path d="M17 2v4h-2c-0.69 0-1 0.81-1 1.5v2.5h3v4h-3v8h-4v-8h-3v-4h3v-4c0-1.061 0.421-2.078 1.172-2.828s1.767-1.172 2.828-1.172h3z"></path></symbol><symbol id="icon-filter" viewBox="0 0 24 24"><path d="M10 18h4v-2h-4v2zM3 6v2h18v-2h-18zM6 13h12v-2h-12v2z"></path></symbol><symbol id="icon-folder" viewBox="0 0 24 24"><path d="M10 4h-6c-1.1 0-1.99 0.9-1.99 2l-0.010 12c0 1.1 0.9 2 2 2h16c1.1 0 2-0.9 2-2v-10c0-1.1-0.9-2-2-2h-8l-2-2z"></path></symbol><symbol id="icon-gift" viewBox="0 0 24 24"><path d="M20 6h-2.18c0.11-0.31 0.18-0.65 0.18-1 0-1.66-1.34-3-3-3-1.050 0-1.96 0.54-2.5 1.35l-0.5 0.67-0.5-0.68c-0.54-0.8-1.45-1.34-2.5-1.34-1.66 0-3 1.34-3 3 0 0.35 0.070 0.69 0.18 1h-2.18c-1.11 0-1.99 0.89-1.99 2l-0.010 11c0 1.11 0.89 2 2 2h16c1.11 0 2-0.89 2-2v-11c0-1.11-0.89-2-2-2zM15 4c0.55 0 1 0.45 1 1s-0.45 1-1 1c-0.55 0-1-0.45-1-1s0.45-1 1-1zM9 4c0.55 0 1 0.45 1 1s-0.45 1-1 1c-0.55 0-1-0.45-1-1s0.45-1 1-1zM20 19h-16v-2h16v2zM20 14h-16v-6h5.080l-2.080 2.83 1.62 1.17 3.38-4.6 3.38 4.6 1.62-1.17-2.080-2.83h5.080v6z"></path></symbol><symbol id="icon-github" viewBox="0 0 24 24"><path d="M12 2c-1.313 0-2.614 0.259-3.827 0.761s-2.316 1.239-3.244 2.168c-1.875 1.875-2.929 4.419-2.929 7.071 0 4.42 2.87 8.17 6.84 9.5 0.5 0.080 0.66-0.23 0.66-0.5 0-0.23 0-0.86 0-1.69-2.77 0.6-3.36-1.34-3.36-1.34-0.46-1.16-1.11-1.47-1.11-1.47-0.91-0.62 0.070-0.6 0.070-0.6 1 0.070 1.53 1.030 1.53 1.030 0.87 1.52 2.34 1.070 2.91 0.83 0.090-0.65 0.35-1.090 0.63-1.34-2.22-0.25-4.55-1.11-4.55-4.92 0-1.11 0.38-2 1.030-2.71-0.1-0.25-0.45-1.29 0.1-2.64 0 0 0.84-0.27 2.75 1.020 0.79-0.22 1.65-0.33 2.5-0.33s1.71 0.11 2.5 0.33c1.91-1.29 2.75-1.020 2.75-1.020 0.55 1.35 0.2 2.39 0.1 2.64 0.65 0.71 1.030 1.6 1.030 2.71 0 3.82-2.34 4.66-4.57 4.91 0.36 0.31 0.69 0.92 0.69 1.85 0 1.34 0 2.42 0 2.74 0 0.27 0.16 0.59 0.67 0.5 3.97-1.34 6.83-5.080 6.83-9.5 0-1.313-0.259-2.614-0.761-3.827s-1.239-2.316-2.168-3.244-2.031-1.665-3.244-2.168c-1.213-0.503-2.514-0.761-3.827-0.761v0z"></path></symbol><symbol id="icon-hidden" viewBox="0 0 24 24"><path d="M12 7c2.76 0 5 2.24 5 5 0 0.65-0.13 1.26-0.36 1.83l2.92 2.92c1.51-1.26 2.7-2.89 3.43-4.75-1.73-4.39-6-7.5-11-7.5-1.4 0-2.74 0.25-3.98 0.7l2.16 2.16c0.57-0.23 1.18-0.36 1.83-0.36zM2 4.27l2.74 2.74c-1.66 1.29-2.96 3.010-3.74 4.99 1.73 4.39 6 7.5 11 7.5 1.55 0 3.030-0.3 4.38-0.84l0.42 0.42 2.93 2.92 1.27-1.27-17.73-17.73-1.27 1.27zM7.53 9.8l1.55 1.55c-0.050 0.21-0.080 0.43-0.080 0.65 0 1.66 1.34 3 3 3 0.22 0 0.44-0.030 0.65-0.080l1.55 1.55c-0.67 0.33-1.41 0.53-2.2 0.53-2.76 0-5-2.24-5-5 0-0.79 0.2-1.53 0.53-2.2zM11.84 9.020l3.15 3.15 0.020-0.16c0-1.66-1.34-3-3-3l-0.17 0.010z"></path></symbol><symbol id="icon-info" viewBox="0 0 24 24"><path d="M12 2c-5.52 0-10 4.48-10 10s4.48 10 10 10c5.52 0 10-4.48 10-10s-4.48-10-10-10zM13 17h-2v-6h2v6zM13 9h-2v-2h2v2z"></path></symbol><symbol id="icon-language" viewBox="0 0 24 24"><path d="M11.99 2c-5.52 0-9.99 4.48-9.99 10s4.47 10 9.99 10c5.53 0 10.010-4.48 10.010-10s-4.48-10-10.010-10zM18.92 8h-2.95c-0.32-1.25-0.78-2.45-1.38-3.56 1.84 0.63 3.37 1.91 4.33 3.56zM12 4.040c0.83 1.2 1.48 2.53 1.91 3.96h-3.82c0.43-1.43 1.080-2.76 1.91-3.96zM4.26 14c-0.16-0.64-0.26-1.31-0.26-2s0.1-1.36 0.26-2h3.38c-0.080 0.66-0.14 1.32-0.14 2s0.060 1.34 0.14 2h-3.38zM5.080 16h2.95c0.32 1.25 0.78 2.45 1.38 3.56-1.84-0.63-3.37-1.9-4.33-3.56zM8.030 8h-2.95c0.96-1.66 2.49-2.93 4.33-3.56-0.6 1.11-1.060 2.31-1.38 3.56zM12 19.96c-0.83-1.2-1.48-2.53-1.91-3.96h3.82c-0.43 1.43-1.080 2.76-1.91 3.96zM14.34 14h-4.68c-0.090-0.66-0.16-1.32-0.16-2s0.070-1.35 0.16-2h4.68c0.090 0.65 0.16 1.32 0.16 2s-0.070 1.34-0.16 2zM14.59 19.56c0.6-1.11 1.060-2.31 1.38-3.56h2.95c-0.96 1.65-2.49 2.93-4.33 3.56zM16.36 14c0.080-0.66 0.14-1.32 0.14-2s-0.060-1.34-0.14-2h3.38c0.16 0.64 0.26 1.31 0.26 2s-0.1 1.36-0.26 2h-3.38z"></path></symbol><symbol id="icon-lifetime" viewBox="0 0 24 24"><path d="M18.6 6.62c-1.44 0-2.8 0.56-3.77 1.53l-2.83 2.51-1.52 1.34h0.010l-2.69 2.39c-0.64 0.64-1.49 0.99-2.4 0.99-1.87 0-3.39-1.51-3.39-3.38s1.52-3.38 3.39-3.38c0.91 0 1.76 0.35 2.44 1.030l1.13 1 1.51-1.34-1.26-1.11c-1.020-1.020-2.38-1.58-3.82-1.58-2.98 0-5.4 2.42-5.4 5.38s2.42 5.38 5.4 5.38c1.44 0 2.8-0.56 3.77-1.53l2.83-2.5 0.010 0.010 1.51-1.36h-0.010l2.69-2.39c0.64-0.64 1.49-0.99 2.4-0.99 1.87 0 3.39 1.51 3.39 3.38s-1.52 3.38-3.39 3.38c-0.9 0-1.76-0.35-2.44-1.030l-1.14-1.010-1.51 1.34 1.27 1.12c1.020 1.010 2.37 1.57 3.82 1.57 2.98 0 5.4-2.41 5.4-5.38s-2.42-5.37-5.4-5.37z"></path></symbol><symbol id="icon-lightbulb" viewBox="0 0 24 24"><path d="M20 11h3v2h-3v-2zM1 11h3v2h-3v-2zM13 1v3h-2v-3h2zM4.92 3.5l2.13 2.14-1.42 1.41-2.13-2.12 1.42-1.43zM16.95 5.63l2.12-2.13 1.43 1.43-2.13 2.12-1.42-1.42zM12 6c1.591 0 3.117 0.632 4.243 1.757s1.757 2.651 1.757 4.243c0 2.22-1.21 4.16-3 5.2v1.8c0 0.265-0.105 0.52-0.293 0.707s-0.442 0.293-0.707 0.293h-4c-0.265 0-0.52-0.105-0.707-0.293s-0.293-0.442-0.293-0.707v-1.8c-1.79-1.040-3-2.98-3-5.2 0-1.591 0.632-3.117 1.757-4.243s2.651-1.757 4.243-1.757zM14 21v1c0 0.265-0.105 0.52-0.293 0.707s-0.442 0.293-0.707 0.293h-2c-0.265 0-0.52-0.105-0.707-0.293s-0.293-0.442-0.293-0.707v-1h4zM11 18h2v-2.13c1.73-0.44 3-2.010 3-3.87 0-1.061-0.421-2.078-1.172-2.828s-1.767-1.172-2.828-1.172-2.078 0.421-2.828 1.172c-0.75 0.75-1.172 1.768-1.172 2.828 0 1.86 1.27 3.43 3 3.87v2.13z"></path></symbol><symbol id="icon-link" viewBox="0 0 24 24"><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4v-1.9h-4c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9h-4c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2h-8v2zM17 7h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4v1.9h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"></path></symbol><symbol id="icon-linkedin" viewBox="0 0 24 24"><path d="M19 3c0.53 0 1.039 0.211 1.414 0.586s0.586 0.884 0.586 1.414v14c0 0.53-0.211 1.039-0.586 1.414s-0.884 0.586-1.414 0.586h-14c-0.53 0-1.039-0.211-1.414-0.586s-0.586-0.884-0.586-1.414v-14c0-0.53 0.211-1.039 0.586-1.414s0.884-0.586 1.414-0.586h14zM18.5 18.5v-5.3c0-0.865-0.343-1.694-0.955-2.305s-1.441-0.955-2.305-0.955c-0.85 0-1.84 0.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-0.77 0.62-1.4 1.39-1.4 0.371 0 0.727 0.147 0.99 0.41s0.41 0.619 0.41 0.99v4.93h2.79zM6.88 8.56c0.446 0 0.873-0.177 1.188-0.492s0.492-0.742 0.492-1.188c0-0.93-0.75-1.69-1.68-1.69-0.448 0-0.878 0.178-1.195 0.495s-0.495 0.747-0.495 1.195c0 0.93 0.76 1.68 1.69 1.68zM8.27 18.5v-8.37h-2.77v8.37h2.77z"></path></symbol><symbol id="icon-loading-spinner" viewBox="0 0 24 24"><path d="M4.979 4.879c-0.017 0.017-0.034 0.033-0.050 0.050-3.903 3.903-3.903 10.239 0 14.142s10.239 3.903 14.142 0c3.903-3.903 3.903-10.239 0-14.142-0.050-0.050-0.101-0.1-0.152-0.149l-2.122 2.122c0.052 0.049 0.103 0.098 0.153 0.149 2.732 2.732 2.732 7.168 0 9.9s-7.168 2.732-9.899 0c-2.732-2.732-2.732-7.168 0-9.9 0.017-0.017 0.034-0.033 0.051-0.050l-2.121-2.121z"></path></symbol><symbol id="icon-lock" viewBox="0 0 24 24"><path d="M18 9h-1v-2c0-2.76-2.24-5-5-5s-5 2.24-5 5v2h-1c-1.1 0-2 0.9-2 2v10c0 1.1 0.9 2 2 2h12c1.1 0 2-0.9 2-2v-10c0-1.1-0.9-2-2-2zM12 18c-1.1 0-2-0.9-2-2s0.9-2 2-2c1.1 0 2 0.9 2 2s-0.9 2-2 2zM15.1 9h-6.2v-2c0-1.71 1.39-3.1 3.1-3.1s3.1 1.39 3.1 3.1v2z"></path></symbol><symbol id="icon-logo-symbol" viewBox="0 0 24 24"><path d="M22.107 13.688c-0.075-0.059-0.16-0.098-0.252-0.115-0.545 0.526-1.21 1.080-1.8 1.452-0.272 0.175-0.615 0.263-0.842 0.263-0.522 0-0.749-0.482-0.817-1.249-0.091-1.030-0.152-2.263-0.152-4.169 0-1.955-0.458-3.284-1.678-3.388-0.051-0.004-0.104-0.007-0.158-0.007-0.749 0-1.112 0.372-1.589 1.315-0.408 0.81-1.044 1.993-2.224 4.228-1.022 1.928-2.157 3.637-3.133 4.82-0.272 0.328-0.487 0.553-0.689 0.681-0.135 0.086-0.264 0.129-0.401 0.129-0.385 0-0.667-0.315-0.761-1.048-0.022-0.174-0.034-0.372-0.034-0.595 0-1.512 0.59-3.965 1.612-7.58 0.749-2.629 0.431-4.425-1.203-4.425-0.003 0-0.005 0-0.008 0s-0.007 0-0.011 0l-0.001 0c-0.37 0.004-0.677 0.134-0.973 0.359-0.291 0.222-0.582 0.701-0.854 1.346-0.307 0.726-2.17 4.347-5.137 6.212-0.035 0.709 0.38 1.418 1.22 1.495 0.765 0.070 1.307-0.242 2.006-0.697-0.052 0.226-0.101 0.438-0.145 0.631-0.052 0.228-0.097 0.425-0.132 0.584-0.053 0.237-0.087 0.389-0.097 0.431-0.097 0.431-0.166 0.841-0.211 1.23-0.418 3.621 1.315 5.408 3.344 5.408 0.339 0 0.675-0.039 1.009-0.121 2.236-0.549 4.388-3.033 6.936-8.751-0.039 0.622-0.043 1.203-0.015 1.742 0.168 3.277 1.506 4.26 3.397 4.26 1.43 0 2.769-0.723 3.45-1.621 0.5-0.635 0.704-1.337 0.704-1.884 0-0.425-0.139-0.764-0.361-0.937z"></path></symbol><symbol id="icon-menu" viewBox="0 0 24 24"><path d="M3 18h18v-2h-18v2zM3 13h18v-2h-18v2zM3 6v2h18v-2h-18z"></path></symbol><symbol id="icon-merchandise-category" viewBox="0 0 24 24"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.19922 1C3.64693 1 3.19922 1.44772 3.19922 2V22C3.19922 22.5523 3.64693 23 4.19922 23H15.4823L15.4862 23H19.9691C20.5213 23 20.9691 22.5523 20.9691 22V13C20.9691 12.4581 20.538 12.0168 20 12.0005V4C20 3.44772 19.5523 3 19 3H16.4823V2C16.4823 1.44772 16.0346 1 15.4823 1H4.19922ZM18 12H16.4823V5H18V12ZM10.1416 16.1807C11.8408 16.1807 13.0811 15.1504 13.2031 13.6465H11.7676C11.626 14.4229 10.9912 14.9209 10.1465 14.9209C9.0332 14.9209 8.34473 13.9834 8.34473 12.4746C8.34473 10.9658 9.0332 10.0283 10.1416 10.0283C10.9814 10.0283 11.6211 10.5654 11.7627 11.3809H13.1982C13.0908 9.86719 11.8115 8.77344 10.1416 8.77344C8.0957 8.77344 6.83594 10.1846 6.83594 12.4746C6.83594 14.7646 8.10059 16.1807 10.1416 16.1807Z"></path></symbol><symbol id="icon-merchandise-course" viewBox="0 0 24 24"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.19922 1C3.64693 1 3.19922 1.44772 3.19922 2V22C3.19922 22.5523 3.64693 23 4.19922 23H15.4823L15.4862 23H19.9691C20.5213 23 20.9691 22.5523 20.9691 22V13C20.9691 12.4581 20.538 12.0168 20 12.0005V4C20 3.44772 19.5523 3 19 3H16.4823V2C16.4823 1.44772 16.0346 1 15.4823 1H4.19922ZM18 12H16.4823V5H18V12ZM13.0367 12.2702L8.65766 8.44717C8.01084 7.88249 7 8.34186 7 9.20049V16.0819C7 16.8904 7.90972 17.3647 8.57259 16.9017L12.9516 13.8433C13.4845 13.4712 13.5263 12.6976 13.0367 12.2702Z"></path></symbol><symbol id="icon-merchandise-subcategory" viewBox="0 0 24 24"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.19922 1C3.64693 1 3.19922 1.44772 3.19922 2V22C3.19922 22.5523 3.64693 23 4.19922 23H15.4823L15.4862 23H19.9691C20.5213 23 20.9691 22.5523 20.9691 22V13C20.9691 12.4581 20.538 12.0168 20 12.0005V4C20 3.44772 19.5523 3 19 3H16.4823V2C16.4823 1.44772 16.0346 1 15.4823 1H4.19922ZM18 12H16.4823V5H18V12ZM9.98047 16.1807C8.30078 16.1807 7.21191 15.3555 7.1582 14.0518H8.58398C8.65234 14.6377 9.22852 15.0137 10.0586 15.0137C10.8252 15.0137 11.3672 14.6279 11.3672 14.0811C11.3672 13.6172 11.0156 13.3486 10.1514 13.1582L9.2334 12.958C7.94922 12.6846 7.31934 12.0254 7.31934 10.9561C7.31934 9.64258 8.38867 8.77344 10.0146 8.77344C11.5674 8.77344 12.666 9.6377 12.71 10.8828H11.3232C11.2549 10.3066 10.7373 9.93066 10.0244 9.93066C9.28711 9.93066 8.79883 10.2871 8.79883 10.8389C8.79883 11.2832 9.13574 11.542 9.96094 11.7227L10.8105 11.9033C12.2266 12.2061 12.8369 12.8164 12.8369 13.9053C12.8369 15.3115 11.748 16.1807 9.98047 16.1807Z"></path></symbol><symbol id="icon-merchandise-top-level" viewBox="0 0 24 24"><path fill-rule="evenodd" clip-rule="evenodd" d="M3.19922 2C3.19922 1.44772 3.64693 1 4.19922 1H15.4823C16.0346 1 16.4823 1.44772 16.4823 2V3H19C19.5523 3 20 3.44772 20 4V12.0005C20.538 12.0168 20.9691 12.4581 20.9691 13V22C20.9691 22.5523 20.5213 23 19.9691 23H15.4862L15.4823 23H4.19922C3.64693 23 3.19922 22.5523 3.19922 22V2ZM16.4823 12H18V5H16.4823V12Z"></path></symbol><symbol id="icon-merchandise-topic" viewBox="0 0 24 24"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.19922 1C3.64693 1 3.19922 1.44772 3.19922 2V22C3.19922 22.5523 3.64693 23 4.19922 23H15.4823L15.4862 23H19.9691C20.5213 23 20.9691 22.5523 20.9691 22V13C20.9691 12.4581 20.538 12.0168 20 12.0005V4C20 3.44772 19.5523 3 19 3H16.4823V2C16.4823 1.44772 16.0346 1 15.4823 1H4.19922ZM18 12H16.4823V5H18V12ZM9.98047 16.1807C8.30078 16.1807 7.21191 15.3555 7.1582 14.0518H8.58398C8.65234 14.6377 9.22852 15.0137 10.0586 15.0137C10.8252 15.0137 11.3672 14.6279 11.3672 14.0811C11.3672 13.6172 11.0156 13.3486 10.1514 13.1582L9.2334 12.958C7.94922 12.6846 7.31934 12.0254 7.31934 10.9561C7.31934 9.64258 8.38867 8.77344 10.0146 8.77344C11.5674 8.77344 12.666 9.6377 12.71 10.8828H11.3232C11.2549 10.3066 10.7373 9.93066 10.0244 9.93066C9.28711 9.93066 8.79883 10.2871 8.79883 10.8389C8.79883 11.2832 9.13574 11.542 9.96094 11.7227L10.8105 11.9033C12.2266 12.2061 12.8369 12.8164 12.8369 13.9053C12.8369 15.3115 11.748 16.1807 9.98047 16.1807Z"></path></symbol><symbol id="icon-mobile" viewBox="0 0 24 24"><path d="M17 1.010l-10-0.010c-1.1 0-2 0.9-2 2v18c0 1.1 0.9 2 2 2h10c1.1 0 2-0.9 2-2v-18c0-1.1-0.9-1.99-2-1.99zM17 19h-10v-14h10v14z"></path></symbol><symbol id="icon-more" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-0.9 2-2s-0.9-2-2-2c-1.1 0-2 0.9-2 2s0.9 2 2 2zM12 10c-1.1 0-2 0.9-2 2s0.9 2 2 2c1.1 0 2-0.9 2-2s-0.9-2-2-2zM12 16c-1.1 0-2 0.9-2 2s0.9 2 2 2c1.1 0 2-0.9 2-2s-0.9-2-2-2z"></path></symbol><symbol id="icon-new" viewBox="0 0 24 24"><path d="M23 12l-2.44-2.78 0.34-3.68-3.61-0.82-1.89-3.18-3.4 1.46-3.4-1.46-1.89 3.18-3.61 0.81 0.34 3.68-2.44 2.79 2.44 2.78-0.34 3.69 3.61 0.82 1.89 3.18 3.4-1.47 3.4 1.46 1.89-3.18 3.61-0.82-0.34-3.68 2.44-2.78zM13 17h-2v-2h2v2zM13 13h-2v-6h2v6z"></path></symbol><symbol id="icon-next" viewBox="0 0 24 24"><path d="M8.59 7.41l4.58 4.59-4.58 4.59 1.41 1.41 6-6-6-6-1.41 1.41z"></path></symbol><symbol id="icon-notification" viewBox="0 0 24 24"><path d="M12 22c1.1 0 2-0.9 2-2h-4c0 1.1 0.9 2 2 2zM18 16v-5c0-3.070-1.63-5.64-4.5-6.32v-0.68c0-0.83-0.67-1.5-1.5-1.5s-1.5 0.67-1.5 1.5v0.68c-2.86 0.68-4.5 3.24-4.5 6.32v5l-2 2v1h16v-1zM16 17h-8v-6c0-2.48 1.51-4.5 4-4.5s4 2.020 4 4.5z"></path></symbol><symbol id="icon-open-in-new" viewBox="0 0 24 24"><path d="M19 19h-14v-14h7v-2h-7c-1.11 0-2 0.9-2 2v14c0 1.1 0.89 2 2 2h14c1.1 0 2-0.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41 9.83-9.83v3.59h2v-7h-7z"></path></symbol><symbol id="icon-people" viewBox="0 0 24 24"><path d="M16 10c1.66 0 2.99-1.34 2.99-3s-1.33-3-2.99-3c-1.66 0-3 1.34-3 3s1.34 3 3 3zM8 10c1.66 0 2.99-1.34 2.99-3s-1.33-3-2.99-3c-1.66 0-3 1.34-3 3s1.34 3 3 3zM8 12c-2.33 0-7 1.17-7 3.5v4.5h14v-4.5c0-2.33-4.67-3.5-7-3.5zM16 12c-0.29 0-0.62 0.020-0.97 0.050 1.16 0.84 1.97 1.97 1.97 3.45v4.5h6v-4.5c0-2.33-4.67-3.5-7-3.5z"></path></symbol><symbol id="icon-person" viewBox="0 0 24 24"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4c-2.21 0-4 1.79-4 4s1.79 4 4 4zM12 14c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"></path></symbol><symbol id="icon-play-overlay" viewBox="0 0 24 24"><circle cy="12" cx="12" fill="#1e1e1c" r="10"></circle><path d="M0 12A12 12 0 1 0 12 0 12 12 0 0 0 0 12zm18 .137L8.4 16.8V7.2l9.6 4.937z"></path></symbol><symbol id="icon-play" viewBox="0 0 24 24"><path opacity="0.9" d="M2 12c0 5.525 4.475 10 10 10s10-4.475 10-10c0-5.525-4.475-10-10-10s-10 4.475-10 10zM17 12.114l-8 3.886v-8l8 4.114z"></path></symbol><symbol id="icon-previous" viewBox="0 0 24 24"><path d="M15.41 16.59l-4.58-4.59 4.58-4.59-1.41-1.41-6 6 6 6 1.41-1.41z"></path></symbol><symbol id="icon-quiz" viewBox="0 0 24 24"><path d="M11 18H13V16H11V18ZM12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM12 20C7.59 20 4 16.41 4 12C4 7.59 7.59 4 12 4C16.41 4 20 7.59 20 12C20 16.41 16.41 20 12 20ZM12 6C9.79 6 8 7.79 8 10H10C10 8.9 10.9 8 12 8C13.1 8 14 8.9 14 10C14 12 11 11.75 11 15H13C13 12.75 16 12.5 16 10C16 7.79 14.21 6 12 6Z"></path></symbol><symbol id="icon-quote" viewBox="0 0 24 24"><path d="M7.932 3l-5.321 10.386c-0.382 0.847-0.611 1.618-0.611 2.542 0 2.619 1.832 4.468 4.58 4.468 2.595 0 4.58-2.003 4.58-4.622 0-2.003-1.374-3.774-3.206-4.314l3.13-8.319-0.349-0.141h-2.803z"></path><path d="M18.772 3l-5.321 10.386c-0.382 0.847-0.611 1.618-0.611 2.542 0 2.619 1.832 4.468 4.58 4.468 2.595 0 4.58-2.003 4.58-4.622 0-2.003-1.374-3.774-3.206-4.314l3.13-8.319-0.349-0.141h-2.803z"></path></symbol><symbol id="icon-rating-star" viewBox="0 0 24 24"><path d="M12 17.27l6.18 3.73-1.64-7.030 5.46-4.73-7.19-0.61-2.81-6.63-2.81 6.63-7.19 0.61 5.46 4.73-1.64 7.030 6.18-3.73z"></path></symbol><symbol id="icon-schedule" viewBox="0 0 24 24"><path d="M11 7H12.5V12.25L17 14.92L16.25 16.15L11 13V7Z"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M2 12C2 6.48 6.47 2 11.99 2C17.52 2 22 6.48 22 12C22 17.52 17.52 22 11.99 22C6.47 22 2 17.52 2 12ZM4 12C4 16.42 7.58 20 12 20C16.42 20 20 16.42 20 12C20 7.58 16.42 4 12 4C7.58 4 4 7.58 4 12Z"></path></symbol><symbol id="icon-search" viewBox="0 0 24 24"><path d="M15.5 14h-0.79l-0.28-0.27c0.98-1.14 1.57-2.62 1.57-4.23 0-3.59-2.91-6.5-6.5-6.5s-6.5 2.91-6.5 6.5c0 3.59 2.91 6.5 6.5 6.5 1.61 0 3.090-0.59 4.23-1.57l0.27 0.28v0.79l5 4.99 1.49-1.49-4.99-5zM9.5 14c-2.49 0-4.5-2.010-4.5-4.5s2.010-4.5 4.5-4.5c2.49 0 4.5 2.010 4.5 4.5s-2.010 4.5-4.5 4.5z"></path></symbol><symbol id="icon-security" viewBox="0 0 24 24"><path d="M12 1l-9 4v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12v-6l-9-4zM12 11.99h7c-0.53 4.12-3.28 7.79-7 8.94v-8.93h-7v-5.7l7-3.11v8.8z"></path></symbol><symbol id="icon-server" viewBox="0 0 24 24"><path d="M20 13h-16c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h16c0.55 0 1-0.45 1-1v-6c0-0.55-0.45-1-1-1zM7 19c-1.1 0-2-0.9-2-2s0.9-2 2-2 2 0.9 2 2-0.9 2-2 2zM20 3h-16c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h16c0.55 0 1-0.45 1-1v-6c0-0.55-0.45-1-1-1zM7 9c-1.1 0-2-0.9-2-2s0.9-2 2-2 2 0.9 2 2-0.9 2-2 2z"></path></symbol><symbol id="icon-share" viewBox="0 0 24 24"><path d="M23.25 10.75l-8.75-8.75v5c-8.75 1.25-12.5 7.5-13.75 13.75 3.125-4.375 7.5-6.375 13.75-6.375v5.125l8.75-8.75z"></path></symbol><symbol id="icon-slack" viewBox="0 0 24 24"><path d="M6 15C6 15.5304 5.78929 16.0391 5.41421 16.4142C5.03914 16.7893 4.53043 17 4 17C3.46957 17 2.96086 16.7893 2.58579 16.4142C2.21071 16.0391 2 15.5304 2 15C2 14.4696 2.21071 13.9609 2.58579 13.5858C2.96086 13.2107 3.46957 13 4 13H6V15ZM7 15C7 14.4696 7.21071 13.9609 7.58579 13.5858C7.96086 13.2107 8.46957 13 9 13C9.53043 13 10.0391 13.2107 10.4142 13.5858C10.7893 13.9609 11 14.4696 11 15V20C11 20.5304 10.7893 21.0391 10.4142 21.4142C10.0391 21.7893 9.53043 22 9 22C8.46957 22 7.96086 21.7893 7.58579 21.4142C7.21071 21.0391 7 20.5304 7 20V15ZM9 7C8.46957 7 7.96086 6.78929 7.58579 6.41421C7.21071 6.03914 7 5.53043 7 5C7 4.46957 7.21071 3.96086 7.58579 3.58579C7.96086 3.21071 8.46957 3 9 3C9.53043 3 10.0391 3.21071 10.4142 3.58579C10.7893 3.96086 11 4.46957 11 5V7H9ZM9 8C9.53043 8 10.0391 8.21071 10.4142 8.58579C10.7893 8.96086 11 9.46957 11 10C11 10.5304 10.7893 11.0391 10.4142 11.4142C10.0391 11.7893 9.53043 12 9 12H4C3.46957 12 2.96086 11.7893 2.58579 11.4142C2.21071 11.0391 2 10.5304 2 10C2 9.46957 2.21071 8.96086 2.58579 8.58579C2.96086 8.21071 3.46957 8 4 8H9ZM17 10C17 9.46957 17.2107 8.96086 17.5858 8.58579C17.9609 8.21071 18.4696 8 19 8C19.5304 8 20.0391 8.21071 20.4142 8.58579C20.7893 8.96086 21 9.46957 21 10C21 10.5304 20.7893 11.0391 20.4142 11.4142C20.0391 11.7893 19.5304 12 19 12H17V10ZM16 10C16 10.5304 15.7893 11.0391 15.4142 11.4142C15.0391 11.7893 14.5304 12 14 12C13.4696 12 12.9609 11.7893 12.5858 11.4142C12.2107 11.0391 12 10.5304 12 10V5C12 4.46957 12.2107 3.96086 12.5858 3.58579C12.9609 3.21071 13.4696 3 14 3C14.5304 3 15.0391 3.21071 15.4142 3.58579C15.7893 3.96086 16 4.46957 16 5V10ZM14 18C14.5304 18 15.0391 18.2107 15.4142 18.5858C15.7893 18.9609 16 19.4696 16 20C16 20.5304 15.7893 21.0391 15.4142 21.4142C15.0391 21.7893 14.5304 22 14 22C13.4696 22 12.9609 21.7893 12.5858 21.4142C12.2107 21.0391 12 20.5304 12 20V18H14ZM14 17C13.4696 17 12.9609 16.7893 12.5858 16.4142C12.2107 16.0391 12 15.5304 12 15C12 14.4696 12.2107 13.9609 12.5858 13.5858C12.9609 13.2107 13.4696 13 14 13H19C19.5304 13 20.0391 13.2107 20.4142 13.5858C20.7893 13.9609 21 14.4696 21 15C21 15.5304 20.7893 16.0391 20.4142 16.4142C20.0391 16.7893 19.5304 17 19 17H14Z"></path></symbol><symbol id="icon-sort" viewBox="0 0 24 24"><path d="M3 18h6v-2h-6v2zM3 6v2h18v-2h-18zM3 13h12v-2h-12v2z"></path></symbol><symbol id="icon-success" viewBox="0 0 24 24"><path d="M12 2c-5.52 0-10 4.48-10 10s4.48 10 10 10c5.52 0 10-4.48 10-10s-4.48-10-10-10zM10 17l-4.328-4.328 1.41-1.41 2.918 2.908 6.333-6.333 1.41 1.42-7.743 7.743z"></path></symbol><symbol id="icon-teach" viewBox="0 0 24 24"><path d="M20 17C20.5304 17 21.0391 16.7893 21.4142 16.4142C21.7893 16.0391 22 15.5304 22 15V4C22 3.46957 21.7893 2.96086 21.4142 2.58579C21.0391 2.21071 20.5304 2 20 2H9.46C9.81 2.61 10 3.3 10 4H20V15H11V17H20ZM15 7V9H9V22H7V16H5V22H3V14H1.5V9C1.5 8.46957 1.71071 7.96086 2.08579 7.58579C2.46086 7.21071 2.96957 7 3.5 7H15ZM8 4C8 4.53043 7.78929 5.03914 7.41421 5.41421C7.03914 5.78929 6.53043 6 6 6C5.46957 6 4.96086 5.78929 4.58579 5.41421C4.21071 5.03914 4 4.53043 4 4C4 3.46957 4.21071 2.96086 4.58579 2.58579C4.96086 2.21071 5.46957 2 6 2C6.53043 2 7.03914 2.21071 7.41421 2.58579C7.78929 2.96086 8 3.46957 8 4Z"></path></symbol><symbol id="icon-thumb-down" viewBox="0 0 24 24"><path d="M15 3h-9c-0.83 0-1.54 0.5-1.84 1.22l-3.020 7.050c-0.090 0.23-0.14 0.47-0.14 0.73v2c0 1.1 0.9 2 2 2h6.31l-0.95 4.57-0.030 0.32c0 0.41 0.17 0.79 0.44 1.060l1.060 1.050 6.59-6.59c0.36-0.36 0.58-0.86 0.58-1.41v-10c0-1.1-0.9-2-2-2zM15 15l-4.34 4.34 1.34-5.34h-9v-2l3-7h9v10zM19 3h4v12h-4v-12z"></path></symbol><symbol id="icon-thumb-up" viewBox="0 0 24 24"><path d="M9 21h9c0.83 0 1.54-0.5 1.84-1.22l3.020-7.050c0.090-0.23 0.14-0.47 0.14-0.73v-2c0-1.1-0.9-2-2-2h-6.31l0.95-4.57 0.030-0.32c0-0.41-0.17-0.79-0.44-1.060l-1.060-1.050-6.59 6.59c-0.36 0.36-0.58 0.86-0.58 1.41v10c0 1.1 0.9 2 2 2zM9 9l4.34-4.34-1.34 5.34h9v2l-3 7h-9v-10zM1 9h4v12h-4v-12z"></path></symbol><symbol id="icon-tick" viewBox="0 0 24 24"><path d="M9 16.17l-4.17-4.17-1.42 1.41 5.59 5.59 12-12-1.41-1.41-10.59 10.58z"></path></symbol><symbol id="icon-twitter" viewBox="0 0 24 24"><path d="M22.46 6c-0.77 0.35-1.6 0.58-2.46 0.69 0.88-0.53 1.56-1.37 1.88-2.38-0.83 0.5-1.75 0.85-2.72 1.050-0.79-0.86-1.9-1.36-3.16-1.36-2.35 0-4.27 1.92-4.27 4.29 0 0.34 0.040 0.67 0.11 0.98-3.56-0.18-6.73-1.89-8.84-4.48-0.37 0.63-0.58 1.37-0.58 2.15 0 1.49 0.75 2.81 1.91 3.56-0.71 0-1.37-0.2-1.95-0.5 0 0 0 0 0 0.030 0 2.080 1.48 3.82 3.44 4.21-0.36 0.1-0.74 0.15-1.13 0.15-0.27 0-0.54-0.030-0.8-0.080 0.54 1.69 2.11 2.95 4 2.98-1.46 1.16-3.31 1.84-5.33 1.84-0.34 0-0.68-0.020-1.020-0.060 1.9 1.22 4.16 1.93 6.58 1.93 7.88 0 12.21-6.54 12.21-12.21 0-0.19 0-0.37-0.010-0.56 0.84-0.6 1.56-1.36 2.14-2.23z"></path></symbol><symbol id="icon-video-group" viewBox="0 0 24 24"><path d="M4 6H2V20C2 21.1 2.9 22 4 22H18V20H4V6ZM20 2H8C6.9 2 6 2.9 6 4V16C6 17.1 6.9 18 8 18H20C21.1 18 22 17.1 22 16V4C22 2.9 21.1 2 20 2ZM12 14.5V5.5L18 10L12 14.5Z"></path></symbol><symbol id="icon-video-mashup" viewBox="0 0 24 24"><path d="M10 8v8l5-4-5-4zM19 3h-14c-1.1 0-2 0.9-2 2v14c0 1.1 0.9 2 2 2h14c1.1 0 2-0.9 2-2v-14c0-1.1-0.9-2-2-2zM19 19h-14v-14h14v14z"></path></symbol><symbol id="icon-video" viewBox="0 0 24 24"><path d="M21 3h-18c-1.11 0-2 0.89-2 2v12c0 1.1 0.89 2 2 2h5v2h8v-2h5c1.1 0 1.99-0.9 1.99-2l0.010-12c0-1.11-0.9-2-2-2zM21 17h-18v-12h18v12zM16 11l-7 4v-8l7 4z"></path></symbol><symbol id="icon-visible" viewBox="0 0 24 24"><path d="M12 4.5c-5 0-9.27 3.11-11 7.5 1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5c2.76 0 5 2.24 5 5s-2.24 5-5 5zM12 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c1.66 0 3-1.34 3-3s-1.34-3-3-3z"></path></symbol><symbol id="icon-warning" viewBox="0 0 24 24"><path d="M1 21h22l-11-19-11 19zM13 18h-2v-2h2v2zM13 14h-2v-5h2v5z"></path></symbol><symbol id="icon-whatsapp" viewBox="0 0 24 24"><path d="M16.75 13.96c0.25 0.13 0.41 0.2 0.46 0.3 0.060 0.11 0.040 0.61-0.21 1.18-0.2 0.56-1.24 1.1-1.7 1.12s-0.47 0.36-2.96-0.73c-2.49-1.090-3.99-3.75-4.11-3.92s-0.96-1.38-0.92-2.61c0.050-1.22 0.69-1.8 0.95-2.040 0.24-0.26 0.51-0.29 0.68-0.26h0.47c0.15 0 0.36-0.060 0.55 0.45l0.69 1.87c0.060 0.13 0.1 0.28 0.010 0.44l-0.27 0.41-0.39 0.42c-0.12 0.12-0.26 0.25-0.12 0.5 0.12 0.26 0.62 1.090 1.32 1.78 0.91 0.88 1.71 1.17 1.95 1.3 0.24 0.14 0.39 0.12 0.54-0.040l0.81-0.94c0.19-0.25 0.35-0.19 0.58-0.11l1.67 0.88zM12 2c1.313 0 2.614 0.259 3.827 0.761s2.316 1.239 3.244 2.168 1.665 2.031 2.168 3.244c0.503 1.213 0.761 2.514 0.761 3.827 0 2.652-1.054 5.196-2.929 7.071s-4.419 2.929-7.071 2.929c-1.97 0-3.8-0.57-5.35-1.55l-4.65 1.55 1.55-4.65c-0.98-1.55-1.55-3.38-1.55-5.35 0-2.652 1.054-5.196 2.929-7.071s4.419-2.929 7.071-2.929zM12 4c-2.122 0-4.157 0.843-5.657 2.343s-2.343 3.535-2.343 5.657c0 1.72 0.54 3.31 1.46 4.61l-0.96 2.89 2.89-0.96c1.3 0.92 2.89 1.46 4.61 1.46 2.122 0 4.157-0.843 5.657-2.343s2.343-3.535 2.343-5.657c0-2.122-0.843-4.157-2.343-5.657s-3.535-2.343-5.657-2.343z"></path></symbol><symbol id="icon-wishlisted" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32c-5.15-4.67-8.55-7.75-8.55-11.53 0-3.080 2.42-5.5 5.5-5.5 1.74 0 3.41 0.81 4.5 2.090 1.090-1.28 2.76-2.090 4.5-2.090 3.080 0 5.5 2.42 5.5 5.5 0 3.78-3.4 6.86-8.55 11.54l-1.45 1.31z"></path></symbol><symbol id="icon-youtube" viewBox="0 0 24 24"><path d="M10 15l5.19-3-5.19-3v6zM21.56 7.17c0.13 0.47 0.22 1.1 0.28 1.9 0.070 0.8 0.1 1.49 0.1 2.090l0.060 0.84c0 2.19-0.16 3.8-0.44 4.83-0.25 0.9-0.83 1.48-1.73 1.73-0.47 0.13-1.33 0.22-2.65 0.28-1.3 0.070-2.49 0.1-3.59 0.1l-1.59 0.060c-4.19 0-6.8-0.16-7.83-0.44-0.9-0.25-1.48-0.83-1.73-1.73-0.13-0.47-0.22-1.1-0.28-1.9-0.070-0.8-0.1-1.49-0.1-2.090l-0.060-0.84c0-2.19 0.16-3.8 0.44-4.83 0.25-0.9 0.83-1.48 1.73-1.73 0.47-0.13 1.33-0.22 2.65-0.28 1.3-0.070 2.49-0.1 3.59-0.1l1.59-0.060c4.19 0 6.8 0.16 7.83 0.44 0.9 0.25 1.48 0.83 1.73 1.73z"></path></symbol></defs></svg>
+<div class="ud-app-loader ud-component--event-tracking--tracker-initializer ud-app-loaded" data-module-id="event-tracking" data-module-priority="-10" ng-non-bindable=""></div>
+
+
+<div style="display: none; visibility: hidden;"><script>"undefined"===typeof fbq&&(!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js"),google_tag_manager["GTM-7BF3X"].macro(6)||fbq("init","1457291081167286"),fbq("init","399727027340013"),google_tag_manager["GTM-7BF3X"].macro(7)||fbq("trackSingle",
+"1457291081167286","PageView"),fbq("trackSingle","399727027340013","PageView"));</script></div><script type="text/javascript" id="" src="https://www.dwin1.com/6554.js"></script><script type="text/javascript" id="">(function(g,e,a,f,b,c,d){b.ire_o=a;b[a]=b[a]||function(){(b[a].a=b[a].a||[]).push(arguments)};c=f.createElement(e);d=f.getElementsByTagName(e)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})("//d.impactradius-event.com/A380319-1bcf-4b7b-9299-22e85825ceea1.js","script","ire",document,window);ire("identify",{customerId:google_tag_manager["GTM-7BF3X"].macro(8),customerEmail:google_tag_manager["GTM-7BF3X"].macro(9)});</script><div style="display: none; visibility: hidden;">
+  <script type="text/javascript">(function(a){window.DataLayer||(window.DataLayer={});DataLayer.events||(DataLayer.events={});DataLayer.events.SPIVersion=DataLayer.events.SPIVersion||"3.2";DataLayer.events.SiteSection="1";var b=document.createElement("script");b.type="text/javascript";b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)})(document.location.protocol+"//intljs.rmtag.com/111655.ct.js");</script>
+</div><div style="display: none; visibility: hidden;"><script>!function(a,b){if(!a.rdt){var c=a.rdt=function(){c.sendEvent?c.sendEvent.apply(c,arguments):c.callQueue.push(arguments)};c.callQueue=[];a=b.createElement("script");a.src="https://www.redditstatic.com/ads/pixel.js";a.async=!0;b=b.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}}(window,document);rdt("init","t2_65f22gux");rdt("track","PageVisit");</script>
+</div><div style="display: none; visibility: hidden;"><script>!function(d,e,f,a,b,c){d.twq||(a=d.twq=function(){a.exe?a.exe.apply(a,arguments):a.queue.push(arguments)},a.version="1.1",a.queue=[],b=e.createElement(f),b.async=!0,b.src="//static.ads-twitter.com/uwt.js",c=e.getElementsByTagName(f)[0],c.parentNode.insertBefore(b,c))}(window,document,"script");twq("init","o0f51");twq("track","PageView");</script>
+</div><script type="text/javascript" id="">var _kiq=_kiq||[];(function(){setTimeout(function(){var a=document,b=a.getElementsByTagName("script")[0];a=a.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://cl.qualaroo.com/ki.js/34436/6GL.js";b.parentNode.insertBefore(a,b)},1)})();</script>
+<iframe id="AWIN_CDT" src="about:blank" style="height: 0px !important; width: 0px !important; visibility: hidden !important; display: inherit !important; margin: 0px !important; border: 0px !important; padding: 0px !important;"></iframe><script src="https://analytics.twitter.com/i/adsct?type=javascript&amp;version=1.1.0&amp;p_id=Twitter&amp;p_user_id=0&amp;txn_id=o0f51&amp;events=%5B%5B%22pageview%22%2Cnull%5D%5D&amp;tw_sale_amount=0&amp;tw_order_quantity=0&amp;tw_iframe_status=0&amp;tpx_cb=twttr.conversion.loadPixels&amp;tw_document_href=https%3A%2F%2Fwww.udemy.com%2Fjoin%2Flogin-popup%2F%3Fskip_suggest%3D1%26locale%3Dpt_BR%26next%3Dhttps%253A%252F%252Fwww.udemy.com%252Fmobile%252Fipad%252F%26response_type%3Dhtml" type="text/javascript"></script><iframe id="qualaroo_dnt_frame" src="//dntcl.qualaroo.com/frame.html" style="width: 1px; height: 1px; display: none; opacity: 0;"></iframe><img height="1px" width="1px" style="display: none;" alt="" src="https://idsync.rlcdn.com/458359.gif?partner_uid=6204309a-fc80-6c1a-1412-36cdaf99bb81"></body></html>

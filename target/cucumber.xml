@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="12.695">
+<testcase classname="Login" name="Acesso sem Senha" time="10.74">
+<system-out><![CDATA[Dado que estou na pagina "https://login.webmotors.com.br/?&r:https://www.webmotors.com.br&inst=header:webmotors::logar-ou-cadastrar".passed
+Quando preencho o campo usuario com o valor "WIL.AMORIM23@GMAIL.COM"........passed
+E preencho o campo senha com o valor "WIL.AMORIM23@GMAIL.COM"...............passed
+Entao clico no botão Entrar.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

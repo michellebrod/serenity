@@ -1,0 +1,182 @@
+[
+  {
+    "line": 17,
+    "elements": [
+      {
+        "start_timestamp": "2020-11-14T05:03:56.191Z",
+        "before": [
+          {
+            "result": {
+              "duration": 163000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "br.com.selenium.bdd.stepDefinition.LoginSteps.beforehook(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "br.com.selenium.bdd.stepDefinition.LoginSteps.setParametersTMJ(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 29,
+        "name": "Acesso sem Senha",
+        "description": "",
+        "id": "login;acesso-sem-senha;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "br.com.selenium.bdd.stepDefinition.LoginSteps.updateResultTMJ(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Esquema do Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6404000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "que estou na pagina \"https://login.webmotors.com.br/?\u0026r:https://www.webmotors.com.br\u0026inst\u003dheader:webmotors::logar-ou-cadastrar\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://login.webmotors.com.br/?\u0026r:https://www.webmotors.com.br\u0026inst\u003dheader:webmotors::logar-ou-cadastrar\"",
+                  "offset": 20
+                }
+              ],
+              "location": "br.com.selenium.bdd.stepDefinition.LoginSteps.queEstouNaPaginaDeLogin(java.lang.String)"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 223000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "preencho o campo usuario com o valor \"WIL.AMORIM23@GMAIL.COM\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"WIL.AMORIM23@GMAIL.COM\"",
+                  "offset": 37
+                }
+              ],
+              "location": "br.com.selenium.bdd.stepDefinition.LoginSteps.preencho_o_campo_usuario_com_o_valor(java.lang.String)"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 146000000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "preencho o campo senha com o valor \"WIL.AMORIM23@GMAIL.COM\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"WIL.AMORIM23@GMAIL.COM\"",
+                  "offset": 35
+                }
+              ],
+              "location": "br.com.selenium.bdd.stepDefinition.LoginSteps.preencho_o_campo_senha_com_o_valor(java.lang.String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 370000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "clico no botão Entrar",
+            "match": {
+              "location": "br.com.selenium.bdd.stepDefinition.LoginSteps.clico_no_botão_Entrar()"
+            },
+            "keyword": "Entao "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Project:QAV"
+          },
+          {
+            "name": "@TestRunKey:QAV-R165"
+          },
+          {
+            "name": "@Issues:QAV-T378"
+          },
+          {
+            "name": "@TMJ"
+          },
+          {
+            "name": "@TesteRegressivo"
+          },
+          {
+            "name": "@Issue:QAV-T378"
+          }
+        ]
+      }
+    ],
+    "name": "Login",
+    "description": "",
+    "id": "login",
+    "keyword": "Funcionalidade",
+    "uri": "classpath:features//LoginTeste.feature",
+    "tags": [
+      {
+        "name": "@Project:QAV",
+        "type": "Tag",
+        "location": {
+          "line": 11,
+          "column": 1
+        }
+      },
+      {
+        "name": "@TestRunKey:QAV-R165",
+        "type": "Tag",
+        "location": {
+          "line": 12,
+          "column": 1
+        }
+      },
+      {
+        "name": "@Issues:QAV-T378",
+        "type": "Tag",
+        "location": {
+          "line": 13,
+          "column": 1
+        }
+      },
+      {
+        "name": "@TMJ",
+        "type": "Tag",
+        "location": {
+          "line": 14,
+          "column": 1
+        }
+      },
+      {
+        "name": "@TesteRegressivo",
+        "type": "Tag",
+        "location": {
+          "line": 16,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
