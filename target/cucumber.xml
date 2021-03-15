@@ -1,9 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="12.695">
-<testcase classname="Login" name="Acesso sem Senha" time="10.74">
-<system-out><![CDATA[Dado que estou na pagina "https://login.webmotors.com.br/?&r:https://www.webmotors.com.br&inst=header:webmotors::logar-ou-cadastrar".passed
-Quando preencho o campo usuario com o valor "WIL.AMORIM23@GMAIL.COM"........passed
-E preencho o campo senha com o valor "WIL.AMORIM23@GMAIL.COM"...............passed
-Entao clico no botão Entrar.................................................passed
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="51.066">
+<testcase classname="Cadastro" name="Cadastro de usuario com sucesso" time="12.087">
+<system-out><![CDATA[Dado que estou na pagina "http://prova.stefanini-jgr.com.br/teste/qa/"......passed
+Quando insiro o nome "Teste da Silva".......................................passed
+E insiro o email "teste@gmail.com"..........................................passed
+E insiro a senha "teste123".................................................passed
+E clico no botao cadastrar..................................................passed
+Então valido o cadastro na tabela...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Cadastro" name="validar campo obrigatorio" time="7.12">
+<system-out><![CDATA[Dado que estou na pagina "http://prova.stefanini-jgr.com.br/teste/qa/"......passed
+Quando clico no botao cadastrar.............................................passed
+Então valido a mensagem de erro nos campos obrigatorios.....................passed
+]]></system-out>
+</testcase>
+<testcase classname="Cadastro" name="validar cados invalidos nos campos" time="14.581">
+<system-out><![CDATA[Dado que estou na pagina "http://prova.stefanini-jgr.com.br/teste/qa/"......passed
+Quando insiro o nome "Teste"................................................passed
+E insiro o email "testegmail.com"...........................................passed
+E insiro a senha "teste"....................................................passed
+E clico no botao cadastrar..................................................passed
+Então valido a mensagem de erro dados invalidos.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Cadastro" name="validar exclusao dos dados na tabela" time="12.416">
+<system-out><![CDATA[Dado que estou na pagina "http://prova.stefanini-jgr.com.br/teste/qa/"......passed
+Quando insiro o nome "Teste da Silva".......................................passed
+E insiro o email "teste@gmail.com"..........................................passed
+E insiro a senha "teste123".................................................passed
+E clico no botao cadastrar..................................................passed
+Então excluo o cadastro realizado...........................................passed
 ]]></system-out>
 </testcase>
 </testsuite>

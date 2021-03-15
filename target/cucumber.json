@@ -1,179 +1,425 @@
 [
   {
-    "line": 17,
+    "line": 5,
     "elements": [
       {
-        "start_timestamp": "2020-11-14T05:03:56.191Z",
-        "before": [
-          {
-            "result": {
-              "duration": 163000000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "br.com.selenium.bdd.stepDefinition.LoginSteps.beforehook(io.cucumber.java.Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 1000000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "br.com.selenium.bdd.stepDefinition.LoginSteps.setParametersTMJ(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "line": 29,
-        "name": "Acesso sem Senha",
+        "start_timestamp": "2021-03-15T17:41:43.833Z",
+        "line": 18,
+        "name": "Cadastro de usuario com sucesso",
         "description": "",
-        "id": "login;acesso-sem-senha;;2",
-        "after": [
-          {
-            "result": {
-              "duration": 1000000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "br.com.selenium.bdd.stepDefinition.LoginSteps.updateResultTMJ(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
+        "id": "cadastro;cadastro-de-usuario-com-sucesso;;2",
         "type": "scenario",
-        "keyword": "Esquema do Cenario",
+        "keyword": "Esquema do Cenário",
         "steps": [
           {
             "result": {
-              "duration": 6404000000,
+              "duration": 4795000000,
               "status": "passed"
             },
-            "line": 21,
-            "name": "que estou na pagina \"https://login.webmotors.com.br/?\u0026r:https://www.webmotors.com.br\u0026inst\u003dheader:webmotors::logar-ou-cadastrar\"",
+            "line": 9,
+            "name": "que estou na pagina \"http://prova.stefanini-jgr.com.br/teste/qa/\"",
             "match": {
               "arguments": [
                 {
-                  "val": "\"https://login.webmotors.com.br/?\u0026r:https://www.webmotors.com.br\u0026inst\u003dheader:webmotors::logar-ou-cadastrar\"",
+                  "val": "\"http://prova.stefanini-jgr.com.br/teste/qa/\"",
                   "offset": 20
                 }
               ],
-              "location": "br.com.selenium.bdd.stepDefinition.LoginSteps.queEstouNaPaginaDeLogin(java.lang.String)"
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.queEstouNaPaginaDeLogin(java.lang.String)"
             },
             "keyword": "Dado "
           },
           {
             "result": {
-              "duration": 223000000,
+              "duration": 691000000,
               "status": "passed"
             },
-            "line": 22,
-            "name": "preencho o campo usuario com o valor \"WIL.AMORIM23@GMAIL.COM\"",
+            "line": 10,
+            "name": "insiro o nome \"Teste da Silva\"",
             "match": {
               "arguments": [
                 {
-                  "val": "\"WIL.AMORIM23@GMAIL.COM\"",
-                  "offset": 37
+                  "val": "\"Teste da Silva\"",
+                  "offset": 14
                 }
               ],
-              "location": "br.com.selenium.bdd.stepDefinition.LoginSteps.preencho_o_campo_usuario_com_o_valor(java.lang.String)"
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.insiro_o_nome(java.lang.String)"
             },
             "keyword": "Quando "
           },
           {
             "result": {
-              "duration": 146000000,
+              "duration": 317000000,
               "status": "passed"
             },
-            "line": 23,
-            "name": "preencho o campo senha com o valor \"WIL.AMORIM23@GMAIL.COM\"",
+            "line": 11,
+            "name": "insiro o email \"teste@gmail.com\"",
             "match": {
               "arguments": [
                 {
-                  "val": "\"WIL.AMORIM23@GMAIL.COM\"",
-                  "offset": 35
+                  "val": "\"teste@gmail.com\"",
+                  "offset": 15
                 }
               ],
-              "location": "br.com.selenium.bdd.stepDefinition.LoginSteps.preencho_o_campo_senha_com_o_valor(java.lang.String)"
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.insiro_o_email(java.lang.String)"
             },
             "keyword": "E "
           },
           {
             "result": {
-              "duration": 370000000,
+              "duration": 59000000,
               "status": "passed"
             },
-            "line": 24,
-            "name": "clico no botão Entrar",
+            "line": 12,
+            "name": "insiro a senha \"teste123\"",
             "match": {
-              "location": "br.com.selenium.bdd.stepDefinition.LoginSteps.clico_no_botão_Entrar()"
+              "arguments": [
+                {
+                  "val": "\"teste123\"",
+                  "offset": 15
+                }
+              ],
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.insiro_a_senha(java.lang.String)"
             },
-            "keyword": "Entao "
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 276000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "clico no botao cadastrar",
+            "match": {
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.clico_no_botao_cadastrar()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 46000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "valido o cadastro na tabela",
+            "match": {
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.valido_o_cadastro_na_tabela()"
+            },
+            "keyword": "Então "
           }
         ],
         "tags": [
           {
-            "name": "@Project:QAV"
+            "name": "@TesteRegressivo"
           },
           {
-            "name": "@TestRunKey:QAV-R165"
+            "name": "@Test1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-15T17:41:57.819Z",
+        "line": 28,
+        "name": "validar campo obrigatorio",
+        "description": "",
+        "id": "cadastro;validar-campo-obrigatorio;;2",
+        "type": "scenario",
+        "keyword": "Esquema do Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 3218000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "que estou na pagina \"http://prova.stefanini-jgr.com.br/teste/qa/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://prova.stefanini-jgr.com.br/teste/qa/\"",
+                  "offset": 20
+                }
+              ],
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.queEstouNaPaginaDeLogin(java.lang.String)"
+            },
+            "keyword": "Dado "
           },
           {
-            "name": "@Issues:QAV-T378"
+            "result": {
+              "duration": 266000000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "clico no botao cadastrar",
+            "match": {
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.clico_no_botao_cadastrar()"
+            },
+            "keyword": "Quando "
           },
           {
-            "name": "@TMJ"
-          },
+            "result": {
+              "duration": 118000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "valido a mensagem de erro nos campos obrigatorios",
+            "match": {
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.valido_a_mensagem_de_erro_nos_campos_obrigatorios()"
+            },
+            "keyword": "Então "
+          }
+        ],
+        "tags": [
           {
             "name": "@TesteRegressivo"
           },
           {
-            "name": "@Issue:QAV-T378"
+            "name": "@Test2"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-15T17:42:05.713Z",
+        "line": 41,
+        "name": "validar cados invalidos nos campos",
+        "description": "",
+        "id": "cadastro;validar-cados-invalidos-nos-campos;;2",
+        "type": "scenario",
+        "keyword": "Esquema do Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 6239000000,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "que estou na pagina \"http://prova.stefanini-jgr.com.br/teste/qa/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://prova.stefanini-jgr.com.br/teste/qa/\"",
+                  "offset": 20
+                }
+              ],
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.queEstouNaPaginaDeLogin(java.lang.String)"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 595000000,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "insiro o nome \"Teste\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Teste\"",
+                  "offset": 14
+                }
+              ],
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.insiro_o_nome(java.lang.String)"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 330000000,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "insiro o email \"testegmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"testegmail.com\"",
+                  "offset": 15
+                }
+              ],
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.insiro_o_email(java.lang.String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 53000000,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "insiro a senha \"teste\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"teste\"",
+                  "offset": 15
+                }
+              ],
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.insiro_a_senha(java.lang.String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 298000000,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "clico no botao cadastrar",
+            "match": {
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.clico_no_botao_cadastrar()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 120000000,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "valido a mensagem de erro dados invalidos",
+            "match": {
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.valido_a_mensagem_de_erro_dados_invalidos()"
+            },
+            "keyword": "Então "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@TesteRegressivo"
+          },
+          {
+            "name": "@Test3"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-15T17:42:21.029Z",
+        "line": 55,
+        "name": "validar exclusao dos dados na tabela",
+        "description": "",
+        "id": "cadastro;validar-exclusao-dos-dados-na-tabela;;2",
+        "type": "scenario",
+        "keyword": "Esquema do Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 4353000000,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "que estou na pagina \"http://prova.stefanini-jgr.com.br/teste/qa/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://prova.stefanini-jgr.com.br/teste/qa/\"",
+                  "offset": 20
+                }
+              ],
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.queEstouNaPaginaDeLogin(java.lang.String)"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 608000000,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "insiro o nome \"Teste da Silva\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Teste da Silva\"",
+                  "offset": 14
+                }
+              ],
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.insiro_o_nome(java.lang.String)"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 319000000,
+              "status": "passed"
+            },
+            "line": 48,
+            "name": "insiro o email \"teste@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"teste@gmail.com\"",
+                  "offset": 15
+                }
+              ],
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.insiro_o_email(java.lang.String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 58000000,
+              "status": "passed"
+            },
+            "line": 49,
+            "name": "insiro a senha \"teste123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"teste123\"",
+                  "offset": 15
+                }
+              ],
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.insiro_a_senha(java.lang.String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 280000000,
+              "status": "passed"
+            },
+            "line": 50,
+            "name": "clico no botao cadastrar",
+            "match": {
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.clico_no_botao_cadastrar()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 169000000,
+              "status": "passed"
+            },
+            "line": 51,
+            "name": "excluo o cadastro realizado",
+            "match": {
+              "location": "br.com.selenium.bdd.stepDefinition.CadastroSteps.excluo_o_cadastro_realizado()"
+            },
+            "keyword": "Então "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@TesteRegressivo"
+          },
+          {
+            "name": "@Test4"
           }
         ]
       }
     ],
-    "name": "Login",
+    "name": "Cadastro",
     "description": "",
-    "id": "login",
+    "id": "cadastro",
     "keyword": "Funcionalidade",
-    "uri": "classpath:features//LoginTeste.feature",
+    "uri": "classpath:features//Cadastro.feature",
     "tags": [
-      {
-        "name": "@Project:QAV",
-        "type": "Tag",
-        "location": {
-          "line": 11,
-          "column": 1
-        }
-      },
-      {
-        "name": "@TestRunKey:QAV-R165",
-        "type": "Tag",
-        "location": {
-          "line": 12,
-          "column": 1
-        }
-      },
-      {
-        "name": "@Issues:QAV-T378",
-        "type": "Tag",
-        "location": {
-          "line": 13,
-          "column": 1
-        }
-      },
-      {
-        "name": "@TMJ",
-        "type": "Tag",
-        "location": {
-          "line": 14,
-          "column": 1
-        }
-      },
       {
         "name": "@TesteRegressivo",
         "type": "Tag",
         "location": {
-          "line": 16,
+          "line": 4,
           "column": 1
         }
       }
